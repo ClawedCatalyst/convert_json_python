@@ -62,13 +62,26 @@ def convert_to_json_file(content):
 
         elif line.startswith("[QUESTION]"):
             """now store the question"""
+            question_string = ""
+            current_index = index + 1
+            while lines[current_index] != "[OPTION 1]":
+                if lines[current_index].startswith("![original image]"):
+                    current_index = current_index + 1
+                else:
+                    question_string += lines[current_index]
+                    current_index = current_index + 1
+                    if lines[current_index] != "[OPTION 1]":
+                        question_string += "\n"
 
-            question_object["question"] = {"text": lines[index + 1], "image": None}
+            question_object["question"] = {"text": question_string, "image": None}
 
         elif line.startswith("[OPTION"):
             """store the options"""
+            if not lines[index + 1].startswith("![original image]"):
+                option_text = lines[index + 1]
+            else:
+                option_text = None
 
-            option_text = lines[index + 1]
             is_correct = False
 
             if "options" not in question_object:
@@ -90,18 +103,21 @@ def convert_to_json_file(content):
 
             # extract the solution text and save it in the question_object
             solution = "No Solution Available"
+            solution_string = ""
+            current_index = index + 2
+            while lines[current_index] != "[OBJECT END]":
+                if lines[current_index].startswith("![original image]"):
+                    current_index = current_index + 1
+                else:
+                    solution_string += lines[current_index]
+                    current_index = current_index + 1
+                    if lines[current_index] != "[OBJECT END]":
+                        solution_string += "\n"
 
-            if lines[index + 2].startswith("![original image]") and not lines[
-                index + 3
-            ].startswith("[OBJECT END]"):
-                solution = lines[index + 3]
+            if solution_string == "":
+                solution_string = "No Solution Available"
 
-            elif not lines[index + 2].startswith("![original image]") and not lines[
-                index + 2
-            ].startswith("[OBJECT END]"):
-                solution = lines[index + 2]
-
-            question_object["solution"] = {"text": solution, "image": None}
+            question_object["solution"] = {"text": solution_string, "image": None}
         elif line.startswith("![original image]"):
             regex = r"\((.*?)\)"
             url = re.search(regex, line)

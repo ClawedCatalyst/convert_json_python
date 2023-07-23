@@ -1,6 +1,6 @@
 [
   {
-    "id": "e1c627a7a6973c57cd35fd93",
+    "id": "9088a5c1b15e9f0324379ca4",
     "type": "singleCorrect",
     "question": {
       "text": "The distance of the centres of moon and earth is D. The mass of earth is 81 times the mass of the moon. At what distance from the centre of the earth, the gravitational force will be zero?",
@@ -8,37 +8,37 @@
     },
     "options": [
       {
-        "id": "IALTH",
+        "id": "hwbOT",
         "text": "$\\frac{D}{2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "JZjxV",
+        "id": "UWtNG",
         "text": "$\\frac{2 D}{3}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bJjWR",
+        "id": "DpQGo",
         "text": "$\\frac{4 D}{3}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Oykcq",
+        "id": "WEfEP",
         "text": "$\\frac{9 D}{10}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text { ( } \\frac{G m_e}{x^2}=\\frac{G m_m}{(D-x)^2} \\\\\n& \\text { or } \\frac{G(81 m)}{x^2}=\\frac{m}{(D-x)^2} \\\\\n& \\therefore \\quad x=\\frac{9 D}{10} .\n\\end{aligned}\n$$\n",
       "image": null
     }
   },
   {
-    "id": "9d7266558233218c5506c1e6",
+    "id": "2e21251671ac5eed4dcd7836",
     "type": "singleCorrect",
     "question": {
       "text": "Two wires $A$ and $B$ are of the same material. Their lengths are in the ratio of $1: 2$ and the diameter are in the ratio $2: 1$. If they are pulled by the same force, then increase in length will be in the ratio of",
@@ -46,37 +46,37 @@
     },
     "options": [
       {
-        "id": "Xnjkn",
+        "id": "UqRMo",
         "text": "$2: 1$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "sugPe",
+        "id": "CkRMg",
         "text": "$1: 4$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "mroWt",
+        "id": "GmvEb",
         "text": "$1: 8$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "ovUqU",
+        "id": "bbxFp",
         "text": "$8: 1$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "We know that Young's modulus",
+      "text": "We know that Young's modulus\n$$\n\\mathrm{Y}=\\frac{\\mathrm{F}}{\\pi \\mathrm{r}^2} \\times \\frac{\\mathrm{L}}{\\ell}\n$$\nSince Y, F are same for both the wires, we have,\n$$\n\\begin{aligned}\n& \\frac{1}{\\mathrm{r}_1^2} \\frac{\\mathrm{L}_1}{\\ell_1}=\\frac{1}{\\mathrm{r}_2^2} \\frac{\\mathrm{L}_2}{\\ell_2} \\quad \\text { or, } \\frac{\\ell_1}{\\ell_2}=\\frac{\\mathrm{r}_2^2 \\times \\mathrm{L}_1}{\\mathrm{r}_1^2 \\times \\mathrm{L}_2}= \\\\\n& \\frac{\\left(\\mathrm{D}_2 / 2\\right)^2 \\times \\mathrm{L}_1}{\\left(\\mathrm{D}_1 / 2\\right)^2 \\times \\mathrm{L}_2} \\\\\n& \\text { or, } \\frac{\\ell_1}{\\ell_2}=\\frac{\\mathrm{D}_2^2 \\times \\mathrm{L}_1}{\\mathrm{D}_1^2 \\times \\mathrm{L}_2}=\\frac{\\mathrm{D}_2^2}{\\left(2 \\mathrm{D}_2\\right)^2} \\times \\frac{\\mathrm{L}_2}{2 \\mathrm{~L}_2}=\\frac{1}{8} \\\\\n& \\text { So, } \\ell_1: \\ell_2=1: 8\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "02f83d674d0c37dbe11001dc",
+    "id": "1c5be19634edbb53ff74d31a",
     "type": "singleCorrect",
     "question": {
       "text": "If $x=a t+b t^2$, where $x$ is the distance travelled by the body in kilometers while $t$ is the time in seconds, then the unit of $b$ is",
@@ -84,25 +84,25 @@
     },
     "options": [
       {
-        "id": "MbHzM",
+        "id": "hryIM",
         "text": "$\\mathrm{km} / \\mathrm{s}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "rhoDC",
+        "id": "VPFdR",
         "text": "$\\mathrm{kms}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "mpiBH",
+        "id": "gLrPb",
         "text": "$\\mathrm{km} / \\mathrm{s}^2$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "ZuJVl",
+        "id": "sYojl",
         "text": "$\\mathrm{kms}^2$",
         "image": null,
         "isCorrect": false
@@ -114,7 +114,7 @@
     }
   },
   {
-    "id": "476edc0a31af4c2e131bc0c1",
+    "id": "6525d617ffe1af4f8015a87c",
     "type": "singleCorrect",
     "question": {
       "text": "A soap bubble of radius $r_1$ is placed on another soap bubble of radius $r_2\\left(r_1<r_2\\right)$. The radius $\\mathrm{R}$ of the soapy film separating the two bubbles is",
@@ -122,25 +122,25 @@
     },
     "options": [
       {
-        "id": "MkxtL",
+        "id": "BatEO",
         "text": "$r_2+r_2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "OhVvn",
+        "id": "lVPVa",
         "text": "$\\frac{r_2=r_1}{r_1 r_2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "FgZGD",
+        "id": "ArkAh",
         "text": "$\\frac{r_1 r_2}{r_2-r_1}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "KwWcw",
+        "id": "RtjaP",
         "text": "$\\sqrt{r_1^2+r_2^2}$",
         "image": null,
         "isCorrect": false
@@ -152,7 +152,7 @@
     }
   },
   {
-    "id": "0f5b621ed38e3dc6773fc182",
+    "id": "05c4ef185ba2b774bec062ce",
     "type": "singleCorrect",
     "question": {
       "text": "A charge $\\mathrm{q}$ is moving with a velocity $\\mathrm{v}$ parallel to a magnetic field $B$. Force on the charge due to magnetic field is",
@@ -160,25 +160,25 @@
     },
     "options": [
       {
-        "id": "tKTKA",
+        "id": "XAlRg",
         "text": "q $\\mathrm{q} B$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "tNIAl",
+        "id": "zBiyk",
         "text": "$q$ B/v",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "eGhXE",
+        "id": "PWxto",
         "text": "zero",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "KEQJb",
+        "id": "kTooH",
         "text": "$\\mathrm{B}$ v/q",
         "image": null,
         "isCorrect": false
@@ -190,45 +190,45 @@
     }
   },
   {
-    "id": "aae9aaf2fd17d4e9c6e7159a",
+    "id": "05cc16649bffc74aefb0e2c5",
     "type": "singleCorrect",
     "question": {
-      "text": "Two spheres $A$ and $B$ of masses $m$ and $2 m$ and radii $2 R$ and $R$ respectively are placed in contact as shown. The COM of the system lies",
+      "text": "Two spheres $A$ and $B$ of masses $m$ and $2 m$ and radii $2 R$ and $R$ respectively are placed in contact as shown. The COM of the system lies\n",
       "image": null
     },
     "options": [
       {
-        "id": "XUAFp",
+        "id": "TeSuS",
         "text": "inside $A$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "mIWOZ",
+        "id": "DavWY",
         "text": "inside $B$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "YqYLY",
+        "id": "caOhR",
         "text": "at the point of contact",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "ilSiI",
+        "id": "RYUko",
         "text": "None of these",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "As mass of $\\mathrm{B}$ is twice that of $\\mathrm{A}$.",
+      "text": "As mass of $\\mathrm{B}$ is twice that of $\\mathrm{A}$.\nAnd, $\\frac{\\mathrm{r}_1}{\\mathrm{r}_2}=\\frac{\\mathrm{m}_2}{\\mathrm{~m}_1}$",
       "image": null
     }
   },
   {
-    "id": "14459edf2b907982c5a29a55",
+    "id": "1c8507feda78197d0d9fc714",
     "type": "singleCorrect",
     "question": {
       "text": "Identify the correct statement.",
@@ -236,25 +236,25 @@
     },
     "options": [
       {
-        "id": "cyDhm",
+        "id": "HZDnH",
         "text": "Static friction depends on the area of contact",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "cyFEc",
+        "id": "fYtOa",
         "text": "Kinetic friction depends on the area of contact",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "WHINQ",
+        "id": "cPZJE",
         "text": "Coefficient of kinetic friction is more than the coefficient of static friction",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "GjWKa",
+        "id": "KuwGR",
         "text": "Coefficient of kinetic friction is less than the coefficient of static friction",
         "image": null,
         "isCorrect": true
@@ -266,7 +266,7 @@
     }
   },
   {
-    "id": "be346e560dbece41f311c7b8",
+    "id": "82cae0dc2d80e3c334da019f",
     "type": "singleCorrect",
     "question": {
       "text": "The distance travelled by a particle starting from rest and moving with an acceleration $\\frac{4}{3} \\mathrm{~ms}^{-2}$, in the third second is:",
@@ -274,37 +274,37 @@
     },
     "options": [
       {
-        "id": "IIbcX",
+        "id": "bQmri",
         "text": "$6 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "SkVnB",
+        "id": "clDbB",
         "text": "$4 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "YXNJS",
+        "id": "WmuSK",
         "text": "$\\frac{10}{3} \\mathrm{~m}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "IRkcd",
+        "id": "jewGS",
         "text": "$\\frac{19}{3} \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Distance travelled in the $n$th second is given by $d_n=u+\\frac{a}{2}(2 n-1)$",
+      "text": "Distance travelled in the $n$th second is given by $d_n=u+\\frac{a}{2}(2 n-1)$\n$$\n\\begin{aligned}\n& \\text { put } \\mathrm{u}=0, \\mathrm{a}=\\frac{4}{3} \\mathrm{~ms}^{-2}, \\mathrm{n}=3 \\\\\n& \\therefore \\mathrm{d}=0+\\frac{4}{3 \\times 2}(2 \\times 3-1)=\\frac{4}{6} \\times 5=\\frac{10}{3} \\mathrm{~m}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "90e0ed45a496bac753f0f767",
+    "id": "d5d81d82204a8f8813cb4f6a",
     "type": "singleCorrect",
     "question": {
       "text": "Photoelectric work function of a metal is $1 \\mathrm{eV}$. Light of wavelength $\\lambda=3000 \\AA$ falls on it. The photo electrons come out with a maximum velocity of :",
@@ -312,37 +312,37 @@
     },
     "options": [
       {
-        "id": "yRBHq",
+        "id": "ocxgQ",
         "text": "10 metres/sec",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bDAyH",
+        "id": "JkoRG",
         "text": "$10^2$ metres $/ \\mathrm{sec}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "AOprq",
+        "id": "IMJot",
         "text": "$10^4$ metres $/ \\mathrm{sec}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "sRndr",
+        "id": "ApzDp",
         "text": "$10^6$ metres $/ \\mathrm{sec}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } h v=W+\\frac{1}{2} m v^2 \\quad \\text { or } \\frac{h c}{\\lambda}=W+\\frac{1}{2} m v^2 \\\\\n& \\text { Here } \\lambda=3000 \\AA=3000 \\times 10^{-10} \\mathrm{~m} \\\\\n& \\text { and } \\mathrm{W}=1 \\mathrm{eV}=1.6 \\times 10^{-19} \\text { joule }\n\\end{aligned}\n$$\n\n$$\n\\begin{aligned}\n& \\therefore \\frac{\\left(6.6 \\times 10^{-34}\\right)\\left(3 \\times 10^8\\right)}{3000 \\times 10^{-10}} \\\\\n& =\\left(1.6 \\times 10^{-19}\\right)+\\frac{1}{2} \\times\\left(9.1 \\times 10^{-31}\\right) \\mathrm{v}^2\n\\end{aligned}\n$$\nSolving we get, $v \\cong 10^6 \\mathrm{~m} / \\mathrm{s}$",
       "image": null
     }
   },
   {
-    "id": "9329b2f9ab9f4d9eb26d3331",
+    "id": "06c21a5cafacf44475d577b0",
     "type": "singleCorrect",
     "question": {
       "text": "The coefficient of apparent expansion of mercury in a glass vessel is $153 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$ and in a steel ${ }^6 /{ }^{\\circ} \\mathrm{C}$, then that of glass is",
@@ -350,37 +350,37 @@
     },
     "options": [
       {
-        "id": "qOTFH",
+        "id": "zfTuR",
         "text": "$9 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "eNCiN",
+        "id": "bLElO",
         "text": "$6 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "FXuOa",
+        "id": "jcavw",
         "text": "$36 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "KoRBa",
+        "id": "Rydcz",
         "text": "$27 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\gamma_{\\text {real }}=\\gamma_{\\text {app. }}+\\gamma_{\\text {vessel }} \\\\\n& \\text { So }\\left(\\gamma_{\\text {app. }}+\\gamma_{\\text {vessel }}\\right)_{\\text {glass }}=\\left(\\gamma_{\\text {app }}+\\gamma_{\\text {vessel }}\\right)_{\\text {steel }} \\\\\n& \\Rightarrow 153 \\times 10^{-6}+\\left(\\gamma_{\\text {vessel }}\\right)_{\\text {glass }} \\\\\n& =144 \\times 10^{-6}+\\left(\\gamma_{\\text {vessel }}\\right)_{\\text {steel }}\n\\end{aligned}\n$$\nFurther,\n$$\n\\begin{aligned}\n& \\left(\\gamma_{\\text {vessel }}\\right)_{\\text {steel }}=3 \\alpha=3 \\times\\left(12 \\times 10^{-6}\\right) \\\\\n& \\quad=36 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C} \\\\\n& \\Rightarrow 153 \\times 10^{-6}+\\left(\\gamma_{\\text {vessel }}\\right)_{\\text {glass }} \\\\\n& =144 \\times 10^{-6}+36 \\times 10^{-6} \\\\\n& \\Rightarrow\\left(\\gamma_{\\text {vessel }}\\right)_{\\text {glass }}=3 \\alpha=27 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C} \\\\\n& \\Rightarrow \\alpha=9 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "e08a2421570b2d74e47d0a72",
+    "id": "c2d6ea258d7afb09d47951f5",
     "type": "singleCorrect",
     "question": {
       "text": "A step-up transformer operates on a $230 \\mathrm{~V}$ line and supplies a load of 2 ampere. The ratio of the primary and secondary windings is $1: 25$. The current in the primary is",
@@ -388,25 +388,25 @@
     },
     "options": [
       {
-        "id": "uyTfW",
+        "id": "wqEEZ",
         "text": "$15 \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "SRPJr",
+        "id": "yAWPO",
         "text": "$50 \\mathrm{~A}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "NdWHR",
+        "id": "MRVGk",
         "text": "$25 \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "YpmuZ",
+        "id": "TmlYS",
         "text": "$12.5 \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
@@ -418,7 +418,7 @@
     }
   },
   {
-    "id": "f9ea689a75f201e4948a56ca",
+    "id": "b590e232b662c9b966a3b60a",
     "type": "singleCorrect",
     "question": {
       "text": "Two bodies of same mass are projected with the same velocity at an angle $30^{\\circ}$ and $60^{\\circ}$ respectively. The ratio of their horizontal ranges will be",
@@ -426,25 +426,25 @@
     },
     "options": [
       {
-        "id": "yruMp",
+        "id": "kPwqn",
         "text": "$1: 1$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "Getck",
+        "id": "IKLQD",
         "text": "$1: 2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "iZzSD",
+        "id": "QFohE",
         "text": "$1: 3$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "MMQaR",
+        "id": "qwhfl",
         "text": "$2: \\sqrt{2}$",
         "image": null,
         "isCorrect": false
@@ -456,7 +456,7 @@
     }
   },
   {
-    "id": "1b7ca33fb0717b90b7b9b004",
+    "id": "d1225768bd39c617eb81bc6c",
     "type": "singleCorrect",
     "question": {
       "text": "Two point charges $+3 \\mu C$ and $+8 \\mu C$ repel each other with a force of $40 \\mathrm{~N}$. If a charge of $-5 \\mu \\mathrm{C}$ is added to each of them, then the force between them will become",
@@ -464,25 +464,25 @@
     },
     "options": [
       {
-        "id": "PSlhC",
+        "id": "HjciO",
         "text": "$-10 \\mathrm{~N}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "KMPsK",
+        "id": "NYFNa",
         "text": "$+10 \\mathrm{~N}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xPQyZ",
+        "id": "hpXzD",
         "text": "$+20 \\mathrm{~N}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xsyyT",
+        "id": "MiLsu",
         "text": "$-20 \\mathrm{~N}$",
         "image": null,
         "isCorrect": false
@@ -494,7 +494,7 @@
     }
   },
   {
-    "id": "318ff49b952ac304ec104457",
+    "id": "4a206c5ceb124091d1ede991",
     "type": "singleCorrect",
     "question": {
       "text": "A sphere rolls down on an inclined plane of inclination $\\theta$. What is the acceleration as the sphere reaches the bottom?",
@@ -502,25 +502,25 @@
     },
     "options": [
       {
-        "id": "zqmcM",
+        "id": "MZelp",
         "text": "$\\frac{5}{7} g \\sin \\theta$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "AhAgz",
+        "id": "NtCKb",
         "text": "$\\frac{3}{5} g \\sin \\theta$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "OtnJA",
+        "id": "CtVKh",
         "text": "$\\frac{2}{7} g \\sin \\theta$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "CZTdK",
+        "id": "QtEef",
         "text": "$\\frac{2}{5} g \\sin \\theta$",
         "image": null,
         "isCorrect": false
@@ -532,83 +532,83 @@
     }
   },
   {
-    "id": "647a60646655bc249eb2f68e",
+    "id": "c4285a8f810a94205023002e",
     "type": "singleCorrect",
     "question": {
-      "text": "A given ray of light suffers minimum deviation in an equilateral prism P. Additional prisms Q and R of identical shape and of same material as that of $\\mathrm{P}$ are now combined as shown in figure. The ray will now suffer",
+      "text": "A given ray of light suffers minimum deviation in an equilateral prism P. Additional prisms Q and R of identical shape and of same material as that of $\\mathrm{P}$ are now combined as shown in figure. The ray will now suffer\n",
       "image": null
     },
     "options": [
       {
-        "id": "mehqz",
+        "id": "Xjxem",
         "text": "greater deviation",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "OudNZ",
+        "id": "afoQQ",
         "text": "no deviation",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "drTma",
+        "id": "ifkuK",
         "text": "same deviation as before",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "xiosw",
+        "id": "KBJTQ",
         "text": "total internal reflection",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "When the ray suffers minimum deviation, it becomes parallel to the base of prism P. As prisms $\\mathrm{Q}$ and $\\mathrm{R}$ are of same material and have identical shape, therefore, the ray continues to be parallel to base of $Q$ and $R$. Hence final deviation of the ray remains the same as before.",
+      "text": "When the ray suffers minimum deviation, it becomes parallel to the base of prism P. As prisms $\\mathrm{Q}$ and $\\mathrm{R}$ are of same material and have identical shape, therefore, the ray continues to be parallel to base of $Q$ and $R$. Hence final deviation of the ray remains the same as before.\n",
       "image": null
     }
   },
   {
-    "id": "c772b66cb0b0c29fb5e2fa68",
+    "id": "b721992cb85ebf5f5d1f0e18",
     "type": "singleCorrect",
     "question": {
-      "text": "The current in the $1 \\Omega$ resistor shown in the circuit is",
+      "text": "The current in the $1 \\Omega$ resistor shown in the circuit is\n",
       "image": null
     },
     "options": [
       {
-        "id": "NxoSj",
+        "id": "WMHAM",
         "text": "$\\frac{2}{3} \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "mlNAN",
+        "id": "qXPmW",
         "text": "$3 \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "CYTPx",
+        "id": "hedSC",
         "text": "$6 \\mathrm{~A}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "MihVf",
+        "id": "tjRqF",
         "text": "$2 \\mathrm{~A}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Two $4 \\Omega$ resistors are in parallel combination. Their equivalent resistance",
+      "text": "Two $4 \\Omega$ resistors are in parallel combination. Their equivalent resistance\n$$\n=\\frac{4 \\times 4}{4+4}=\\frac{16}{8}=2 \\Omega\n$$\n$\\therefore$ Total resistance of the network $=2+1=$\n$3 \\Omega$\n$\\therefore$ Current through $1 \\Omega$ resistor $=\\frac{6}{3}=2 \\mathrm{~A}$",
       "image": null
     }
   },
   {
-    "id": "78654807ad8e57c94f5da356",
+    "id": "be63c54ec31f9f83008db47c",
     "type": "singleCorrect",
     "question": {
       "text": "The root mean square velocity of hydrogen molecules at $300 \\mathrm{~K}$ is $1930 \\mathrm{metre} / \\mathrm{sec}$. Then the r.m.s velocity of oxygen molecules at $1200 \\mathrm{~K}$ will be",
@@ -616,37 +616,37 @@
     },
     "options": [
       {
-        "id": "KUKmQ",
+        "id": "RLmES",
         "text": "482.5 metre/sec",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "SzTos",
+        "id": "ZqWzV",
         "text": "$965 \\mathrm{metre} / \\mathrm{sec}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "uNAVs",
+        "id": "hSSbh",
         "text": "1930 metre/sec",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "NMFIe",
+        "id": "rZxaG",
         "text": "3860 metre/sec",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Root-mean square-velocity is given by",
+      "text": "Root-mean square-velocity is given by\n$$\n\\begin{aligned}\n& \\mathrm{v}_{\\mathrm{rms}}=\\sqrt{\\frac{3 R T}{M}} \\text { i.e., } \\mathrm{v}_{\\mathrm{rms}} \\propto \\sqrt{\\left(\\frac{\\mathrm{T}}{\\mathrm{M}}\\right)} \\\\\n& \\frac{\\left(\\mathrm{v}_{\\mathrm{rms}}\\right) \\mathrm{O}_2}{\\left(\\mathrm{v}_{\\mathrm{rms}}\\right) \\mathrm{H}_2}=\\sqrt{\\left[\\frac{\\mathrm{T}_{\\mathrm{O}_2}}{\\mathrm{~T}_{\\mathrm{H}_2}} \\times \\frac{\\mathrm{M}_{\\mathrm{H}_2}}{\\mathrm{M}_{\\mathrm{O}_2}}\\right]} \\\\\n& =\\sqrt{\\left[\\left(\\frac{1200}{300}\\right) \\times\\left(\\frac{2}{32}\\right)\\right]}=\\frac{1}{2} \\\\\n& \\therefore \\quad\\left(\\mathrm{v}_{\\mathrm{rms}}\\right) \\mathrm{O}_2=\\left(\\mathrm{v}_{\\mathrm{rms}}\\right) \\mathrm{H}_2 \\times \\frac{1}{2}=\\frac{1930}{2}=\n\\end{aligned}\n$$\n965m/s",
       "image": null
     }
   },
   {
-    "id": "5243f9006ab267927fc22c36",
+    "id": "098489287390789f6b4b0190",
     "type": "singleCorrect",
     "question": {
       "text": "Lenz's law gives",
@@ -654,25 +654,25 @@
     },
     "options": [
       {
-        "id": "HfPhq",
+        "id": "AgEFU",
         "text": "the magnitude of the induced e.m.f.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "sBuDo",
+        "id": "VYdQG",
         "text": "the direction of the induced current",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "YCEOP",
+        "id": "UfzzR",
         "text": "both the magnitude and direction of the induced current",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "NhqMZ",
+        "id": "Uetyj",
         "text": "the magnitude of the induced current",
         "image": null,
         "isCorrect": false
@@ -684,7 +684,7 @@
     }
   },
   {
-    "id": "ee810a7e23c2f326a89c8205",
+    "id": "aa38c2e8352eef992fa7e312",
     "type": "singleCorrect",
     "question": {
       "text": "A parallel plate capacitor with air between the plates has a capacitance of $8 \\mathrm{pF}$. Calculate the capacitance if the distance between the plates is reduced by half and the space between them is filled with a substance of dielectric constant. (k =6)",
@@ -692,63 +692,63 @@
     },
     "options": [
       {
-        "id": "tuRbb",
+        "id": "jCOOq",
         "text": "$72 \\mathrm{pF}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "HNpwO",
+        "id": "dyJwq",
         "text": "$81 \\mathrm{pF}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "oOmvw",
+        "id": "Ezodu",
         "text": "$84 \\mathrm{pF}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "JwQJd",
+        "id": "teqqS",
         "text": "$96 \\mathrm{pF}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Capacity of parallel plate capacitor",
+      "text": "Capacity of parallel plate capacitor\n$$\n\\mathrm{C}=\\frac{\\mathrm{k} \\varepsilon_0 \\mathrm{~A}}{\\mathrm{~d}} \\quad\\left(\\text { For air } \\mathrm{k}_{\\mathrm{r}}=1\\right)\n$$\nSo, $\\frac{\\varepsilon_0 \\mathrm{~A}}{\\mathrm{~d}}=8 \\times 10^{-12}$\nIf $d \\rightarrow \\frac{d}{2}$ and $k_r \\rightarrow 6$ then new capacitance $\\mathrm{C}^{\\prime}=6 \\times \\frac{\\varepsilon_0 \\mathrm{~A}}{\\mathrm{~d} / 2}=12 \\frac{\\varepsilon_0 \\mathrm{~A}}{\\mathrm{~d}}=12 \\times 8 \\mathrm{pF}=96 \\mathrm{pF}$",
       "image": null
     }
   },
   {
-    "id": "ca0050055bf2465db280ba44",
+    "id": "b218ef48b2f8f70ccee58d40",
     "type": "singleCorrect",
     "question": {
-      "text": "For a particle executing S.H.M. the displacement $x$ is given by $x=A \\cos \\omega t$. Identify the graph which represents the variation of potential energy (P.E.) as a function of time $t$ and displacement $x$.",
+      "text": "For a particle executing S.H.M. the displacement $x$ is given by $x=A \\cos \\omega t$. Identify the graph which represents the variation of potential energy (P.E.) as a function of time $t$ and displacement $x$.\n",
       "image": null
     },
     "options": [
       {
-        "id": "yTXFI",
+        "id": "xvotn",
         "text": "I, III",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "FhoNW",
+        "id": "sfgyZ",
         "text": "II, IV",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "QVZbg",
+        "id": "eIpru",
         "text": "II, III",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bigTq",
+        "id": "SqQCm",
         "text": "I,IV",
         "image": null,
         "isCorrect": false
@@ -760,7 +760,7 @@
     }
   },
   {
-    "id": "cee445cfc20296452cc532f5",
+    "id": "6580c93e83e2df65ca39fcca",
     "type": "singleCorrect",
     "question": {
       "text": "A radioactive sample contains $10^{-3} \\mathrm{~kg}$ each of two nuclear species $A$ and $B$ with half-life 4 days and 8 days respectively. The ratio of the amounts of $A$ and $B$ after a period of 16 days is",
@@ -768,37 +768,37 @@
     },
     "options": [
       {
-        "id": "AIreZ",
+        "id": "eSLGu",
         "text": "$1: 2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "QQYdo",
+        "id": "NzmaP",
         "text": "$4: 1$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "IFezR",
+        "id": "hGYuk",
         "text": "$1: 4$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "iSAdR",
+        "id": "dlIiA",
         "text": "$2: 1$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Ratio of number of half life taken is given as:",
+      "text": "Ratio of number of half life taken is given as:\nAfter 16 days\n$$\n\\begin{aligned}\n& n_{A 1 / 2}=\\frac{16}{4}=4 ; n_{B 1 / 2}=\\frac{16}{8}=2 \\\\\n& N=N_0\\left(\\frac{1}{2}\\right)^n \\Rightarrow \\frac{N_A}{N_B}\n\\end{aligned}\n$$\n\n\n$$\n\\begin{aligned}\n& =\\frac{1}{2^4}: \\frac{1}{2^2}=2^2: 2^4 \\\\\n& =4: 16,=1: 4\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "1d3b076956c30fc5e5ea19c5",
+    "id": "939270238243420d73e05717",
     "type": "singleCorrect",
     "question": {
       "text": "A string of $7 \\mathrm{~m}$ length has a mass of $0.035 \\mathrm{~kg}$. If tension in the string is $60.5 \\mathrm{~N}$, then speed of a wave on the string is",
@@ -806,75 +806,75 @@
     },
     "options": [
       {
-        "id": "vxKuO",
+        "id": "djNfC",
         "text": "$77 \\mathrm{~m} / \\mathrm{s}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ijEHq",
+        "id": "Sbouq",
         "text": "$102 \\mathrm{~m} / \\mathrm{s}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "varEH",
+        "id": "AIKEu",
         "text": "$110 \\mathrm{~m} / \\mathrm{s}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "tDrUw",
+        "id": "xtjol",
         "text": "$165 \\mathrm{~m} / \\mathrm{s}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Given : Length $(l)=7 \\mathrm{~m}$",
+      "text": "Given : Length $(l)=7 \\mathrm{~m}$\n$\\operatorname{Mass}(\\mathrm{M})=0.035 \\mathrm{~kg}$ and tension $(\\mathrm{T})=60.5$\n$\\mathrm{N}$. We know that mass of string per unit length $(\\mathrm{m})$\n$$\n=\\frac{0.035}{7}=0.005 \\mathrm{~kg} / \\mathrm{m}\n$$\nand speed of\n$$\n\\text { wave }=\\sqrt{\\frac{T}{m}}=\\sqrt{\\frac{60.5}{0.005}}=110 \\mathrm{~m} / \\mathrm{s} .\n$$",
       "image": null
     }
   },
   {
-    "id": "761e150469ad07e48a08758d",
+    "id": "7a5adbf572435533280ed0e7",
     "type": "singleCorrect",
     "question": {
-      "text": "The following circuit represents",
+      "text": "The following circuit represents\n",
       "image": null
     },
     "options": [
       {
-        "id": "gxBDO",
+        "id": "Nqjty",
         "text": "OR gate",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "XLnsk",
+        "id": "CXbHx",
         "text": "AND gate",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "snqsT",
+        "id": "TwXJt",
         "text": "NAND gate",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "EnBkU",
+        "id": "YzYpg",
         "text": "None of these",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Output of upper AND gate $=\\overline{\\mathrm{A}} \\mathrm{B}$",
+      "text": "Output of upper AND gate $=\\overline{\\mathrm{A}} \\mathrm{B}$\nOutput of lower AND gate $=A \\bar{B}$\n$\\therefore$ Output of OR gate, $\\mathrm{Y}=\\mathrm{A} \\overline{\\mathrm{B}}+\\mathrm{B} \\overline{\\mathrm{A}}$\nThis is boolean expression for XOR gate.",
       "image": null
     }
   },
   {
-    "id": "acea390a5973e48aee4277e3",
+    "id": "833c1a110e0ecaade122f083",
     "type": "singleCorrect",
     "question": {
       "text": "A straight section $P Q$ of a circuit lies along the $X$-axis from $x=-\\frac{a}{2}$ to $x=\\frac{a}{2}$ and carries a steady current $i$. The magnetic field due to the section $P Q$ at a point $X=+a$ will be",
@@ -882,37 +882,37 @@
     },
     "options": [
       {
-        "id": "YbMaS",
+        "id": "jvfiV",
         "text": "proportional to $a$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "HZZgJ",
+        "id": "oliuh",
         "text": "proportional to $a^2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "hFKDn",
+        "id": "KjVxi",
         "text": "proportional to $1 / a$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "tAHpO",
+        "id": "FdBnN",
         "text": "zero",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Magnetic field at a point on the axis of a current carrying wire is always zero.",
+      "text": "Magnetic field at a point on the axis of a current carrying wire is always zero.\n",
       "image": null
     }
   },
   {
-    "id": "49dd624b82ff6c36dae94fc2",
+    "id": "8913ea5802224a2a05a1ed7c",
     "type": "singleCorrect",
     "question": {
       "text": "A source producing sound of frequency $170 \\mathrm{~Hz}$ is approaching a stationary observer with a velocity $17 \\mathrm{~ms}^{-1}$. The apparent change in the wavelength of sound heard by the observer is (speed of sound in air $=340 \\mathrm{~ms}^{-1}$ )",
@@ -920,63 +920,63 @@
     },
     "options": [
       {
-        "id": "lVTdL",
+        "id": "PQcwq",
         "text": "$0.1 \\mathrm{~m}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "RkRsy",
+        "id": "eARku",
         "text": "$0.2 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "seLZV",
+        "id": "yzFMg",
         "text": "$0.4 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "oUQxa",
+        "id": "cBusF",
         "text": "$0.5 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\lambda=\\frac{v}{n}=\\frac{340}{170}=2 m, \\quad n^{\\prime}=\\frac{340}{340-17} \\times 170 \\\\\n& n^{\\prime}=178.9 \\mathrm{~Hz} \\\\\n& \\text { Now } \\lambda^{\\prime}=\\frac{v}{n^{\\prime}}=\\frac{340}{178.9}=1.9 \\\\\n& \\Rightarrow \\lambda-\\lambda^{\\prime}=2-1.9=0.1 \\mathrm{~m}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "e3b77385b2515c1f93c9b1b6",
+    "id": "932a60da567c770c8789d9bd",
     "type": "singleCorrect",
     "question": {
-      "text": "Consider the following reactions:",
+      "text": "Consider the following reactions:\n$$\n\\begin{aligned}\n& \\mathrm{NaCl}+\\mathrm{K}_2 \\mathrm{Cr}_2 \\mathrm{O}_7+\\mathrm{H}_2 \\mathrm{SO}_4 \\text { (Conc.) } \\\\\n& \\rightarrow(\\mathrm{A})+\\text { Side products } \\\\\n& (\\mathrm{A})+\\mathrm{NaOH} \\rightarrow \\text { (B) }+ \\text { Side products } \\\\\n& \\left.(\\mathrm{B})+\\mathrm{H}_2 \\mathrm{SO}_4 \\text { (dilute }\\right)+\\mathrm{H}_2 \\mathrm{O}_2 \\\\\n& \\rightarrow(\\mathrm{C})+\\text { Side products }\n\\end{aligned}\n$$\nThe sum of the total number of atoms in one molecule each of (A), (B) and (C) is",
       "image": null
     },
     "options": [
       {
-        "id": "EHpXn",
+        "id": "vQHYo",
         "text": "18",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "ereKJ",
+        "id": "sUoNJ",
         "text": "15",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "sGMlQ",
+        "id": "PHKOO",
         "text": "21",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "dXHpF",
+        "id": "eliDC",
         "text": "20",
         "image": null,
         "isCorrect": false
@@ -988,7 +988,7 @@
     }
   },
   {
-    "id": "d0ceff8b9e511939a8d8a0df",
+    "id": "ace7400a9bfa86bef7f78274",
     "type": "singleCorrect",
     "question": {
       "text": "Xenon hexafluoride on partial hydrolysis produces compounds ' $\\mathrm{X}$ ' and ' $\\mathrm{Y}$ '. Compounds ' $\\mathrm{X}$ ', 'Y' and the oxidation state of $\\mathrm{Xe}$ are respectively:",
@@ -996,37 +996,37 @@
     },
     "options": [
       {
-        "id": "NlyvZ",
+        "id": "njOkQ",
         "text": "$\\mathrm{XeOF}_4(+6)$ and $\\mathrm{XeO}_3(+6)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "CgpJh",
+        "id": "vQOEi",
         "text": "$\\mathrm{XeO}_2(+4)$ and $\\mathrm{XeO}_3(+6)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "pCBhF",
+        "id": "vGQbK",
         "text": "$\\mathrm{XeOF}_4(+6)$ and $\\mathrm{XeO}_2 \\mathrm{~F}_2(+6)$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "brBsW",
+        "id": "OUBny",
         "text": "$\\mathrm{XeO}_2 \\mathrm{~F}_2(+6)$ and $\\mathrm{XeO}_2(+4)$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\text {  } \\mathrm{XeF}_6+\\mathrm{H}_2 \\mathrm{O} \\frac{\\text { partial }}{\\text { hydrolysis }} \\stackrel{+6}{\\mathrm{XeOF}_4}+2 \\mathrm{HF}\n$$\n",
       "image": null
     }
   },
   {
-    "id": "8e9dd45c54059edc333e658c",
+    "id": "b1a221e05ae7e73b00db6e02",
     "type": "singleCorrect",
     "question": {
       "text": "The edge length of unit cell of a metal having molecular weight $75 \\mathrm{~g} / \\mathrm{mol}$ is $5 \\AA$ which crystallizes in cubic lattice. If the density is $2 \\mathrm{~g}$ / cc then find the radius of metal atom. $\\left(\\mathrm{N}_{\\mathrm{A}}=6 \\times 10^{23}\\right)$. Give the answer in $\\mathrm{pm}$.",
@@ -1034,63 +1034,63 @@
     },
     "options": [
       {
-        "id": "fnGQI",
+        "id": "RiUBl",
         "text": "$217 \\mathrm{pm}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "xKQOM",
+        "id": "AMLBl",
         "text": "$210 \\mathrm{pm}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "oYQTY",
+        "id": "tVbYE",
         "text": "$220 \\mathrm{pm}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ToHdz",
+        "id": "MwHmF",
         "text": "$205 \\mathrm{pm}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } \\rho=\\frac{\\mathrm{ZM}}{\\mathrm{N}_{\\mathrm{A}} \\mathrm{V}} \\\\\n& \\mathrm{Z}=\\frac{\\rho \\mathrm{N}_{\\mathrm{A}} \\mathrm{V}}{\\mathrm{M}}=\\frac{2 \\times 6 \\times 10^{23} \\times\\left(5 \\times 10^{-8}\\right)^3}{75} \\\\\n& \\mathrm{Z}=2, \\text { which represents } b c c \\text { structure } \\\\\n& \\therefore \\quad r=\\frac{\\sqrt{3}}{4} a=\\frac{\\sqrt{3}}{4} \\times 5=2.165 \\AA=216.5 \\mathrm{pm} \\approx \\\\\n& 217 \\mathrm{pm}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "c30626f800e76694f9d8b5ba",
+    "id": "2320d439c427320420712feb",
     "type": "singleCorrect",
     "question": {
-      "text": "Consider the following statements:",
+      "text": "Consider the following statements:\nI. Increase in concentration of reactant increases the rate of a zero order reaction.\nII. Rate constant $\\mathrm{k}$ is equal to collision frequency $\\mathrm{A}$ if $\\mathrm{E}_{\\mathrm{a}}=0$.\nIII. Rate constant $\\mathrm{k}$ is equal to collision frequency $\\mathrm{A}$ if $\\mathrm{E}_{\\mathrm{a}}=\\infty$.\nIV. In $\\mathrm{k}$ vs $\\mathrm{T}$ is a straight line.\n$\\mathrm{V}$. In $\\mathrm{k}$ vs $1 / \\mathrm{T}$ is a straight line.\nCorrect statements are",
       "image": null
     },
     "options": [
       {
-        "id": "KETLr",
+        "id": "CezVs",
         "text": "I and IV",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "BVthG",
+        "id": "HcUJs",
         "text": "II and V",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "uKvkp",
+        "id": "gPSsb",
         "text": "III and IV",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "dYAqU",
+        "id": "txsgV",
         "text": "II and III",
         "image": null,
         "isCorrect": false
@@ -1102,7 +1102,7 @@
     }
   },
   {
-    "id": "8107623a0e9c8092ad4f92a4",
+    "id": "8acc91728e02cb2d660f6e7b",
     "type": "singleCorrect",
     "question": {
       "text": "To deposit $0.634 \\mathrm{~g}$ of copper by electrolysis of aqueous cupric sulphate solution, the amount of electricity required (in coulombs) is",
@@ -1110,102 +1110,102 @@
     },
     "options": [
       {
-        "id": "sObFZ",
+        "id": "ycHxv",
         "text": "1930",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "xanfH",
+        "id": "LQacV",
         "text": "3960",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "uYXcN",
+        "id": "BiQrz",
         "text": "4825",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xTJET",
+        "id": "CDaUN",
         "text": "9650",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "In the electrolysis of cupric sulphate, the reaction that occurs at cathode is",
+      "text": "In the electrolysis of cupric sulphate, the reaction that occurs at cathode is\n$$\n\\mathrm{Cu}^{2+}+2 \\mathrm{e}^{-} \\longrightarrow \\mathrm{Cu}\n$$\nThus $2 \\mathrm{~F}$ or $2 \\times 96500 \\mathrm{C}$ of electricity is required to deposit\n$=1 \\mathrm{~mol}$ of $\\mathrm{Cu}=63.5 \\mathrm{~g}$ of $\\mathrm{Cu}$\nIt means that to deposit $63.5 \\mathrm{~g}$ of $\\mathrm{Cu}$, the amount of electricity required $=2 \\times 96500 \\mathrm{C}$\nSo, to deposit $0.634 \\mathrm{~g}$ of $\\mathrm{Cu}$, the amount of\n$$\n\\begin{aligned}\n& \\text { electricity required }=\\frac{2 \\times 96500}{63.5} \\times 0.634 \\\\\n& \\approx 1930 \\mathrm{C}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "8bf241bafdd802d3ca879be8",
+    "id": "ed4873461055101a94149440",
     "type": "singleCorrect",
     "question": {
-      "text": "In the following skew conformation of ethane, $\\mathrm{H}^{\\prime}-\\mathrm{C}-\\mathrm{C}-\\mathrm{H}^{\\prime \\prime}$ dihedral angle is :",
+      "text": "In the following skew conformation of ethane, $\\mathrm{H}^{\\prime}-\\mathrm{C}-\\mathrm{C}-\\mathrm{H}^{\\prime \\prime}$ dihedral angle is :\n",
       "image": null
     },
     "options": [
       {
-        "id": "OFVkP",
+        "id": "lGOal",
         "text": "$58^{\\circ}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "PUpfg",
+        "id": "KIEQO",
         "text": "$149^{\\circ}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "iQJgu",
+        "id": "ibbbp",
         "text": "$151^{\\circ}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DwcQg",
+        "id": "BEptL",
         "text": "$120^{\\circ}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\therefore \\quad \\text { Angle between } \\mathrm{H}^{\\prime} \\text { and } \\mathrm{H}^{\\prime \\prime}=120^{\\circ}+29^{\\circ}=149^{\\circ}\n$$",
       "image": null
     }
   },
   {
-    "id": "63a1abd63596a834b6203965",
+    "id": "4d9b6dfa6ab0304dffea68a5",
     "type": "singleCorrect",
     "question": {
-      "text": "What is the product of following reaction?",
+      "text": "What is the product of following reaction?\n$$\n\\text { Hex-3-ynal } \\frac{\\text { (i) } \\mathrm{NaBH}_4}{\\text { (ii) } \\mathrm{PBr}_3 \\text {, (iii) } \\mathrm{Mg} / \\text { ether, (iv) } \\mathrm{CO}_2 / \\mathrm{H}_3 \\mathrm{O}^{+}} \\longrightarrow \\text { ? }\n$$",
       "image": null
     },
     "options": [
       {
-        "id": "ScXQR",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/Gnwk6mrMHsZSjprb5zoTUZ9kkjyxdrb27I_7uuEJRCs.original.fullsize.png)",
+        "id": "oXOzh",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xRNco",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/zMYm5XpZq01nEf2vHdM0cGeAPYEg324MxaefybQbYKg.original.fullsize.png)",
+        "id": "eTMVR",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Vdivf",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/yjONNhxGb5HrT0kvViXHzFAd9jLE3J5aEDzNAb6Ktlg.original.fullsize.png)",
+        "id": "NRKKF",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "RtvHt",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/6iSO09oUO-MFnVCD64mMx3O4nqzNTaywRBHyKSyHvjI.original.fullsize.png)",
+        "id": "ayPsm",
+        "text": null,
         "image": null,
         "isCorrect": true
       }
@@ -1216,33 +1216,33 @@
     }
   },
   {
-    "id": "f3d924c7420ebee2f114f51a",
+    "id": "0eb985becffa3368becdb246",
     "type": "singleCorrect",
     "question": {
-      "text": "In the following sequence of reactions,",
+      "text": "In the following sequence of reactions,\n$$\n\\begin{array}{r}\n\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{OH} \\stackrel{\\mathrm{P}+\\mathrm{I}_2}{\\longrightarrow} \\mathrm{A} \\underset{\\text { ether }}{\\stackrel{\\mathrm{Mg}}{\\longrightarrow}} \\mathrm{B} \\stackrel{\\mathrm{HCHO}}{\\longrightarrow} \\\\\n\\mathrm{C} \\stackrel{\\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} \\mathrm{D}\n\\end{array}\n$$\nthe compound $\\mathrm{D}$ is",
       "image": null
     },
     "options": [
       {
-        "id": "mJARD",
+        "id": "FUDnd",
         "text": "propanal",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bHiGo",
+        "id": "kXKGC",
         "text": "butanal",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "UPSAV",
+        "id": "LYoJd",
         "text": "n-butyl alcohol",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "rxwvc",
+        "id": "TgDlC",
         "text": "$n$-propyl alcohol.",
         "image": null,
         "isCorrect": true
@@ -1254,7 +1254,7 @@
     }
   },
   {
-    "id": "d3d2e3109b7bd99b88ad4602",
+    "id": "4ba4eb5b49f8a1699d51ba17",
     "type": "singleCorrect",
     "question": {
       "text": "Which of the following reactions can produce aniline as main product?",
@@ -1262,37 +1262,37 @@
     },
     "options": [
       {
-        "id": "RmVkx",
+        "id": "fyaEO",
         "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{KOH}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ICfjj",
+        "id": "nenNh",
         "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{NH}_4 \\mathrm{Cl}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "gLOfO",
+        "id": "AjUyY",
         "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{LiAlH}_4$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "PaGCR",
+        "id": "AkATK",
         "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{HCl}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Various products are formed when nitroarenes are reduced. These are given below for $\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2$.",
+      "text": "Various products are formed when nitroarenes are reduced. These are given below for $\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2$.\n\n$$\n\\text { Medium } \\quad \\text { Main product }\n$$\n(d) In acidic medium Aniline $\\left(\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NH}_2\\right)$ $(\\mathrm{metal} / \\mathrm{HCl})$\n(b) In neutral medium Phenyl hydroxylamine, $\\left(\\mathrm{Zn} / \\mathrm{NH}_4 \\mathrm{Cl}\\right)$\n\n$$\n\\text { (a) In alkaline medium }\n$$\nThus, aniline will be main product in case of (d).",
       "image": null
     }
   },
   {
-    "id": "9b638c1b2a5e31695cef48d1",
+    "id": "f9f9a26dab9f04fccd23cf12",
     "type": "singleCorrect",
     "question": {
       "text": "Secondary structure of protein refers to",
@@ -1300,25 +1300,25 @@
     },
     "options": [
       {
-        "id": "jZDGW",
+        "id": "iLQqK",
         "text": "mainly denatured proteins and structure of prosthetic groups",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "kUytG",
+        "id": "dTSTY",
         "text": "three-dimensional structure, especially the bond between amino acid residues that are distinct from each other in the polypeptide chain",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "rpziY",
+        "id": "DapCb",
         "text": "linear sequence of amino acid residues in the polypetide chain",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "cPtkd",
+        "id": "ssJDS",
         "text": "regular folding patterns of continous portions of the polypeptide chain",
         "image": null,
         "isCorrect": true
@@ -1330,7 +1330,7 @@
     }
   },
   {
-    "id": "d9a3163d5ecaa060d060f66f",
+    "id": "5c5cb441fa830a2cb36cd1a4",
     "type": "singleCorrect",
     "question": {
       "text": "The increasing order for the values of $e / m$ (charge/mass) is",
@@ -1338,37 +1338,37 @@
     },
     "options": [
       {
-        "id": "QGXpP",
+        "id": "FbQRc",
         "text": "$e, p, n, \\alpha$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "WFlAq",
+        "id": "JDQMg",
         "text": "$n, p, e, \\alpha$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "TWbnE",
+        "id": "fmQnb",
         "text": "$n, p, \\alpha, e$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "WtLgl",
+        "id": "jVDzN",
         "text": "$n, \\alpha, p, e$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$\\frac{e}{m}$ for (i) neutron $=\\frac{0}{1}=0$",
+      "text": "$\\frac{e}{m}$ for (i) neutron $=\\frac{0}{1}=0$\n(ii) $\\alpha$-particle $=\\frac{2}{4}=0.5$\n(iii) proton $=\\frac{1}{1}=1$\n(iv) electron $=\\frac{1}{1 / 1837}=1837$",
       "image": null
     }
   },
   {
-    "id": "b1eb58e2bcc4a53615fb502a",
+    "id": "636881ff46ce72e924fa97dd",
     "type": "singleCorrect",
     "question": {
       "text": "In which of the following pairs both the ions are coloured in aqueous solutions ?",
@@ -1376,37 +1376,37 @@
     },
     "options": [
       {
-        "id": "JXZQW",
+        "id": "GcxxZ",
         "text": "$\\mathrm{Sc}^{3+}, \\mathrm{Ti}^{3+}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "leEWc",
+        "id": "NNpmc",
         "text": "$\\mathrm{Sc}^{3+}, \\mathrm{Co}^{2+}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "TQSUs",
+        "id": "hTuie",
         "text": "$\\mathrm{Ni}^{2+}, \\mathrm{Cu}^{+}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "aatBS",
+        "id": "gAUMg",
         "text": "$\\mathrm{Ni}^{2+}, \\mathrm{Ti}^{3+}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$\\mathrm{Sc}^{3+}(\\mathrm{Z}=18): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^0, 4 s^0$; no unpaired electron.",
+      "text": "$\\mathrm{Sc}^{3+}(\\mathrm{Z}=18): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^0, 4 s^0$; no unpaired electron.\n$\\mathrm{Cu}^{+}(\\mathrm{Z}=28): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^{10}, 4 s^0$; no unpaired electron.\n$$\n\\mathrm{Ni}^{2+}(\\mathrm{Z}=26): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^8, 4 s^0\n$$\nunpaired electrons are present.\n$$\n\\mathrm{Ti}^{3+}(\\mathrm{Z}=19): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^1, 4 s^0 \\text {; }\n$$\nunpaired electron is present\n$$\n\\mathrm{Co}^{2+}(\\mathrm{Z}=25): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^7, 4 s^0 \\text {; }\n$$\nunpaired electrons are present\nSo from the given options the only correct combination is $\\mathrm{Ni}^{2+}$ and $\\mathrm{Ti}^{3+}$.",
       "image": null
     }
   },
   {
-    "id": "77af6128e19bfa71b1282f2f",
+    "id": "b176a222ebe37f891e45adfe",
     "type": "singleCorrect",
     "question": {
       "text": "The total number of possible isomers for squareplanar $\\left[\\mathrm{Pt}(\\mathrm{Cl})\\left(\\mathrm{NO}_2\\right)\\left(\\mathrm{NO}_3\\right)(\\mathrm{SCN})\\right]^{2-}$ is:",
@@ -1414,25 +1414,25 @@
     },
     "options": [
       {
-        "id": "LisAt",
+        "id": "TRerQ",
         "text": "16",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "jmFHS",
+        "id": "qsqak",
         "text": "12",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "krsrV",
+        "id": "SUuMP",
         "text": "8",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "nkPgX",
+        "id": "yBQtv",
         "text": "24",
         "image": null,
         "isCorrect": false
@@ -1444,45 +1444,45 @@
     }
   },
   {
-    "id": "9c28d347a9af1b68dd77255f",
+    "id": "453555559008c43bff73f962",
     "type": "singleCorrect",
     "question": {
-      "text": "For the reaction,",
+      "text": "For the reaction,\n$$\n\\begin{aligned}\n& 2 \\mathrm{SO}_2(\\mathrm{~g})+\\mathrm{O}_2(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{SO}_3(\\mathrm{~g}), \\\\\n& \\Delta \\mathrm{H}=-57.2 \\mathrm{~kJ} \\mathrm{~mol}^{-1} \\text { and } \\mathrm{K}_{\\mathrm{c}}=1.7 \\times 10^{16}\n\\end{aligned}\n$$\nWhich of the following statement is INCORRECT?",
       "image": null
     },
     "options": [
       {
-        "id": "cJduo",
+        "id": "sffXK",
         "text": "The equilibrium constant is large suggestive of reaction going to completion and so no catalyst is required.",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "NWLre",
+        "id": "YaXxb",
         "text": "The equilibrium will shift in forward direction as the pressure increases.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ShdHr",
+        "id": "Bufhn",
         "text": "The equilibrium constant decreases as the temperature increases.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "aLpVW",
+        "id": "nwgPM",
         "text": "The addition of inert gas at constant volume will not affect the equilibrium constant.",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Equilibrium constant has no relation with catalyst. Catalyst only affects the rate of the reaction.",
+      "text": "Equilibrium constant has no relation with catalyst. Catalyst only affects the rate of the reaction.\nCatalyst, $\\mathrm{V}_2 \\mathrm{O}_5$ in the given reaction, is used to speed up the reaction.",
       "image": null
     }
   },
   {
-    "id": "8e8e43f6ba17d84ea68a8526",
+    "id": "6fb53e6f2a3e4ce7dfa09e9d",
     "type": "singleCorrect",
     "question": {
       "text": "The half-life of a reaction is inversely proportional to the square of the initial concentration of the reactant. Then the order of the reaction is",
@@ -1490,37 +1490,37 @@
     },
     "options": [
       {
-        "id": "ZHaCG",
+        "id": "Fefuy",
         "text": "0",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "LnGXx",
+        "id": "ljGBi",
         "text": "1",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "WBKPx",
+        "id": "VnCej",
         "text": "2",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "tuPIA",
+        "id": "lUOrY",
         "text": "3",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$\\mathrm{t}_{1 / 2} \\propto \\frac{1}{\\mathrm{a}^2}$",
+      "text": "$\\mathrm{t}_{1 / 2} \\propto \\frac{1}{\\mathrm{a}^2}$\nWe know that $t_{1 / 2} \\propto \\frac{1}{a^{n-1}}$ i.e. $\\mathrm{n}=3$\nThus reaction is of $3^{\\text {rd }}$ order.",
       "image": null
     }
   },
   {
-    "id": "1679587ae4fdb2a437382e40",
+    "id": "941d046b7ce2a227ebbe9fa8",
     "type": "singleCorrect",
     "question": {
       "text": "A galvanic cell is set up from electrodes $A$ and $B$ Electrode $A: \\mathrm{Cr}_2 \\mathrm{O}_7^{2-} / \\mathrm{Cr}^{3+}, E_{\\text {red }}^{\\circ}=+1.33 \\mathrm{~V}$ Electrode $B: \\mathrm{Fe}^{3+} / \\mathrm{Fe}^{2+}, \\quad E_{\\text {red }}^{\\circ}=0.77 \\mathrm{~V}$ Which of the following statements is false ?",
@@ -1528,25 +1528,25 @@
     },
     "options": [
       {
-        "id": "CPcRH",
+        "id": "frypQ",
         "text": "Standard e.m.f of the cell is $0.56 \\mathrm{~V}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "rUiwa",
+        "id": "pbNaa",
         "text": "Current will flow from electrode $A$ to $B$ in the external circuit",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bSERb",
+        "id": "MbNOi",
         "text": "$A$ will act as cathode and have positive polarity",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "slROs",
+        "id": "niBnU",
         "text": "None of these",
         "image": null,
         "isCorrect": true
@@ -1558,7 +1558,7 @@
     }
   },
   {
-    "id": "ffa325736fcbc9bc558c658d",
+    "id": "b095264e8346e91c502daee9",
     "type": "singleCorrect",
     "question": {
       "text": "Keto-enol tautomerism is observed in :",
@@ -1566,64 +1566,64 @@
     },
     "options": [
       {
-        "id": "FYLZZ",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/TUwXwawalWTHXApHqjU2bsz4hGd-IpfQM5uxwG7KPz8.original.fullsize.png)",
+        "id": "rjvpU",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "kUNRi",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/-wlsdeFSQmBMBmq0N-IPUDyejOMsX5Z5iQn0SoyrHw4.original.fullsize.png)",
+        "id": "rLlAa",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "wvyHR",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/1I-L9SMtzCdqi3VCNmDMrFwR5pFxg5mkt0i1t8fEz4s.original.fullsize.png)",
+        "id": "FPBOL",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "IXPRP",
+        "id": "bJVKo",
         "text": " Both (1) and (2)",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Keto-enol tautomerism is shown by carbonyl compounds having $\\alpha$-hydrogen atom.",
+      "text": "Keto-enol tautomerism is shown by carbonyl compounds having $\\alpha$-hydrogen atom.\n(A) ![original image](https://cdn.mathpix.com/snip/images/k-22DYsSxPTbyqEpN-88TxJfZMMu9GGHPvu1nMS0yyU.original.fullsize.png)\n(B) ![original image](https://cdn.mathpix.com/snip/images/SELqYvgHoZy9spm9HFwLmaSTt09xuLiVRSa2LIsZDbE.original.fullsize.png)\n(C) ![original image](https://cdn.mathpix.com/snip/images/8ORsRzAKSlrEsdAks3qaY4ffTdutxungwR45vC9mDpg.original.fullsize.png)",
       "image": null
     }
   },
   {
-    "id": "5b51d3685e9a0d32040cc9df",
+    "id": "cc455bf5ccf5baabd35fbb6a",
     "type": "singleCorrect",
     "question": {
-      "text": "In a set of reactions, ethylbenzene yield a product D.",
+      "text": "In a set of reactions, ethylbenzene yield a product D.\n",
       "image": null
     },
     "options": [
       {
-        "id": "EiKRL",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/6le4MoE3eW-iBt9n5V0RMmAOs_Fxi1_xGQO-4IfqtOM.original.fullsize.png)",
+        "id": "bslxI",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "BKDuP",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/bMoY1uzxqmG5Bt09-F2VddNU2FN2WNc2KQPpPw3uMpI.original.fullsize.png)",
+        "id": "ogyZw",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "yQCVV",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/bwa0dhe9hKvJ4zr_iMLl7rjHiyC7WOwrSE3foQTyyKg.original.fullsize.png)",
+        "id": "QdZNj",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "qneFj",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/qSir5iO52It3iGA0tw4BuQZxCUEFf9BcDjweCSQaeF4.original.fullsize.png)",
+        "id": "cTBwr",
+        "text": null,
         "image": null,
         "isCorrect": true
       }
@@ -1634,72 +1634,72 @@
     }
   },
   {
-    "id": "4f6f0d3f091e9c11e47bc435",
+    "id": "893c22bd87ff6d669c469b71",
     "type": "singleCorrect",
     "question": {
-      "text": "What will be the final product in the following reaction sequence -",
+      "text": "What will be the final product in the following reaction sequence -\n$$\n\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CN} \\stackrel{\\mathrm{H}^{+} / \\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} \\mathrm{A} \\stackrel{\\mathrm{NH}_3}{\\longrightarrow} \\mathrm{B} \\stackrel{\\mathrm{NaOBr}}{\\longrightarrow} \\mathrm{C}\n$$",
       "image": null
     },
     "options": [
       {
-        "id": "BTrgo",
+        "id": "Ntfen",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CONH}_2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xBUVZ",
+        "id": "ggPxx",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{COBr}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "JlbTY",
+        "id": "vZIba",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{NH}_2$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "sjcZZ",
+        "id": "qqFAE",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "![original image](https://cdn.mathpix.com/snip/images/l959mULURn32JMZTx-dC2yQgCBm72kuHw9DdASKe9JI.original.fullsize.png)",
+      "text": "No Solution Available",
       "image": null
     }
   },
   {
-    "id": "57e50fe8569683e9f6ae9df2",
+    "id": "a00a16791df6f5d40140e3a2",
     "type": "singleCorrect",
     "question": {
-      "text": "In a set of reactions acetic acid yielded a product D.",
+      "text": "In a set of reactions acetic acid yielded a product D.\n$$\n\\text { The structure of (d) would be - }\n$$",
       "image": null
     },
     "options": [
       {
-        "id": "cDwdW",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/PUB6nfliFK89sC_NTOWrSXdV05jZhXT6FfabWht-9AQ.original.fullsize.png)",
+        "id": "OUgOa",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "TUKny",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/bAETFZlheVWrrlmAfvczCxFPRG48Rjix_egqu6MNL5o.original.fullsize.png)",
+        "id": "ABTvD",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DpRrn",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/Ct17lz64wMhXvgdBqI9IYOc7PkoOJ86CbYbkcEGq1MA.original.fullsize.png)",
+        "id": "hmVnI",
+        "text": null,
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "hJZUV",
-        "text": "![original image](https://cdn.mathpix.com/snip/images/2CWVZOrIVgMEwulgkBIlFCZZHGICg3Qa99DXN1D5Tkg.original.fullsize.png)",
+        "id": "ONqlJ",
+        "text": null,
         "image": null,
         "isCorrect": true
       }
@@ -1710,7 +1710,7 @@
     }
   },
   {
-    "id": "5e765e604873c8ba6249c63d",
+    "id": "1f2fdd24437ea4c5b488b99b",
     "type": "singleCorrect",
     "question": {
       "text": "In fructose, the possible optical isomers are",
@@ -1718,25 +1718,25 @@
     },
     "options": [
       {
-        "id": "reswX",
+        "id": "ilhjb",
         "text": "12",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "BxWOe",
+        "id": "kThVI",
         "text": "8",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "uvrCm",
+        "id": "BpFuQ",
         "text": "16",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "eAwWv",
+        "id": "wwpUy",
         "text": "4",
         "image": null,
         "isCorrect": false
@@ -1748,7 +1748,7 @@
     }
   },
   {
-    "id": "18f5c589e9616ef54925381a",
+    "id": "a10502555e1de64214e8b621",
     "type": "singleCorrect",
     "question": {
       "text": "The position of both, an electron and a helium atom is known within $1.0 \\mathrm{~nm}$. Further the momentum of the electron is known within 5.0 $\\times 10^{-26} \\mathrm{~kg} \\mathrm{~ms}^{-1}$. The minimum uncertainty in the measurement of the momentum of the helium atom is",
@@ -1756,75 +1756,75 @@
     },
     "options": [
       {
-        "id": "iHTXe",
+        "id": "eVtTj",
         "text": "$50 \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "fQiMF",
+        "id": "VHcva",
         "text": "$80 \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ZhmnX",
+        "id": "hTTRl",
         "text": "$8.0 \\times 10^{-26} \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "fbEwt",
+        "id": "umOXo",
         "text": "$5.0 \\times 10^{-26} \\mathrm{kgms}^{-1}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "By Heisenberg uncertainty Principle",
+      "text": "By Heisenberg uncertainty Principle\n$\\Delta x \\times \\Delta p=\\frac{h}{4 \\pi}$ (which is constant)\nAs $\\Delta \\mathrm{x}$ for electron and helium atom is same thus momentum of electron and helium will also be same therefore the momentum of helium atom is equal to $5 \\times 10^{-26} \\mathrm{~kg}$. m. $\\mathrm{s}^{-1}$.",
       "image": null
     }
   },
   {
-    "id": "4029fb2842a0a37c64382cfa",
+    "id": "4731ab80ed9f82c0d4cc93a4",
     "type": "singleCorrect",
     "question": {
-      "text": "The value of $\\log _{10} K$ for a reaction $\\mathrm{A} \\rightleftharpoons \\mathrm{B}$ is",
+      "text": "The value of $\\log _{10} K$ for a reaction $\\mathrm{A} \\rightleftharpoons \\mathrm{B}$ is\n(Given : $\\Delta_{\\mathrm{r}} \\mathrm{H}_{298 \\mathrm{O}}^{\\circ}=-54.07 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$,\n$\\Delta_{\\mathrm{r}} \\mathrm{S}_{298 \\mathrm{~K}}^{\\circ}=10 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$ and $\\mathrm{R}=8.314 \\mathrm{JK}^{-1}$\n$\\mathrm{mol}^{-1}$;\n$2.303 \\times 8.314 \\times 298=5705)$",
       "image": null
     },
     "options": [
       {
-        "id": "WAZIX",
+        "id": "awfxw",
         "text": "5",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DlAhf",
+        "id": "NRyvI",
         "text": "10",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "cNbkm",
+        "id": "cXJuv",
         "text": "95",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Mhohx",
+        "id": "sHqQU",
         "text": "100",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } \\mathrm{A} \\rightleftharpoons \\mathrm{B} \\\\\n& \\Delta G^{\\circ}=\\Delta H^{\\circ}-\\mathrm{T} \\Delta S^{\\circ} \\\\\n& \\Delta G^{\\circ}=-2.303 \\mathrm{RT} \\log _{10} \\mathrm{~K} \\\\\n& -2.303 \\mathrm{RT} \\log _{10} \\mathrm{~K}=\\Delta H^{\\circ}-T \\Delta S^{\\circ} \\\\\n& 2.303 \\mathrm{RT} \\log _{10} \\mathrm{~K}=T \\Delta S^{\\circ}-\\Delta H^{\\circ} \\\\\n& \\log _{10} \\mathrm{~K}=\\frac{T \\Delta S^{\\circ}-\\Delta H^{\\circ}}{2.303 R T} \\\\\n& =\\frac{298 \\times 10+54.07 \\times 1000}{2.303 \\times 8.314 \\times 298} \\\\\n& =9.998 \\approx 10 \\\\\n&\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "ad44d6a2cce6653ba5b6c920",
+    "id": "4289902c2d404211ab3c0d39",
     "type": "singleCorrect",
     "question": {
       "text": "IfC(s) $+\\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{R}$ and $\\mathrm{CO}(\\mathrm{g})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{S}$, then heat of formation of $\\mathrm{CO}$ is:",
@@ -1832,25 +1832,25 @@
     },
     "options": [
       {
-        "id": "ZnpdV",
+        "id": "ormob",
         "text": "$\\mathrm{R}+\\mathrm{S}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ybyEo",
+        "id": "BXvwr",
         "text": "$\\mathrm{R}-\\mathrm{S}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "nzLGb",
+        "id": "BqGnV",
         "text": "$\\mathrm{R} \\times \\mathrm{S}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "tJkoS",
+        "id": "UPSCE",
         "text": "$\\mathrm{S}-\\mathrm{R}$",
         "image": null,
         "isCorrect": false
@@ -1862,7 +1862,7 @@
     }
   },
   {
-    "id": "01530743ecfdb7f5eaf2ec47",
+    "id": "3c78469921bfa26f3e8f8e54",
     "type": "singleCorrect",
     "question": {
       "text": "Which of the following compounds does not follow Markownikoff's law?",
@@ -1870,25 +1870,25 @@
     },
     "options": [
       {
-        "id": "tYJBV",
+        "id": "jxoKh",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}=\\mathrm{CH}_2$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "LJSqc",
+        "id": "zjDbU",
         "text": "$\\mathrm{CH}_2 \\mathrm{CHCl}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "TxbZK",
+        "id": "VAMPp",
         "text": "$\\mathrm{CH}_3 \\mathrm{CH}=\\mathrm{CHCH}_3$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "KJhsc",
+        "id": "xUZKK",
         "text": "None",
         "image": null,
         "isCorrect": false
@@ -1900,7 +1900,7 @@
     }
   },
   {
-    "id": "6b6a33831180a8857b4390a9",
+    "id": "26f49cea3dac4d5b9ace854d",
     "type": "singleCorrect",
     "question": {
       "text": "The value of $c$ in Rolle's Theorem for the function $f(x)=e^x \\sin x, x \\in[0, \\pi]$ is",
@@ -1908,37 +1908,37 @@
     },
     "options": [
       {
-        "id": "PPWVi",
+        "id": "wisdI",
         "text": "$\\frac{\\pi}{6}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "zsYlH",
+        "id": "ttIdF",
         "text": "$\\frac{\\pi}{4}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "zNPDp",
+        "id": "wyQjQ",
         "text": "$\\frac{\\pi}{2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "LlFwp",
+        "id": "lbBVw",
         "text": "$\\frac{3 \\pi}{4}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Since Rolle's theorem is satisfied",
+      "text": "Since Rolle's theorem is satisfied\n$$\n\\begin{aligned}\n& \\therefore \\mathrm{f}^{\\prime}(\\mathrm{c})=0 \\Rightarrow \\mathrm{e}^{\\mathrm{c}} \\sin \\mathrm{c}+\\mathrm{e}^{\\mathrm{c}} \\cos \\mathrm{c}=0 \\\\\n& \\Rightarrow \\mathrm{e}^{\\mathrm{c}}\\{\\sin \\mathrm{c}+\\cos \\mathrm{c}\\}=0 \\\\\n& \\therefore \\sin \\mathrm{c}+\\cos \\mathrm{c}=0 \\quad\\left(\\because \\mathrm{e}^{\\mathrm{c}} \\neq 0\\right) \\\\\n& \\Rightarrow \\tan \\mathrm{c}=-1 \\Rightarrow \\mathrm{c}=\\tan ^{-1}(-1)=\\pi-\\frac{\\pi}{4}=\\frac{3 \\pi}{4}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "b31ca9766ad5de05686332a4",
+    "id": "3cf63b39316c1ebd23c8ae8e",
     "type": "singleCorrect",
     "question": {
       "text": "The equations $2 x+3 y+4=0 ; 3 x+4 y+6=0$ and $4 x+5 y+8=0$ are",
@@ -1946,37 +1946,37 @@
     },
     "options": [
       {
-        "id": "eEvyt",
+        "id": "EJYvY",
         "text": "consistent with unique solution",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "bbkQv",
+        "id": "MIutu",
         "text": "inconsistent",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DMNhp",
+        "id": "DugFE",
         "text": "consistent with infinitely many solutions",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "IEmjn",
+        "id": "eNYIk",
         "text": "None of the above",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Consider first two equations :",
+      "text": "Consider first two equations :\n$2 x+3 y=-4$ and $3 x+4 y=-6$\nWe have $\\Delta=\\left|\\begin{array}{ll}2 & 3 \\\\ 3 & 4\\end{array}\\right|=-1 \\neq 0$\n$$\n\\Delta_{\\mathrm{x}}=\\left|\\begin{array}{ll}\n-4 & 3 \\\\\n-6 & 4\n\\end{array}\\right|=2 \\quad \\text { and } \\quad \\Delta_{\\mathrm{y}}=\\left|\\begin{array}{ll}\n2 & -4 \\\\\n3 & -6\n\\end{array}\\right|=0\n$$\n\n$$\n\\therefore \\mathrm{x}=-2 \\text { and } \\mathrm{y}=0\n$$\nNow this solution satisfies all the equations, so the equations are consistent with unique solution.",
       "image": null
     }
   },
   {
-    "id": "8b0372dd58064953617450ea",
+    "id": "d4683046087928567ec5b7ee",
     "type": "singleCorrect",
     "question": {
       "text": "The shortest distance between the lines $x=y+2=6 z-6$ and $x+1=2 y=-12 z$ is",
@@ -1984,37 +1984,37 @@
     },
     "options": [
       {
-        "id": "Pthua",
+        "id": "cMZqm",
         "text": "$\\frac{1}{2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "eUKMf",
+        "id": "CIuxq",
         "text": "2",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "GOXcv",
+        "id": "DHFaj",
         "text": "1",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Hjrvo",
+        "id": "JEQDZ",
         "text": "$\\frac{3}{2}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "The lines are $\\frac{x}{6}=\\frac{y+2}{6}=\\frac{z-1}{1}$ and $\\frac{x+1}{12}=\\frac{y}{6}=\\frac{z}{-1}$",
+      "text": "The lines are $\\frac{x}{6}=\\frac{y+2}{6}=\\frac{z-1}{1}$ and $\\frac{x+1}{12}=\\frac{y}{6}=\\frac{z}{-1}$\nHere, $\\vec{a}_1=-2 \\hat{j}+\\hat{k}, \\vec{b}_1=6 \\hat{i}+6 \\hat{j}+\\hat{k}, \\vec{a}_2=-\\hat{i}$,\n$$\n\\begin{aligned}\n& \\vec{b}_2=12 \\hat{i}+6 \\hat{j}-\\hat{k} \\\\\n& \\vec{b}_1 \\times \\vec{b}_2=\\left|\\begin{array}{ccc}\n\\hat{i} & \\hat{j} & k \\\\\n6 & 6 & 1 \\\\\n12 & 6 & -1\n\\end{array}\\right|=-12 \\hat{i}+18 \\hat{j}-36 \\hat{k}\n\\end{aligned}\n$$\nShortest distance $=\\frac{\\left|\\left(\\overrightarrow{\\mathrm{a}}_2-\\overrightarrow{\\mathrm{a}}_1\\right) \\cdot\\left(\\overrightarrow{\\mathrm{b}}_1-\\overrightarrow{\\mathrm{b}}_2\\right)\\right|}{\\left|\\overrightarrow{\\mathrm{b}}_1 \\times \\overrightarrow{\\mathrm{b}}_2\\right|}$\n\n$$\n\\begin{aligned}\n& =\\frac{|(-\\hat{i}+2 \\hat{j}-\\hat{k}) \\cdot(-12 i+18 \\hat{j}-36 \\hat{k})|}{\\sqrt{(-12)^2+(18)^2+(-36)^2}} \\\\\n& =\\frac{|+12+36+36|}{\\sqrt{1764}}=\\frac{84}{42}=2\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "3d402327df87ece34c5a4192",
+    "id": "e6e36fe8b4b35d442cfbb13a",
     "type": "singleCorrect",
     "question": {
       "text": "If the tangent at $P(1,1)$ on $y^2=x(2-x)^2$ meets the curve again at $Q$, then $Q$ is",
@@ -2022,37 +2022,37 @@
     },
     "options": [
       {
-        "id": "pNsZO",
+        "id": "umFco",
         "text": "$(2,2)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "KWNto",
+        "id": "BMxvl",
         "text": "$(-1,-2)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "NOxXb",
+        "id": "xZrSz",
         "text": "$\\left(\\frac{9}{4}, \\frac{3}{8}\\right)$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "JBvqA",
+        "id": "zSJMl",
         "text": "None of these",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } y^2=x(2-x)^2 \\Rightarrow y^2=x^3-4 x^2+4 x \\\\\n& \\Rightarrow 2 y \\frac{d y}{d x}=3 x^2-8 x+4 \\Rightarrow \\frac{d y}{d x}=\\frac{3 x^2-8 x+4}{2 y} \\\\\n& \\Rightarrow\\left[\\frac{d y}{d x}\\right]_P=\\frac{3-8+4}{2}=-\\frac{1}{2}\n\\end{aligned}\n$$\n$\\therefore$ Equation of tangent at $\\mathrm{P}$ is: $\\mathrm{y}-1=-\\frac{1}{2}(\\mathrm{x}-1)$\n$$\n\\Rightarrow \\mathrm{x}+2 \\mathrm{y}-3=0\n$$\nUsing $y=\\frac{3-x}{2}$ in (i),\nwe get: $\\left(\\frac{3-x}{2}\\right)^2=x^3-4 x^2+4 x$\n$$\n\\Rightarrow 4 x^3-17 x^2+22 x-9=0\n$$\nwhich has two roots 1,1\n(Because of (ii) being tangent at $(1,1)$ ).\nSum of 3 roots $=\\frac{17}{4} \\therefore 3$ rd root $=\\frac{17}{4}-2=\\frac{9}{4}$\n\n$$\n\\text { Then, } \\mathrm{y}=\\frac{3-\\frac{9}{4}}{2}=\\frac{3}{8} \\therefore \\mathrm{Q} \\text { is }\\left(\\frac{9}{4}, \\frac{3}{8}\\right)\n$$",
       "image": null
     }
   },
   {
-    "id": "57d31d52ed5dba41b73c839f",
+    "id": "c4468f2ebb0830ea7d2533a6",
     "type": "singleCorrect",
     "question": {
       "text": "If $f(x)=x+\\frac{x}{1+x}+\\frac{x}{(1+x)^2}+\\ldots$ to $\\infty$, then at $\\mathrm{x}=0, \\mathrm{f}(\\mathrm{x})$",
@@ -2060,37 +2060,37 @@
     },
     "options": [
       {
-        "id": "EWLxb",
+        "id": "CwSgI",
         "text": "has no limit",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "KpFuC",
+        "id": "BeiYC",
         "text": "is discontinuous",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "HXcea",
+        "id": "IxXqa",
         "text": "is continuous but not differentiable",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "uqsjn",
+        "id": "VmaNh",
         "text": "is differentiable",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "For $\\mathrm{x} \\neq 0$, we have,",
+      "text": "For $\\mathrm{x} \\neq 0$, we have,\n$$\nf(x)=x+\\frac{x / 1+x}{1-\\frac{1}{1+x}}=x+\\frac{x / 1+x}{x / 1+x}=x+1\n$$\nFor $x=0, f(x)=0$. Thus, $f(x)=\\left\\{\\begin{array}{cc}x+1, & x \\neq 0 \\\\ 0, & x=0\\end{array}\\right.$ Clearly, $\\lim _{x \\rightarrow 0^{-}} f(x)=\\lim _{x \\rightarrow 0^{+}} f(x)=1 \\neq f(0)$.\nSo, $\\mathrm{f}(\\mathrm{x})$ is discontinuous and hence not differentiable at $\\mathrm{x}=0$.",
       "image": null
     }
   },
   {
-    "id": "4a6e05a18c83115ea1810baf",
+    "id": "eda902381d1fdaa54e02b59f",
     "type": "singleCorrect",
     "question": {
       "text": "Radius of the circle $(x+5)^2+(y-3)^2=36$ is",
@@ -2098,37 +2098,37 @@
     },
     "options": [
       {
-        "id": "mpwTh",
+        "id": "XTyBk",
         "text": "2",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "XaCeE",
+        "id": "FcZOC",
         "text": "3",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "KKjVB",
+        "id": "sdAmf",
         "text": "6",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "lZFum",
+        "id": "TqmSl",
         "text": "5",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Comparing the equation of the circle $(x+5)^2+(y-3)^2=36$",
+      "text": "Comparing the equation of the circle $(x+5)^2+(y-3)^2=36$\nwith $(x-h)^2+(y-k)^2=r^2$\n$\\therefore \\quad-h=5$ or $h=-5, k=3, r^2=36 \\Rightarrow r=6$\n$\\therefore \\quad$ Centre of the circle is $(-5,3)$ and radius $=6$",
       "image": null
     }
   },
   {
-    "id": "f54fcb0995cacca3654eda81",
+    "id": "93fbd9cf575150f2a3efa07e",
     "type": "singleCorrect",
     "question": {
       "text": "If $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ and $\\vec{c}=-\\hat{i}+2 \\hat{k}$ then $|\\overrightarrow{\\mathrm{c}}|$. $\\vec{a}$ is equal to :",
@@ -2136,37 +2136,37 @@
     },
     "options": [
       {
-        "id": "RtFpA",
+        "id": "qochn",
         "text": "$2 \\sqrt{5} \\hat{i}+2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "wWszR",
+        "id": "EPAxe",
         "text": "$2 \\sqrt{5} \\hat{i}-2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "vtHql",
+        "id": "EEvmj",
         "text": "$\\sqrt{5} \\hat{i}+\\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bfViz",
+        "id": "fGZbB",
         "text": "$\\sqrt{5} \\hat{i}+2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "If $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ and $\\vec{c}=-\\hat{i}+2 \\hat{k}$",
+      "text": "If $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ and $\\vec{c}=-\\hat{i}+2 \\hat{k}$\n$$\n\\begin{aligned}\n& |\\overrightarrow{\\mathrm{c}}|=\\sqrt{(-1)^2+2^2}=\\sqrt{1+4}=\\sqrt{5} \\\\\n& |\\vec{c}| \\cdot \\vec{a}=\\sqrt{5} \\cdot(2 \\hat{i}-2 \\hat{j}+\\hat{k}) \\\\\n& \\therefore|\\vec{c}| \\cdot \\vec{a}=2 \\sqrt{5} \\hat{i}-2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "2677a4d14b400f179a11233a",
+    "id": "869a68c619b5bfaa3aefaf1e",
     "type": "singleCorrect",
     "question": {
       "text": "If $(-4,5)$ is one vertex and $7 x-y+8=0$ is one diagonal of a square, then the equation of second diagonal is",
@@ -2174,37 +2174,37 @@
     },
     "options": [
       {
-        "id": "LBylf",
+        "id": "qLATt",
         "text": "$x+3 y=21$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "EAvLr",
+        "id": "AjZUB",
         "text": "$2 x-3 y=7$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "gfMtl",
+        "id": "Xkxgt",
         "text": "$x+7 y=31$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "cgPmI",
+        "id": "Dfobs",
         "text": "$2 x+3 y=21$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "One vertex of square is $(-4,5)$ and equation of one diagonal is $7 x-y+8=0$",
+      "text": "One vertex of square is $(-4,5)$ and equation of one diagonal is $7 x-y+8=0$\nDiagonal of a square are perpendicular and bisect each other\nLet the equation of the other diagonal be $y=m x$ $+\\mathrm{c}$ where $\\mathrm{m}$ is the slope of the line and $\\mathrm{c}$ is the $y-$ intercept.\nSince this line passes through $(-4,5)$\n$$\n\\therefore \\quad 5=-4 \\mathrm{~m}+\\mathrm{c}\n$$\nSince this line is at right angle to the line\n$$\n7 x-y+8=0 \\text { or } y=7 x+8 \\text {, having slope }=7 \\text {, }\n$$\n$$\n\\therefore \\quad 7 \\times \\mathrm{m}=-1 \\text { or } \\mathrm{m}=\\frac{-1}{7}\n$$\nPutting this value of $m$ in equation (i) we get\n$$\n5=-4 \\times\\left(\\frac{-1}{7}\\right)+\\mathrm{c}\n$$\nor $5=\\frac{4}{7}+\\mathrm{c} \\quad$ or $\\quad \\mathrm{c}=5-\\frac{4}{7}=\\frac{31}{7}$\nHence equation of the other diagonal is\n$$\ny=-\\frac{1}{7} \\mathrm{x}+\\frac{31}{7} \\text { or } 7 \\mathrm{y}=-\\mathrm{x}+31\n$$\nor $x+7 y-31=0$ or $x+7 y=31$.",
       "image": null
     }
   },
   {
-    "id": "9ec90dab7e5d3356d0f4aa79",
+    "id": "4c6c416b374673780290abbe",
     "type": "singleCorrect",
     "question": {
       "text": "$\\mathrm{p} \\Rightarrow \\mathrm{q}$ can also be written as",
@@ -2212,25 +2212,25 @@
     },
     "options": [
       {
-        "id": "XnBPZ",
+        "id": "EcSFq",
         "text": "$\\mathrm{p} \\Rightarrow \\sim \\mathrm{q}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "RJmdc",
+        "id": "iVOgy",
         "text": "$\\sim$ p $\\vee \\mathrm{q}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "nrNjy",
+        "id": "qTaVf",
         "text": "$\\sim \\mathrm{q} \\Rightarrow \\sim \\mathrm{p}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DFcah",
+        "id": "VaLFx",
         "text": "None of these",
         "image": null,
         "isCorrect": false
@@ -2242,7 +2242,7 @@
     }
   },
   {
-    "id": "69f4c7253cd9b6a685e3af96",
+    "id": "a48c9a39c1d5eafd55316da5",
     "type": "singleCorrect",
     "question": {
       "text": "Let $\\int \\frac{x^{1 / 2}}{\\sqrt{1-x^3}} d x=\\frac{2}{3} \\operatorname{gof}(x)+C$, then",
@@ -2250,37 +2250,37 @@
     },
     "options": [
       {
-        "id": "KPuLk",
+        "id": "RIeWy",
         "text": "$\\mathrm{f}(\\mathrm{x})=\\sqrt{\\mathrm{x}}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "jcknk",
+        "id": "JQASm",
         "text": "$\\mathrm{f}(\\mathrm{x})=\\mathrm{x}^{3 / 2}$ and $\\mathrm{g}(\\mathrm{x})=\\sin ^{-1} \\mathrm{x}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "EIwyS",
+        "id": "Zjqkp",
         "text": "$f(x)=x^{2 / 3}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "JJfYa",
+        "id": "tkgPg",
         "text": "None of these",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Put $\\mathrm{x}^{3 / 2}=\\mathrm{t} \\Rightarrow \\frac{3}{2} \\mathrm{x}^{1 / 2} \\mathrm{dx}=\\mathrm{dt}$",
+      "text": "Put $\\mathrm{x}^{3 / 2}=\\mathrm{t} \\Rightarrow \\frac{3}{2} \\mathrm{x}^{1 / 2} \\mathrm{dx}=\\mathrm{dt}$\n$\\therefore$ integral is\n$$\n\\int \\frac{\\frac{2}{3} \\mathrm{dt}}{\\sqrt{1-\\mathrm{t}^2}}=\\frac{2}{3} \\sin ^{-1} \\mathrm{t}+\\mathrm{C}=\\frac{2}{3} \\sin ^{-1}\\left(\\mathrm{x}^{3 / 2}\\right)+\\mathrm{C}\n$$",
       "image": null
     }
   },
   {
-    "id": "66dc26469d87dbd7833c39cb",
+    "id": "03ed7bf9211512a344d99926",
     "type": "singleCorrect",
     "question": {
       "text": "Which one of the following is an infinite set ?",
@@ -2288,25 +2288,25 @@
     },
     "options": [
       {
-        "id": "pSBcJ",
+        "id": "VNZcx",
         "text": "The set of human beings on the earth",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "VcJMQ",
+        "id": "LzEZN",
         "text": "The set of water drops in a glass of water",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "EsNKd",
+        "id": "AIrPQ",
         "text": "The set of trees in a forest",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "aROzi",
+        "id": "UdCyu",
         "text": "The set of all primes",
         "image": null,
         "isCorrect": true
@@ -2318,45 +2318,45 @@
     }
   },
   {
-    "id": "9e5de1331a95c27a913b48fd",
+    "id": "3a0a1da9ce50d0f66c4802b3",
     "type": "singleCorrect",
     "question": {
-      "text": "The domain of the function",
+      "text": "The domain of the function\n$\\sqrt{x^2-5 x+6}+\\sqrt{2 x+8-x^2}$ is",
       "image": null
     },
     "options": [
       {
-        "id": "kzOhv",
+        "id": "znWMz",
         "text": "$[2,3]$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "pDqUP",
+        "id": "jVTfD",
         "text": "$[-2,4]$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "AJAns",
+        "id": "ZytwK",
         "text": "$[-2,2] \\cup[3,4]$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "zUOCi",
+        "id": "ZaffZ",
         "text": "$[-2,1] \\cup[2,4]$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$f(x)=\\sqrt{(x-2)(x-3)}+\\sqrt{-(x-4)(x+2)}$",
+      "text": "$f(x)=\\sqrt{(x-2)(x-3)}+\\sqrt{-(x-4)(x+2)}$\nThe first part is real outside $(2,3)$ and the second is real in $[-2,4]$ so that the domain is $[-2,2] \\cup[3,4]$.",
       "image": null
     }
   },
   {
-    "id": "c6af74100d266e534350b674",
+    "id": "df049bf22fb570708f5a10bc",
     "type": "singleCorrect",
     "question": {
       "text": "Area bounded by the curve $y=\\log x$ and the coordinate axes is",
@@ -2364,37 +2364,37 @@
     },
     "options": [
       {
-        "id": "WXjxU",
+        "id": "SXaFI",
         "text": "2",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "kmrON",
+        "id": "cIWPR",
         "text": "1",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bsTiJ",
+        "id": "zOtPh",
         "text": "5",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "lrcbt",
+        "id": "PRrfl",
         "text": "$2 \\sqrt{2}$",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "Observing the graph of $\\log x$, we find that the required area lies below $\\mathrm{X}$-axis between $\\mathrm{x}=0$ and $x=1$.",
+      "text": "Observing the graph of $\\log x$, we find that the required area lies below $\\mathrm{X}$-axis between $\\mathrm{x}=0$ and $x=1$.\n$$\n\\begin{aligned}\n& \\text { Sorequired area }=\\left|\\int_0^1 \\log x d x\\right|=\\left.|(x \\log x-x)|\\right|_0 ^1 \\\\\n& =|-1|=1\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "9e635b3bba9bdb9bf243b014",
+    "id": "55c7d5a296846fdcaed170ec",
     "type": "singleCorrect",
     "question": {
       "text": "The angle of intersection to the curve $y=x^2$, $6 y=7-x^3$ at $(1,1)$ is :",
@@ -2402,37 +2402,37 @@
     },
     "options": [
       {
-        "id": "qDDIg",
+        "id": "YeDMb",
         "text": "$\\frac{\\pi}{2}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "Faplh",
+        "id": "UwGFl",
         "text": "$\\frac{\\pi}{4}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "BlSnT",
+        "id": "novsi",
         "text": "$\\frac{\\pi}{3}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "judQN",
+        "id": "rLSRU",
         "text": "$\\pi$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Let $m_1$ and $m_2$ be slope of curve $y=x^2$ and $6 y=7-x^3$ respectively.",
+      "text": "Let $m_1$ and $m_2$ be slope of curve $y=x^2$ and $6 y=7-x^3$ respectively.\nNow, $y=x^2 \\Rightarrow \\frac{d y}{d x}=2 x$\n$$\n\\Rightarrow\\left(\\frac{\\mathrm{dy}}{\\mathrm{dx}}\\right)_{(1,1)}=2 \\text { i.e. } \\mathrm{m}_1=2\n$$\nand $6 y=7-x^3 \\Rightarrow 6 \\frac{d y}{d x}=-3 x^2$\n$\\Rightarrow \\frac{\\mathrm{dy}}{\\mathrm{dx}}=-\\frac{3}{6} \\mathrm{x}^2=-\\frac{1}{2} \\mathrm{x}^2$\n$\\Rightarrow\\left(\\frac{\\mathrm{dy}}{\\mathrm{dx}}\\right)_{(1,1)}=-\\frac{1}{2}(1)^2=-\\frac{1}{2}$\n$\\therefore \\mathrm{m}_2=-\\frac{1}{2} \\therefore \\mathrm{m}_1 \\mathrm{~m}_2=2 .-\\frac{1}{2}=-1$\n$\\therefore \\quad$ Angle of intersection is $90^{\\circ}$ i.e. $\\frac{\\pi}{2}$",
       "image": null
     }
   },
   {
-    "id": "eb91d014af0379cafa8d08b9",
+    "id": "833ee69672632ac912db4d8f",
     "type": "singleCorrect",
     "question": {
       "text": "Angle formed by the positive Y-axis and the tangent to $y=x^2+4 x-17$ at $\\left(\\frac{5}{2}, \\frac{-3}{4}\\right)$ is",
@@ -2440,37 +2440,37 @@
     },
     "options": [
       {
-        "id": "kFego",
+        "id": "WVNVf",
         "text": "$\\tan ^{-1} 9$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Uhxjx",
+        "id": "vERIe",
         "text": "$\\frac{\\pi}{2}-\\tan ^{-1} 9$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "cYncd",
+        "id": "xRsgo",
         "text": "$\\frac{\\pi}{2}+\\tan ^{-1} 9$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "DoBEz",
+        "id": "qYXTY",
         "text": "$\\frac{\\pi}{2}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$y=x^2+4 x+4-4-17$",
+      "text": "$y=x^2+4 x+4-4-17$\n$y=(x+2)^2-21 \\Rightarrow$ Vertex is $(-2,-21)$\nAlso $y=x^2+4 x-17 \\Rightarrow \\frac{d y}{d x}=2 x+4$\n$\\Rightarrow$ Slope of tangent at $\\left(\\frac{5}{2},-\\frac{3}{4}\\right)$\n$m=\\frac{d y}{d x}=2 \\times \\frac{5}{2}+4=9 ; \\theta=\\tan ^{-1} 9$\n$\\therefore$ angle by y-axis $=\\frac{\\pi}{2}-\\tan ^{-1} 9=\\cot ^{-1} 9$",
       "image": null
     }
   },
   {
-    "id": "e3fc912acb1d1a6a3e31d3d6",
+    "id": "152f2c31c85ef02131e508ce",
     "type": "singleCorrect",
     "question": {
       "text": "The value of $(1+i)^4\\left(1+\\frac{1}{i}\\right)^4$ is",
@@ -2478,37 +2478,37 @@
     },
     "options": [
       {
-        "id": "wnIlF",
+        "id": "NUmPC",
         "text": "12",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "eCTLI",
+        "id": "lggFm",
         "text": "2",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ZHVpr",
+        "id": "DeGtg",
         "text": "8",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ujyoV",
+        "id": "hhdjN",
         "text": "16",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\text {  }(1+i)^4 \\times\\left(1+\\frac{1}{i}\\right)^4=(1+i)^4 \\times(1-i)^4=2^4\n$$",
       "image": null
     }
   },
   {
-    "id": "d4314c7c5a8f63c82c33c538",
+    "id": "e53b96622f1a1eac7f3dec31",
     "type": "singleCorrect",
     "question": {
       "text": "The relation $\\mathrm{R}$ defined on the set $\\mathrm{A}=\\{1,2,3$, $4,5\\}$ by $R=\\left\\{(x, y):\\left|x^2-y^2\\right|<16\\right\\}$ is given by",
@@ -2516,37 +2516,37 @@
     },
     "options": [
       {
-        "id": "cjGrK",
+        "id": "osOMF",
         "text": "$\\{(1,1),(2,1),(3,1),(4,1),(2,3)\\}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "eeltE",
+        "id": "cmhAj",
         "text": "$\\{(2,2),(3,2),(4,2),(2,4)\\}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xgwvG",
+        "id": "tNspK",
         "text": "$\\{(3,3),(4,3),(5,4),(3,4)\\}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "OFZbe",
+        "id": "FrxPv",
         "text": "None of these",
         "image": null,
         "isCorrect": true
       }
     ],
     "solution": {
-      "text": "We have $\\mathrm{R}=\\left\\{(\\mathrm{x}, \\mathrm{y}):\\left|\\mathrm{x}^2-\\mathrm{y}^2\\right|<16\\right\\}$",
+      "text": "We have $\\mathrm{R}=\\left\\{(\\mathrm{x}, \\mathrm{y}):\\left|\\mathrm{x}^2-\\mathrm{y}^2\\right|<16\\right\\}$\nLet $\\mathrm{x}=1,\\left|\\mathrm{x}^2-\\mathrm{y}^2\\right|<16 \\Rightarrow\\left|1-\\mathrm{y}^2\\right|<16$\n$\\Rightarrow\\left|y^2-1\\right|<16 \\Rightarrow y=1,2,3,4$\nLet $x=2,\\left|x^2-y^2\\right|<16 \\Rightarrow\\left|4-y^2\\right|<16$\n$\\Rightarrow\\left|y^2-4\\right|<16 \\Rightarrow y=1,2,3,4$\nLet $x=3,\\left|x^2-y^2\\right|<16 \\Rightarrow\\left|9-y^2\\right|<16$\n$\\Rightarrow\\left|y^2-9\\right|<16 \\Rightarrow y=1,2,3,4$\nLet $x=4,\\left|x^2-y^2\\right|<16 \\Rightarrow\\left|16-y^2\\right|<16$\n$\\Rightarrow\\left|y^2-16\\right|<16 \\Rightarrow y=1,2,3,4,5$\nLet $\\mathrm{x}=5,\\left|\\mathrm{x}^2-\\mathrm{y}^2\\right|<16 \\Rightarrow\\left|25-\\mathrm{y}^2\\right|<16$\n$\\Rightarrow\\left|\\mathrm{y}^2-25\\right|<16 \\Rightarrow \\mathrm{y}=4,5$\n$\\therefore \\quad \\mathrm{R}=\\{(1,1),(1,2),(1,3),(1,4),(2,1),(2$,\n$2),(2,3),(2,4),(3,1),(3,2),(3,3),(3,4),(4,1)$,\n$(4,2),(4,3),(4,4),(4,5),(5,4),(5,5)\\}$",
       "image": null
     }
   },
   {
-    "id": "f2b6c8b31d2e54510057925d",
+    "id": "92daf3ba3e9ed365265d76de",
     "type": "singleCorrect",
     "question": {
       "text": "$\\int \\frac{2 d x}{\\left(e^x+e^{-x}\\right)^2}=$",
@@ -2554,37 +2554,37 @@
     },
     "options": [
       {
-        "id": "gRyXj",
+        "id": "brClC",
         "text": "$\\frac{-\\mathrm{e}^{-\\mathrm{x}}}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "lFNhc",
+        "id": "mBvCW",
         "text": "$\\frac{-1}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "GSCVb",
+        "id": "Fujbc",
         "text": "$\\frac{1}{\\left(\\mathrm{e}^{\\mathrm{x}}+1\\right)^2}+\\mathrm{C}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "zcrRN",
+        "id": "ukIAR",
         "text": "$\\frac{1}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } \\int \\frac{2 \\mathrm{dx}}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)^2}=\\int \\frac{2 \\mathrm{e}^{2 \\mathrm{x}}}{\\left(\\mathrm{e}^{2 \\mathrm{x}}+1\\right)^2} \\mathrm{dx} \\\\\n& =-\\frac{1}{\\left(\\mathrm{e}^{2 \\mathrm{x}}+1\\right)}+\\mathrm{c}=-\\frac{\\mathrm{e}^{-\\mathrm{x}}}{\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}}+\\mathrm{c}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "318e14c9aa69fc9aaec4c689",
+    "id": "e878b3e347e9523e042a7266",
     "type": "singleCorrect",
     "question": {
       "text": "The value of $\\tan ^{-1}(1)+\\tan ^{-1}(0)+\\tan ^{-1}(2)+\\tan ^{-1}(3)$ is equal to",
@@ -2592,37 +2592,37 @@
     },
     "options": [
       {
-        "id": "nSDSR",
+        "id": "QWFVy",
         "text": "$\\pi$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "MQQnS",
+        "id": "dQjET",
         "text": "$\\frac{5 \\pi}{4}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bxolH",
+        "id": "lRuLe",
         "text": "$\\frac{\\pi}{2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "iHhOP",
+        "id": "YnvMB",
         "text": "None of these",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$$",
+      "text": "$$\n\\begin{aligned}\n& \\text {  } \\tan ^{-1}(1)+\\tan ^{-1}(0)+\\tan ^{-1}(2)+\\tan ^{-1}(3) \\\\\n& =\\frac{\\pi}{4}+\\pi+\\tan ^{-1}\\left(\\frac{2+3}{1-2.3}\\right) \\quad(\\text { as } 2.3>1) \\\\\n& =\\frac{5 \\pi}{4}+\\tan ^{-1}(-1)=\\frac{5 \\pi}{4}-\\frac{\\pi}{4}=\\pi\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "f52332f071d7ad7774a9b284",
+    "id": "2590846cdb911048aaec00f0",
     "type": "singleCorrect",
     "question": {
       "text": "In a culture the bacteria count is $1,00,000$. The number is increased by $10 \\%$ in 2 hours. In how many hours will the count reach 2,00,000 if the rate of growth of bacteria is proportional to the number present.",
@@ -2630,37 +2630,37 @@
     },
     "options": [
       {
-        "id": "yxMuv",
+        "id": "ZJDca",
         "text": "$\\frac{2}{\\log \\frac{11}{10}}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "tbspj",
+        "id": "TTxrg",
         "text": "$\\frac{2 \\log 2}{\\log \\left(\\frac{11}{10}\\right)}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "fIbNT",
+        "id": "LDgUp",
         "text": "$\\frac{\\log 2}{\\log 11}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "irIHi",
+        "id": "MwBpC",
         "text": "$\\frac{\\log 2}{\\log \\left(\\frac{11}{10}\\right)}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Let $y$ denote the number of bacteria at any instant $t \\cdot$ then according to the question",
+      "text": "Let $y$ denote the number of bacteria at any instant $t \\cdot$ then according to the question\n$$\n\\frac{\\mathrm{dy}}{\\mathrm{dt}} \\alpha \\mathrm{y} \\Rightarrow \\frac{\\mathrm{dy}}{\\mathrm{y}}=\\mathrm{kdt}\n$$\n$\\mathrm{k}$ is the constant of proportionality, taken to be + ve on integrating (i), we get\n$$\n\\log y=k t+c\n$$\n$\\mathrm{c}$ is a parameter. let $\\mathrm{y}_0$ be the initial number of bacteria\ni.e., at $\\mathrm{t}=0$ using this in (ii), $\\mathrm{c}=\\log \\mathrm{y}_0$\n\n\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad \\log \\mathrm{y}=\\mathrm{kt}+\\log \\mathrm{y}_0 \\Rightarrow \\log \\frac{\\mathrm{y}}{\\mathrm{y}_0}=\\mathrm{kt} \\\\\n& \\mathrm{y}=\\left(\\mathrm{y}_0+\\frac{10}{100} \\mathrm{y}_0\\right)=\\frac{11 \\mathrm{y}_0}{10} \\text {, when } \\mathrm{t}=2 \\\\\n& \\text { So, from (iii), we get } \\log \\frac{\\frac{11 \\mathrm{y}_0}{10}}{\\mathrm{y}_0}=\\mathrm{k} \\text { (2) } \\\\\n& \\Rightarrow \\mathrm{k}=\\frac{1}{2} \\log \\frac{11}{10}\n\\end{aligned}\n$$\nUsing (iv) in (iii) $\\log \\frac{\\mathrm{y}}{\\mathrm{y}_0}=\\frac{1}{2}\\left(\\log \\frac{11}{10}\\right) \\mathrm{t}$\nlet the number of bacteria become $1,00,000$ to $2,00,000$ in $t_1$ hours. i.e., $y=2 y_0$ when $\\mathrm{t}=\\mathrm{t}_1$ hours. from $(\\mathrm{v})$\n$$\n\\log \\frac{2 \\mathrm{y}_0}{\\mathrm{y}_0}=\\frac{1}{2}\\left(\\log \\frac{11}{10}\\right) \\mathrm{t}_1 \\Rightarrow \\mathrm{t}_1=\\frac{2 \\log 2}{\\log \\frac{11}{10}}\n$$\nHence, the reqd. no. of hours $=\\frac{2 \\log 2}{\\log \\frac{11}{10}}$",
       "image": null
     }
   },
   {
-    "id": "73436dc0910682143848e149",
+    "id": "68ac796300f6820931fb9d9f",
     "type": "singleCorrect",
     "question": {
       "text": "What is the angle between the two straight lines $y=(2-\\sqrt{3}) x+5$ and $y=(2+\\sqrt{3}) x-7$ ?",
@@ -2668,37 +2668,37 @@
     },
     "options": [
       {
-        "id": "dNiMu",
+        "id": "egPtN",
         "text": "$60^{\\circ}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "xSvsl",
+        "id": "ecgYH",
         "text": "$45^{\\circ}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "UHDDr",
+        "id": "AZhGv",
         "text": "$30^{\\circ}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "mCsdu",
+        "id": "OgHgl",
         "text": "$15^{\\circ}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Th\u00ea given lin\u00e8s \u00e2r\u00e8:",
+      "text": "Th\u00ea given lin\u00e8s \u00e2r\u00e8:\n$$\ny=(2-\\sqrt{3}) x+5 \\text { and } y=(2+\\sqrt{3}) x-7\n$$\nTherefore, slope of first line $=\\mathrm{m}_1=2-\\sqrt{3}$ and slope of second line $=\\mathrm{m}_2=2+\\sqrt{3}$ $\\therefore$\n$$\n\\begin{aligned}\n\\tan \\theta & =\\left|\\frac{\\mathrm{m}_2-\\mathrm{m}_1}{1+\\mathrm{m}_1 \\mathrm{~m}_2}\\right|=\\left|\\frac{2+\\sqrt{3}-2+\\sqrt{3}}{1+(4-3)}\\right| \\\\\n& =\\left|\\frac{2 \\sqrt{3}}{2}\\right|=\\sqrt{3}=\\tan \\frac{\\pi}{3} \\Rightarrow \\theta=\\frac{\\pi}{3}=60^{\\circ}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "fe0717e15a7d24b6c468583c",
+    "id": "76bb3fd41de3eaeae2ab6d79",
     "type": "singleCorrect",
     "question": {
       "text": "If the angle $\\theta$ between the line $\\frac{x+1}{1}=\\frac{y-1}{2}$ $=\\frac{z-2}{2}$ and the plane $2 x-y+\\sqrt{\\lambda} z+4=0$ is such that $\\sin \\theta=\\frac{1}{3}$ then the value of $\\lambda$ is",
@@ -2706,37 +2706,37 @@
     },
     "options": [
       {
-        "id": "sZVZu",
+        "id": "USpiI",
         "text": "$\\frac{5}{3}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "iBvdg",
+        "id": "mSVCG",
         "text": "$\\frac{-3}{5}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "gbDXZ",
+        "id": "ykXLH",
         "text": "$\\frac{3}{4}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "CqEvC",
+        "id": "rsnkI",
         "text": "$\\frac{-4}{3}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "If $\\theta$ is the angle between line and plane then $\\left(\\frac{\\pi}{2}-\\theta\\right)$ is the angle between line and normal to plane given by",
+      "text": "If $\\theta$ is the angle between line and plane then $\\left(\\frac{\\pi}{2}-\\theta\\right)$ is the angle between line and normal to plane given by\n$$\n\\begin{aligned}\n& \\cos \\left(\\frac{\\pi}{2}-\\theta\\right)=\\frac{(\\hat{i}+2 \\hat{j}+2 \\hat{k}) \\cdot(2 \\hat{i}-\\hat{j}+\\sqrt{\\lambda} \\hat{k})}{3 \\sqrt{4+1+\\lambda}} \\\\\n& \\cos \\left(\\frac{\\pi}{2}-\\theta\\right)=\\frac{2-2+2 \\sqrt{\\lambda}}{3 \\times \\sqrt{5}+\\lambda} \\\\\n& \\Rightarrow \\sin \\theta=\\frac{2 \\sqrt{\\lambda}}{3 \\sqrt{5}+\\lambda}=\\frac{1}{3} \\Rightarrow 4 \\lambda=5+\\lambda \\Rightarrow \\lambda=\\frac{5}{3} .\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "dd24849d2644dd567782ea2d",
+    "id": "095acf85cc0019504c6793fa",
     "type": "singleCorrect",
     "question": {
       "text": "The distance of the point $(-5,-5,-10)$ from the point of intersection of the line $\\mathrm{r} .=2 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}+\\lambda(3 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}})$ and the plane $r \\cdot(\\hat{i}-\\hat{j}+\\hat{k})=5$ is",
@@ -2744,37 +2744,37 @@
     },
     "options": [
       {
-        "id": "uKVUh",
+        "id": "asteS",
         "text": "13",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "msqkw",
+        "id": "zFlhQ",
         "text": "12",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "TOoSv",
+        "id": "KnSLw",
         "text": "$4 \\sqrt{15}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "QDuYW",
+        "id": "PYzgR",
         "text": "$10 \\sqrt{2}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Given equation of line is",
+      "text": "Given equation of line is\n$$\n\\begin{gathered}\nr=2 \\hat{i}-\\hat{j}+2 \\hat{k}+\\lambda(3 \\hat{i}+4 \\hat{j}+2 \\hat{k}) \\\\\n(x \\hat{i}+y \\hat{j}+z \\hat{k})=(2+3 \\lambda) \\hat{i}+(-1+4 \\lambda) \\hat{j}+(2+2 \\lambda) \\hat{k}\n\\end{gathered}\n$$\nAny point on the line is\n$$\n(2+3 \\lambda,-1+4 \\lambda, 2+2 \\lambda)\n$$\nSince it also lie on the plane $r \\cdot(\\hat{i}-\\hat{j}+\\hat{k})$\n$$\n\\begin{aligned}\n& \\text { So, }[(2+3 \\lambda) \\hat{i}+(-1+4 \\lambda) \\hat{j}+(2+2 \\lambda) \\hat{k}] \\cdot(\\hat{i}-\\hat{j}+\\hat{k})=5 \\\\\n& \\Rightarrow 2+3 \\lambda+1-4 \\lambda+2+2 \\lambda=5 \\Rightarrow \\lambda=0\n\\end{aligned}\n$$\nTherefore, coordinate of the point of intersection of line and plane is $(2,-1,2)$.\n$\\therefore$ Distance\n$$\n\\mathrm{d}=\\sqrt{(2+1)^2+(-1+5)^2+(2+10)^2}=13\n$$",
       "image": null
     }
   },
   {
-    "id": "3a3faeb0477024241f0af5c8",
+    "id": "5a4688f73b7ef88e57c75845",
     "type": "singleCorrect",
     "question": {
       "text": "$\\int_{\\log \\sqrt{\\pi / 2}}^{\\log \\sqrt{\\pi}} \\mathrm{e}^{2 x} \\sec ^2\\left(\\frac{1}{3} \\mathrm{e}^{2 \\mathrm{x}}\\right) \\mathrm{dx}$ is equal to :",
@@ -2782,37 +2782,37 @@
     },
     "options": [
       {
-        "id": "PPKUK",
+        "id": "QZhxf",
         "text": "$\\sqrt{3}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "XUjRp",
+        "id": "bWWvO",
         "text": "$\\frac{1}{\\sqrt{3}}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "gBBjp",
+        "id": "dZEPC",
         "text": "$\\frac{3 \\sqrt{3}}{2}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "uRHPO",
+        "id": "eDAcV",
         "text": "$\\frac{1}{2 \\sqrt{3}}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "$\\mathrm{I}=\\int_{\\log \\sqrt{\\pi / 2}}^{\\log \\sqrt{\\pi}} \\mathrm{e}^{2 \\mathrm{x}} \\sec ^2\\left(\\frac{1}{3} \\mathrm{e}^{2 \\mathrm{x}}\\right) \\mathrm{dx}$",
+      "text": "$\\mathrm{I}=\\int_{\\log \\sqrt{\\pi / 2}}^{\\log \\sqrt{\\pi}} \\mathrm{e}^{2 \\mathrm{x}} \\sec ^2\\left(\\frac{1}{3} \\mathrm{e}^{2 \\mathrm{x}}\\right) \\mathrm{dx}$\nPut $\\mathrm{e}^{2 \\mathrm{x}}=\\mathrm{t} \\Rightarrow 2 \\mathrm{e}^{2 \\mathrm{x}} \\mathrm{dx}=\\mathrm{dt}$\nWhen\n$$\n\\begin{aligned}\n& x=\\log \\sqrt{\\pi / 2}, t=e^{2 \\log \\sqrt{\\pi / 2}} \\\\\n& =\\mathrm{e}^{\\log \\pi / 2}=\\frac{\\pi}{2} \\\\\n& \\text { When } \\mathrm{x}=\\log \\sqrt{\\pi}, \\mathrm{t}=\\mathrm{e}^{2 \\log \\sqrt{\\pi}}=\\pi \\\\\n&\n\\end{aligned}\n$$\n\n\n$$\n\\begin{aligned}\n\\therefore \\mathrm{I} & =\\int_{\\frac{\\pi}{2}}^\\pi \\frac{1}{2} \\sec ^2\\left(\\frac{1}{3} \\mathrm{t}\\right) \\mathrm{dt}=\\frac{1}{2} \\cdot \\frac{1}{\\frac{1}{3}}\\left[\\tan \\frac{\\mathrm{t}}{3} \\cdot\\right]_{\\pi / 2}^\\pi \\\\\n& =\\frac{3}{2}\\left[\\tan \\frac{\\pi}{3}-\\tan \\frac{\\pi}{6}\\right]=\\frac{3}{2}\\left[\\sqrt{3}-\\frac{1}{\\sqrt{3}}\\right]=\\sqrt{3}\n\\end{aligned}\n$$",
       "image": null
     }
   },
   {
-    "id": "57304b052ba7cb417a10f23e",
+    "id": "d2de9537932ff7e708e3141d",
     "type": "singleCorrect",
     "question": {
       "text": "If $\\frac{|x+3|+x}{x+2}>1$, then $x \\in$",
@@ -2820,63 +2820,63 @@
     },
     "options": [
       {
-        "id": "Slkzu",
+        "id": "SOhLW",
         "text": "$(-5,-2)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "xPMsu",
+        "id": "mUbgc",
         "text": "$(-1, \\infty)$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "aCyXL",
+        "id": "IhrHA",
         "text": "$(-5,-2) \\cup(-1, \\infty)$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "YHJMv",
+        "id": "ARTLQ",
         "text": "None of these",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "We have $\\frac{|x+3|+x}{x+2}>1$",
+      "text": "We have $\\frac{|x+3|+x}{x+2}>1$\n$$\n\\Rightarrow \\frac{|x+3|+x}{x+2}-1>0 \\Rightarrow \\frac{|x+3|-2}{x+2}>0\n$$\nNow, two cases arise :\nCase I : When $x+3 \\geq 0$, i.e. $x \\geq-3$. Then,\n$$\n\\begin{aligned}\n& \\frac{|x+3|-2}{x+2}>0 \\Rightarrow \\frac{x+3-2}{x+2}>0 \\\\\n& \\Rightarrow \\frac{x+1}{x+2}>0 \\\\\n& \\Rightarrow\\{(x+1)>0 \\text { and } x+2>0\\} \\\\\n& \\text { or }\\{x+1<0 \\text { and } x+2<0\\} \\\\\n& \\Rightarrow\\{x>-1 \\text { and } x>-2\\} \\\\\n& \\text { or }\\{x<-1 \\text { and } x<-2\\} \\\\\n& \\Rightarrow x>-1 \\text { or } x<-2 \\\\\n& \\Rightarrow x \\in(-1, \\infty) \\text { or } x \\in(-\\infty,-2) \\\\\n& \\Rightarrow x \\in(-3,-2) \\cup(-1, \\infty)[\\text { Since } x \\geq-3]\n\\end{aligned}\n$$\n\nCase II : When $\\mathrm{x}+3<0$, i.e. $\\mathrm{x}<-3$\n$$\n\\begin{aligned}\n& \\frac{|x+3|-2}{x+2}>0 \\Rightarrow \\frac{-x-3-2}{x+2}>0 \\\\\n& \\Rightarrow \\frac{-(x+5)}{x+2}>0 \\Rightarrow \\frac{x+5}{x+2}<0 \\\\\n& \\Rightarrow(x+5<0 \\text { and } x+2>0) \\text { or }(x+5>0) \\\\\n& \\text { and } x+2<0) \\\\\n& \\Rightarrow(x<-5 \\text { and } x>-2) \\text { or }(x>-5 \\text { and } x<-2)\n\\end{aligned}\n$$\nit is not possible.\n$$\n\\Rightarrow \\mathrm{x} \\in(-5,-2)\n$$\nCombining (i) and (ii), the required solution is $x \\in(-5,-2) \\cup(-1, \\infty)$.",
       "image": null
     }
   },
   {
-    "id": "cec27d4599911b6bef1edc09",
+    "id": "464af48b3cca9fede0d038eb",
     "type": "singleCorrect",
     "question": {
-      "text": "<strong>Paragraph: </strong>",
+      "text": "<strong>Paragraph: </strong>\nStudy the paragraph and answer the questions that follow.\nA training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.\nFirst, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.\nOnce active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \\%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.\nIf you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.\n<strong>Question: </strong>\nPotential F.A.S.T. members can attend less than half of F.A.S.T. drills if they",
       "image": null
     },
     "options": [
       {
-        "id": "jCeXL",
+        "id": "KYyuC",
         "text": "complete technician-level training requirements.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "hQfmN",
+        "id": "ltuaI",
         "text": "indicate prior real emergency experience.",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "iXLAq",
+        "id": "VRUhL",
         "text": "receive permission from their fire chief.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "fUzpq",
+        "id": "yBCnF",
         "text": "enroll in three weekly training sessions.",
         "image": null,
         "isCorrect": false
@@ -2888,33 +2888,33 @@
     }
   },
   {
-    "id": "2e74934187d768044b881443",
+    "id": "4e1404cbbc3e5ecd6f527b92",
     "type": "singleCorrect",
     "question": {
-      "text": "<strong>Paragraph: </strong>",
+      "text": "<strong>Paragraph: </strong>\nStudy the paragraph and answer the questions that follow.\nA training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.\nFirst, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.\nOnce active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \\%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.\nIf you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.\n<strong>Question: </strong>\nWhich of the following is the main subject of the passage?",
       "image": null
     },
     "options": [
       {
-        "id": "qRUuK",
+        "id": "QmXYQ",
         "text": "preparing for hazmat certification",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "KkxXR",
+        "id": "CejOP",
         "text": "the main goal of F.A.S.T.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "ftwNu",
+        "id": "YyCtc",
         "text": "completing F.A.S.T. membership requirements",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "QRAkD",
+        "id": "LeVmd",
         "text": "learning about your department's F.A.S.T. membership",
         "image": null,
         "isCorrect": false
@@ -2926,33 +2926,33 @@
     }
   },
   {
-    "id": "6aabaad83cb8129e0fc46593",
+    "id": "cc02255dc7f5686a9cac4dc3",
     "type": "singleCorrect",
     "question": {
-      "text": "<strong>Paragraph: </strong>",
+      "text": "<strong>Paragraph: </strong>\nStudy the paragraph and answer the questions that follow.\nA training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.\nFirst, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.\nOnce active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \\%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.\nIf you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.\n<strong>Question: </strong>\nApplicants must be available for training",
       "image": null
     },
     "options": [
       {
-        "id": "jjVZm",
+        "id": "BeDfd",
         "text": "three days each month.",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "PiDOO",
+        "id": "dUdFi",
         "text": "three days each week.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "Lqxij",
+        "id": "BdgKi",
         "text": "every third month.",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "NptVo",
+        "id": "odtEZ",
         "text": "for $50 \\%$ of classes.",
         "image": null,
         "isCorrect": false
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "id": "a1a519a5941e10597d2961a7",
+    "id": "abf9a690d590d08f744226a7",
     "type": "singleCorrect",
     "question": {
       "text": "Jatin starting from a fixed point, goes $15 \\mathrm{~m}$ towards North and then after turning to his right, he goes $15 \\mathrm{~m}$. Then, he goes $10 \\mathrm{~m}, 15 \\mathrm{~m}$ and $15 \\mathrm{~m}$ after turning to his left each time. How far is he from his starting point ?",
@@ -2972,70 +2972,70 @@
     },
     "options": [
       {
-        "id": "HEDtV",
+        "id": "gPGEz",
         "text": "$15 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "pnwOY",
+        "id": "Phlii",
         "text": "$5 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "bHHcc",
+        "id": "XmHnJ",
         "text": "$10 \\mathrm{~m}$",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "qvdGx",
+        "id": "BLXrQ",
         "text": "$20 \\mathrm{~m}$",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "Let the fixed point from where Jatin starts his journey be A. Also, his walking directions are as follows.",
+      "text": "Let the fixed point from where Jatin starts his journey be A. Also, his walking directions are as follows.\n\n$$\n\\therefore \\mathrm{AF}=\\mathrm{AB}-\\mathrm{FB}=15-5=10 \\text { meters }\n$$\nSo, Jatin is 10 meters away from the starting point.",
       "image": null
     }
   },
   {
-    "id": "08021dc64b7dabe359c0f893",
+    "id": "9801cbfade75be0c95bd8c0b",
     "type": "singleCorrect",
     "question": {
-      "text": "Examine the following statements:",
+      "text": "Examine the following statements:\n1. All members of Mohan's family are honest.\n2. Some members of Mohan's family are not employed.\n3. Some employed persons are not honest.\n4. Some honest persons are not employed.\nWhich one of the following inferences can be drawn from the above statements?",
       "image": null
     },
     "options": [
       {
-        "id": "VRCrc",
+        "id": "vQDIh",
         "text": "All members of Mohan's family are employed",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "JNnUB",
+        "id": "GqUgS",
         "text": "The employed members of Mohan's family are honest",
         "image": null,
         "isCorrect": true
       },
       {
-        "id": "RVnNR",
+        "id": "CADcm",
         "text": "The honest members of Mohan's family are not employed",
         "image": null,
         "isCorrect": false
       },
       {
-        "id": "scNVp",
+        "id": "jlrBi",
         "text": "The employed member of Mohan's family are not honest",
         "image": null,
         "isCorrect": false
       }
     ],
     "solution": {
-      "text": "F-Mohan's family members",
+      "text": "F-Mohan's family members\nE- Employed members\n$\\mathrm{H}$ - Honest members\nHere, shaded area denotes the employed members of Mohan's family members, who are honest.",
       "image": null
     }
   }
