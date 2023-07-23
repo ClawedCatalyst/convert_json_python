@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "e1c627a7a6973c57cd35fd93",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The distance of the centres of moon and earth is D. The mass of earth is 81 times the mass of the moon. At what distance from the centre of the earth, the gravitational force will be zero?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "IALTH",
+        "text": "$\\frac{D}{2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "JZjxV",
+        "text": "$\\frac{2 D}{3}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bJjWR",
+        "text": "$\\frac{4 D}{3}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Oykcq",
+        "text": "$\\frac{9 D}{10}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "9d7266558233218c5506c1e6",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Two wires $A$ and $B$ are of the same material. Their lengths are in the ratio of $1: 2$ and the diameter are in the ratio $2: 1$. If they are pulled by the same force, then increase in length will be in the ratio of",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "Xnjkn",
+        "text": "$2: 1$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "sugPe",
+        "text": "$1: 4$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "mroWt",
+        "text": "$1: 8$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "ovUqU",
+        "text": "$8: 1$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "We know that Young's modulus",
+      "image": null
+    }
+  },
+  {
+    "id": "02f83d674d0c37dbe11001dc",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If $x=a t+b t^2$, where $x$ is the distance travelled by the body in kilometers while $t$ is the time in seconds, then the unit of $b$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "MbHzM",
+        "text": "$\\mathrm{km} / \\mathrm{s}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "rhoDC",
+        "text": "$\\mathrm{kms}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "mpiBH",
+        "text": "$\\mathrm{km} / \\mathrm{s}^2$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "ZuJVl",
+        "text": "$\\mathrm{kms}^2$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$[\\mathrm{x}]=\\left[\\mathrm{bt}^2\\right]$. Hence $[\\mathrm{b}]=\\left[\\mathrm{x} / \\mathrm{t}^2\\right]=\\mathrm{km} / \\mathrm{s}^2$.",
+      "image": null
+    }
+  },
+  {
+    "id": "476edc0a31af4c2e131bc0c1",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A soap bubble of radius $r_1$ is placed on another soap bubble of radius $r_2\\left(r_1<r_2\\right)$. The radius $\\mathrm{R}$ of the soapy film separating the two bubbles is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "MkxtL",
+        "text": "$r_2+r_2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "OhVvn",
+        "text": "$\\frac{r_2=r_1}{r_1 r_2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "FgZGD",
+        "text": "$\\frac{r_1 r_2}{r_2-r_1}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "KwWcw",
+        "text": "$\\sqrt{r_1^2+r_2^2}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "0f5b621ed38e3dc6773fc182",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A charge $\\mathrm{q}$ is moving with a velocity $\\mathrm{v}$ parallel to a magnetic field $B$. Force on the charge due to magnetic field is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "tKTKA",
+        "text": "q $\\mathrm{q} B$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "tNIAl",
+        "text": "$q$ B/v",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "eGhXE",
+        "text": "zero",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "KEQJb",
+        "text": "$\\mathrm{B}$ v/q",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "aae9aaf2fd17d4e9c6e7159a",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Two spheres $A$ and $B$ of masses $m$ and $2 m$ and radii $2 R$ and $R$ respectively are placed in contact as shown. The COM of the system lies",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "XUAFp",
+        "text": "inside $A$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "mIWOZ",
+        "text": "inside $B$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "YqYLY",
+        "text": "at the point of contact",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "ilSiI",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "As mass of $\\mathrm{B}$ is twice that of $\\mathrm{A}$.",
+      "image": null
+    }
+  },
+  {
+    "id": "14459edf2b907982c5a29a55",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Identify the correct statement.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "cyDhm",
+        "text": "Static friction depends on the area of contact",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "cyFEc",
+        "text": "Kinetic friction depends on the area of contact",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "WHINQ",
+        "text": "Coefficient of kinetic friction is more than the coefficient of static friction",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "GjWKa",
+        "text": "Coefficient of kinetic friction is less than the coefficient of static friction",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$\\mu_{\\mathrm{k}}<\\mu_{\\mathrm{s}}$ coefficient of static friction is always greater than kinetic friction.",
+      "image": null
+    }
+  },
+  {
+    "id": "be346e560dbece41f311c7b8",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The distance travelled by a particle starting from rest and moving with an acceleration $\\frac{4}{3} \\mathrm{~ms}^{-2}$, in the third second is:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "IIbcX",
+        "text": "$6 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "SkVnB",
+        "text": "$4 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "YXNJS",
+        "text": "$\\frac{10}{3} \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "IRkcd",
+        "text": "$\\frac{19}{3} \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Distance travelled in the $n$th second is given by $d_n=u+\\frac{a}{2}(2 n-1)$",
+      "image": null
+    }
+  },
+  {
+    "id": "90e0ed45a496bac753f0f767",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Photoelectric work function of a metal is $1 \\mathrm{eV}$. Light of wavelength $\\lambda=3000 \\AA$ falls on it. The photo electrons come out with a maximum velocity of :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "yRBHq",
+        "text": "10 metres/sec",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bDAyH",
+        "text": "$10^2$ metres $/ \\mathrm{sec}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "AOprq",
+        "text": "$10^4$ metres $/ \\mathrm{sec}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "sRndr",
+        "text": "$10^6$ metres $/ \\mathrm{sec}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "9329b2f9ab9f4d9eb26d3331",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The coefficient of apparent expansion of mercury in a glass vessel is $153 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$ and in a steel ${ }^6 /{ }^{\\circ} \\mathrm{C}$, then that of glass is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "qOTFH",
+        "text": "$9 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "eNCiN",
+        "text": "$6 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "FXuOa",
+        "text": "$36 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "KoRBa",
+        "text": "$27 \\times 10^{-6} /{ }^{\\circ} \\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "e08a2421570b2d74e47d0a72",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A step-up transformer operates on a $230 \\mathrm{~V}$ line and supplies a load of 2 ampere. The ratio of the primary and secondary windings is $1: 25$. The current in the primary is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "uyTfW",
+        "text": "$15 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "SRPJr",
+        "text": "$50 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "NdWHR",
+        "text": "$25 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "YpmuZ",
+        "text": "$12.5 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "f9ea689a75f201e4948a56ca",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Two bodies of same mass are projected with the same velocity at an angle $30^{\\circ}$ and $60^{\\circ}$ respectively. The ratio of their horizontal ranges will be",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "yruMp",
+        "text": "$1: 1$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "Getck",
+        "text": "$1: 2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "iZzSD",
+        "text": "$1: 3$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "MMQaR",
+        "text": "$2: \\sqrt{2}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Horizontal range is same when angle of projection is $\\theta$ or $\\left(90^{\\circ}-\\theta\\right)$.",
+      "image": null
+    }
+  },
+  {
+    "id": "1b7ca33fb0717b90b7b9b004",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Two point charges $+3 \\mu C$ and $+8 \\mu C$ repel each other with a force of $40 \\mathrm{~N}$. If a charge of $-5 \\mu \\mathrm{C}$ is added to each of them, then the force between them will become",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "PSlhC",
+        "text": "$-10 \\mathrm{~N}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "KMPsK",
+        "text": "$+10 \\mathrm{~N}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xPQyZ",
+        "text": "$+20 \\mathrm{~N}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xsyyT",
+        "text": "$-20 \\mathrm{~N}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "318ff49b952ac304ec104457",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A sphere rolls down on an inclined plane of inclination $\\theta$. What is the acceleration as the sphere reaches the bottom?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "zqmcM",
+        "text": "$\\frac{5}{7} g \\sin \\theta$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "AhAgz",
+        "text": "$\\frac{3}{5} g \\sin \\theta$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "OtnJA",
+        "text": "$\\frac{2}{7} g \\sin \\theta$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "CZTdK",
+        "text": "$\\frac{2}{5} g \\sin \\theta$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$a=\\frac{g \\sin \\theta}{1+\\frac{K^2}{R^2}}=\\frac{g \\sin \\theta}{1+\\frac{2}{5}}=\\frac{5}{7} g \\sin \\theta$",
+      "image": null
+    }
+  },
+  {
+    "id": "647a60646655bc249eb2f68e",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A given ray of light suffers minimum deviation in an equilateral prism P. Additional prisms Q and R of identical shape and of same material as that of $\\mathrm{P}$ are now combined as shown in figure. The ray will now suffer",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "mehqz",
+        "text": "greater deviation",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "OudNZ",
+        "text": "no deviation",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "drTma",
+        "text": "same deviation as before",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "xiosw",
+        "text": "total internal reflection",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "When the ray suffers minimum deviation, it becomes parallel to the base of prism P. As prisms $\\mathrm{Q}$ and $\\mathrm{R}$ are of same material and have identical shape, therefore, the ray continues to be parallel to base of $Q$ and $R$. Hence final deviation of the ray remains the same as before.",
+      "image": null
+    }
+  },
+  {
+    "id": "c772b66cb0b0c29fb5e2fa68",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The current in the $1 \\Omega$ resistor shown in the circuit is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "NxoSj",
+        "text": "$\\frac{2}{3} \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "mlNAN",
+        "text": "$3 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "CYTPx",
+        "text": "$6 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "MihVf",
+        "text": "$2 \\mathrm{~A}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Two $4 \\Omega$ resistors are in parallel combination. Their equivalent resistance",
+      "image": null
+    }
+  },
+  {
+    "id": "78654807ad8e57c94f5da356",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The root mean square velocity of hydrogen molecules at $300 \\mathrm{~K}$ is $1930 \\mathrm{metre} / \\mathrm{sec}$. Then the r.m.s velocity of oxygen molecules at $1200 \\mathrm{~K}$ will be",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "KUKmQ",
+        "text": "482.5 metre/sec",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "SzTos",
+        "text": "$965 \\mathrm{metre} / \\mathrm{sec}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "uNAVs",
+        "text": "1930 metre/sec",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "NMFIe",
+        "text": "3860 metre/sec",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Root-mean square-velocity is given by",
+      "image": null
+    }
+  },
+  {
+    "id": "5243f9006ab267927fc22c36",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Lenz's law gives",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "HfPhq",
+        "text": "the magnitude of the induced e.m.f.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "sBuDo",
+        "text": "the direction of the induced current",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "YCEOP",
+        "text": "both the magnitude and direction of the induced current",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "NhqMZ",
+        "text": "the magnitude of the induced current",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Lenz's law helps to identify the direction of induced current.",
+      "image": null
+    }
+  },
+  {
+    "id": "ee810a7e23c2f326a89c8205",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A parallel plate capacitor with air between the plates has a capacitance of $8 \\mathrm{pF}$. Calculate the capacitance if the distance between the plates is reduced by half and the space between them is filled with a substance of dielectric constant. (k =6)",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "tuRbb",
+        "text": "$72 \\mathrm{pF}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "HNpwO",
+        "text": "$81 \\mathrm{pF}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "oOmvw",
+        "text": "$84 \\mathrm{pF}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "JwQJd",
+        "text": "$96 \\mathrm{pF}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Capacity of parallel plate capacitor",
+      "image": null
+    }
+  },
+  {
+    "id": "ca0050055bf2465db280ba44",
+    "type": "singleCorrect",
+    "question": {
+      "text": "For a particle executing S.H.M. the displacement $x$ is given by $x=A \\cos \\omega t$. Identify the graph which represents the variation of potential energy (P.E.) as a function of time $t$ and displacement $x$.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "yTXFI",
+        "text": "I, III",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "FhoNW",
+        "text": "II, IV",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "QVZbg",
+        "text": "II, III",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bigTq",
+        "text": "I,IV",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "In $x=A \\cos \\omega t$, the particle starts oscillating from extreme position. So at $t=0$, its potential energy is maximum.",
+      "image": null
+    }
+  },
+  {
+    "id": "cee445cfc20296452cc532f5",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A radioactive sample contains $10^{-3} \\mathrm{~kg}$ each of two nuclear species $A$ and $B$ with half-life 4 days and 8 days respectively. The ratio of the amounts of $A$ and $B$ after a period of 16 days is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "AIreZ",
+        "text": "$1: 2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "QQYdo",
+        "text": "$4: 1$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "IFezR",
+        "text": "$1: 4$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "iSAdR",
+        "text": "$2: 1$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Ratio of number of half life taken is given as:",
+      "image": null
+    }
+  },
+  {
+    "id": "1d3b076956c30fc5e5ea19c5",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A string of $7 \\mathrm{~m}$ length has a mass of $0.035 \\mathrm{~kg}$. If tension in the string is $60.5 \\mathrm{~N}$, then speed of a wave on the string is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "vxKuO",
+        "text": "$77 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ijEHq",
+        "text": "$102 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "varEH",
+        "text": "$110 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "tDrUw",
+        "text": "$165 \\mathrm{~m} / \\mathrm{s}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Given : Length $(l)=7 \\mathrm{~m}$",
+      "image": null
+    }
+  },
+  {
+    "id": "761e150469ad07e48a08758d",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The following circuit represents",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "gxBDO",
+        "text": "OR gate",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "XLnsk",
+        "text": "AND gate",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "snqsT",
+        "text": "NAND gate",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "EnBkU",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Output of upper AND gate $=\\overline{\\mathrm{A}} \\mathrm{B}$",
+      "image": null
+    }
+  },
+  {
+    "id": "acea390a5973e48aee4277e3",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A straight section $P Q$ of a circuit lies along the $X$-axis from $x=-\\frac{a}{2}$ to $x=\\frac{a}{2}$ and carries a steady current $i$. The magnetic field due to the section $P Q$ at a point $X=+a$ will be",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "YbMaS",
+        "text": "proportional to $a$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "HZZgJ",
+        "text": "proportional to $a^2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "hFKDn",
+        "text": "proportional to $1 / a$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "tAHpO",
+        "text": "zero",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Magnetic field at a point on the axis of a current carrying wire is always zero.",
+      "image": null
+    }
+  },
+  {
+    "id": "49dd624b82ff6c36dae94fc2",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A source producing sound of frequency $170 \\mathrm{~Hz}$ is approaching a stationary observer with a velocity $17 \\mathrm{~ms}^{-1}$. The apparent change in the wavelength of sound heard by the observer is (speed of sound in air $=340 \\mathrm{~ms}^{-1}$ )",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "lVTdL",
+        "text": "$0.1 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "RkRsy",
+        "text": "$0.2 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "seLZV",
+        "text": "$0.4 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "oUQxa",
+        "text": "$0.5 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "e3b77385b2515c1f93c9b1b6",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Consider the following reactions:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "EHpXn",
+        "text": "18",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "ereKJ",
+        "text": "15",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "sGMlQ",
+        "text": "21",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "dXHpF",
+        "text": "20",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "The sum of total no. of atoms in one molecules each of $A, B \\& C=5+7+6=18$",
+      "image": null
+    }
+  },
+  {
+    "id": "d0ceff8b9e511939a8d8a0df",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Xenon hexafluoride on partial hydrolysis produces compounds ' $\\mathrm{X}$ ' and ' $\\mathrm{Y}$ '. Compounds ' $\\mathrm{X}$ ', 'Y' and the oxidation state of $\\mathrm{Xe}$ are respectively:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "NlyvZ",
+        "text": "$\\mathrm{XeOF}_4(+6)$ and $\\mathrm{XeO}_3(+6)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "CgpJh",
+        "text": "$\\mathrm{XeO}_2(+4)$ and $\\mathrm{XeO}_3(+6)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "pCBhF",
+        "text": "$\\mathrm{XeOF}_4(+6)$ and $\\mathrm{XeO}_2 \\mathrm{~F}_2(+6)$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "brBsW",
+        "text": "$\\mathrm{XeO}_2 \\mathrm{~F}_2(+6)$ and $\\mathrm{XeO}_2(+4)$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "8e9dd45c54059edc333e658c",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The edge length of unit cell of a metal having molecular weight $75 \\mathrm{~g} / \\mathrm{mol}$ is $5 \\AA$ which crystallizes in cubic lattice. If the density is $2 \\mathrm{~g}$ / cc then find the radius of metal atom. $\\left(\\mathrm{N}_{\\mathrm{A}}=6 \\times 10^{23}\\right)$. Give the answer in $\\mathrm{pm}$.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "fnGQI",
+        "text": "$217 \\mathrm{pm}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "xKQOM",
+        "text": "$210 \\mathrm{pm}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "oYQTY",
+        "text": "$220 \\mathrm{pm}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ToHdz",
+        "text": "$205 \\mathrm{pm}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "c30626f800e76694f9d8b5ba",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Consider the following statements:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "KETLr",
+        "text": "I and IV",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "BVthG",
+        "text": "II and V",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "uKvkp",
+        "text": "III and IV",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "dYAqU",
+        "text": "II and III",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "According to Arrhenius equation, $\\mathrm{k}=\\mathrm{Ae}^{-\\mathrm{E}_{\\mathrm{a}} / \\mathrm{RT}}$ $\\therefore$ when $\\mathrm{E}_{\\mathrm{a}}=0, \\mathrm{k}=\\mathrm{A}$ Also $\\ln \\mathrm{k}$ vs $1 / \\mathrm{T}$ is a straight line with slope $=-$ $\\mathrm{E}_2 / \\mathrm{R}$. $\\therefore$ Statements (ii) and (v) are correct.",
+      "image": null
+    }
+  },
+  {
+    "id": "8107623a0e9c8092ad4f92a4",
+    "type": "singleCorrect",
+    "question": {
+      "text": "To deposit $0.634 \\mathrm{~g}$ of copper by electrolysis of aqueous cupric sulphate solution, the amount of electricity required (in coulombs) is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "sObFZ",
+        "text": "1930",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "xanfH",
+        "text": "3960",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "uYXcN",
+        "text": "4825",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xTJET",
+        "text": "9650",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "In the electrolysis of cupric sulphate, the reaction that occurs at cathode is",
+      "image": null
+    }
+  },
+  {
+    "id": "8bf241bafdd802d3ca879be8",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In the following skew conformation of ethane, $\\mathrm{H}^{\\prime}-\\mathrm{C}-\\mathrm{C}-\\mathrm{H}^{\\prime \\prime}$ dihedral angle is :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "OFVkP",
+        "text": "$58^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "PUpfg",
+        "text": "$149^{\\circ}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "iQJgu",
+        "text": "$151^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DwcQg",
+        "text": "$120^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "63a1abd63596a834b6203965",
+    "type": "singleCorrect",
+    "question": {
+      "text": "What is the product of following reaction?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "ScXQR",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/Gnwk6mrMHsZSjprb5zoTUZ9kkjyxdrb27I_7uuEJRCs.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xRNco",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/zMYm5XpZq01nEf2vHdM0cGeAPYEg324MxaefybQbYKg.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Vdivf",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/yjONNhxGb5HrT0kvViXHzFAd9jLE3J5aEDzNAb6Ktlg.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "RtvHt",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/6iSO09oUO-MFnVCD64mMx3O4nqzNTaywRBHyKSyHvjI.original.fullsize.png)",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "f3d924c7420ebee2f114f51a",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In the following sequence of reactions,",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "mJARD",
+        "text": "propanal",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bHiGo",
+        "text": "butanal",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "UPSAV",
+        "text": "n-butyl alcohol",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "rxwvc",
+        "text": "$n$-propyl alcohol.",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "d3d2e3109b7bd99b88ad4602",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Which of the following reactions can produce aniline as main product?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "RmVkx",
+        "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{KOH}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ICfjj",
+        "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{NH}_4 \\mathrm{Cl}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "gLOfO",
+        "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{LiAlH}_4$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "PaGCR",
+        "text": "$\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2+\\mathrm{Zn} / \\mathrm{HCl}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Various products are formed when nitroarenes are reduced. These are given below for $\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NO}_2$.",
+      "image": null
+    }
+  },
+  {
+    "id": "9b638c1b2a5e31695cef48d1",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Secondary structure of protein refers to",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "jZDGW",
+        "text": "mainly denatured proteins and structure of prosthetic groups",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "kUytG",
+        "text": "three-dimensional structure, especially the bond between amino acid residues that are distinct from each other in the polypeptide chain",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "rpziY",
+        "text": "linear sequence of amino acid residues in the polypetide chain",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "cPtkd",
+        "text": "regular folding patterns of continous portions of the polypeptide chain",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "d9a3163d5ecaa060d060f66f",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The increasing order for the values of $e / m$ (charge/mass) is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "QGXpP",
+        "text": "$e, p, n, \\alpha$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "WFlAq",
+        "text": "$n, p, e, \\alpha$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "TWbnE",
+        "text": "$n, p, \\alpha, e$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "WtLgl",
+        "text": "$n, \\alpha, p, e$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$\\frac{e}{m}$ for (i) neutron $=\\frac{0}{1}=0$",
+      "image": null
+    }
+  },
+  {
+    "id": "b1eb58e2bcc4a53615fb502a",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In which of the following pairs both the ions are coloured in aqueous solutions ?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "JXZQW",
+        "text": "$\\mathrm{Sc}^{3+}, \\mathrm{Ti}^{3+}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "leEWc",
+        "text": "$\\mathrm{Sc}^{3+}, \\mathrm{Co}^{2+}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "TQSUs",
+        "text": "$\\mathrm{Ni}^{2+}, \\mathrm{Cu}^{+}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "aatBS",
+        "text": "$\\mathrm{Ni}^{2+}, \\mathrm{Ti}^{3+}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$\\mathrm{Sc}^{3+}(\\mathrm{Z}=18): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^0, 4 s^0$; no unpaired electron.",
+      "image": null
+    }
+  },
+  {
+    "id": "77af6128e19bfa71b1282f2f",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The total number of possible isomers for squareplanar $\\left[\\mathrm{Pt}(\\mathrm{Cl})\\left(\\mathrm{NO}_2\\right)\\left(\\mathrm{NO}_3\\right)(\\mathrm{SCN})\\right]^{2-}$ is:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "LisAt",
+        "text": "16",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "jmFHS",
+        "text": "12",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "krsrV",
+        "text": "8",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "nkPgX",
+        "text": "24",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "The square planar complex of the type [Mabcd] $^{n \\pm}$, where all four ligands are different, has 3 geometrical isomers. But if one of the ligands is ambidentate, then $2 \\times 3=6$ geometrical isomers are possible. But if two ligands are ambidentate, then $4 \\times 3=12$ geometrical isomers are possible. In the given example, $\\mathrm{NO}_2^{-}$and $\\mathrm{SCN}^{-}$are ambidentate ligands.",
+      "image": null
+    }
+  },
+  {
+    "id": "9c28d347a9af1b68dd77255f",
+    "type": "singleCorrect",
+    "question": {
+      "text": "For the reaction,",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "cJduo",
+        "text": "The equilibrium constant is large suggestive of reaction going to completion and so no catalyst is required.",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "NWLre",
+        "text": "The equilibrium will shift in forward direction as the pressure increases.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ShdHr",
+        "text": "The equilibrium constant decreases as the temperature increases.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "aLpVW",
+        "text": "The addition of inert gas at constant volume will not affect the equilibrium constant.",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Equilibrium constant has no relation with catalyst. Catalyst only affects the rate of the reaction.",
+      "image": null
+    }
+  },
+  {
+    "id": "8e8e43f6ba17d84ea68a8526",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The half-life of a reaction is inversely proportional to the square of the initial concentration of the reactant. Then the order of the reaction is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "ZHaCG",
+        "text": "0",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "LnGXx",
+        "text": "1",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "WBKPx",
+        "text": "2",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "tuPIA",
+        "text": "3",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$\\mathrm{t}_{1 / 2} \\propto \\frac{1}{\\mathrm{a}^2}$",
+      "image": null
+    }
+  },
+  {
+    "id": "1679587ae4fdb2a437382e40",
+    "type": "singleCorrect",
+    "question": {
+      "text": "A galvanic cell is set up from electrodes $A$ and $B$ Electrode $A: \\mathrm{Cr}_2 \\mathrm{O}_7^{2-} / \\mathrm{Cr}^{3+}, E_{\\text {red }}^{\\circ}=+1.33 \\mathrm{~V}$ Electrode $B: \\mathrm{Fe}^{3+} / \\mathrm{Fe}^{2+}, \\quad E_{\\text {red }}^{\\circ}=0.77 \\mathrm{~V}$ Which of the following statements is false ?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "CPcRH",
+        "text": "Standard e.m.f of the cell is $0.56 \\mathrm{~V}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "rUiwa",
+        "text": "Current will flow from electrode $A$ to $B$ in the external circuit",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bSERb",
+        "text": "$A$ will act as cathode and have positive polarity",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "slROs",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "ffa325736fcbc9bc558c658d",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Keto-enol tautomerism is observed in :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "FYLZZ",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/TUwXwawalWTHXApHqjU2bsz4hGd-IpfQM5uxwG7KPz8.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "kUNRi",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/-wlsdeFSQmBMBmq0N-IPUDyejOMsX5Z5iQn0SoyrHw4.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "wvyHR",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/1I-L9SMtzCdqi3VCNmDMrFwR5pFxg5mkt0i1t8fEz4s.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "IXPRP",
+        "text": " Both (1) and (2)",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Keto-enol tautomerism is shown by carbonyl compounds having $\\alpha$-hydrogen atom.",
+      "image": null
+    }
+  },
+  {
+    "id": "5b51d3685e9a0d32040cc9df",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In a set of reactions, ethylbenzene yield a product D.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "EiKRL",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/6le4MoE3eW-iBt9n5V0RMmAOs_Fxi1_xGQO-4IfqtOM.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "BKDuP",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/bMoY1uzxqmG5Bt09-F2VddNU2FN2WNc2KQPpPw3uMpI.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "yQCVV",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/bwa0dhe9hKvJ4zr_iMLl7rjHiyC7WOwrSE3foQTyyKg.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "qneFj",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/qSir5iO52It3iGA0tw4BuQZxCUEFf9BcDjweCSQaeF4.original.fullsize.png)",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "4f6f0d3f091e9c11e47bc435",
+    "type": "singleCorrect",
+    "question": {
+      "text": "What will be the final product in the following reaction sequence -",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "BTrgo",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CONH}_2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xBUVZ",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{COBr}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "JlbTY",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{NH}_2$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "sjcZZ",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "![original image](https://cdn.mathpix.com/snip/images/l959mULURn32JMZTx-dC2yQgCBm72kuHw9DdASKe9JI.original.fullsize.png)",
+      "image": null
+    }
+  },
+  {
+    "id": "57e50fe8569683e9f6ae9df2",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In a set of reactions acetic acid yielded a product D.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "cDwdW",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/PUB6nfliFK89sC_NTOWrSXdV05jZhXT6FfabWht-9AQ.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "TUKny",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/bAETFZlheVWrrlmAfvczCxFPRG48Rjix_egqu6MNL5o.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DpRrn",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/Ct17lz64wMhXvgdBqI9IYOc7PkoOJ86CbYbkcEGq1MA.original.fullsize.png)",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "hJZUV",
+        "text": "![original image](https://cdn.mathpix.com/snip/images/2CWVZOrIVgMEwulgkBIlFCZZHGICg3Qa99DXN1D5Tkg.original.fullsize.png)",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "No Solution Available",
+      "image": null
+    }
+  },
+  {
+    "id": "5e765e604873c8ba6249c63d",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In fructose, the possible optical isomers are",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "reswX",
+        "text": "12",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "BxWOe",
+        "text": "8",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "uvrCm",
+        "text": "16",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "eAwWv",
+        "text": "4",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Fructose has 3 chiral centres and hence number of optical isomers are $2^3=8$",
+      "image": null
+    }
+  },
+  {
+    "id": "18f5c589e9616ef54925381a",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The position of both, an electron and a helium atom is known within $1.0 \\mathrm{~nm}$. Further the momentum of the electron is known within 5.0 $\\times 10^{-26} \\mathrm{~kg} \\mathrm{~ms}^{-1}$. The minimum uncertainty in the measurement of the momentum of the helium atom is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "iHTXe",
+        "text": "$50 \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "fQiMF",
+        "text": "$80 \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ZhmnX",
+        "text": "$8.0 \\times 10^{-26} \\mathrm{~kg} \\mathrm{~ms}^{-1}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "fbEwt",
+        "text": "$5.0 \\times 10^{-26} \\mathrm{kgms}^{-1}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "By Heisenberg uncertainty Principle",
+      "image": null
+    }
+  },
+  {
+    "id": "4029fb2842a0a37c64382cfa",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The value of $\\log _{10} K$ for a reaction $\\mathrm{A} \\rightleftharpoons \\mathrm{B}$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "WAZIX",
+        "text": "5",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DlAhf",
+        "text": "10",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "cNbkm",
+        "text": "95",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Mhohx",
+        "text": "100",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "ad44d6a2cce6653ba5b6c920",
+    "type": "singleCorrect",
+    "question": {
+      "text": "IfC(s) $+\\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{R}$ and $\\mathrm{CO}(\\mathrm{g})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{S}$, then heat of formation of $\\mathrm{CO}$ is:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "ZnpdV",
+        "text": "$\\mathrm{R}+\\mathrm{S}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ybyEo",
+        "text": "$\\mathrm{R}-\\mathrm{S}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "nzLGb",
+        "text": "$\\mathrm{R} \\times \\mathrm{S}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "tJkoS",
+        "text": "$\\mathrm{S}-\\mathrm{R}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Let, $\\mathrm{C}(\\mathrm{s})+\\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{R}$ and $\\mathrm{CO}(\\mathrm{g})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}_2(\\mathrm{~g}) ; \\Delta \\mathrm{H}=\\mathrm{S}$ (ii) Subtr\u0101cting \u0119u. (i) from \u00e8u (ii), w\u00ea get $\\mathrm{C}(\\mathrm{s})+\\frac{1}{2} \\mathrm{O}_2(\\mathrm{~g}) \\longrightarrow \\mathrm{CO}(\\mathrm{g}) ; \\Delta \\mathrm{H}=\\mathrm{R}-\\mathrm{S}$ Hence, heat of formation of $\\mathrm{CO}=\\mathrm{R}-\\mathrm{S}$",
+      "image": null
+    }
+  },
+  {
+    "id": "01530743ecfdb7f5eaf2ec47",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Which of the following compounds does not follow Markownikoff's law?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "tYJBV",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}=\\mathrm{CH}_2$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "LJSqc",
+        "text": "$\\mathrm{CH}_2 \\mathrm{CHCl}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "TxbZK",
+        "text": "$\\mathrm{CH}_3 \\mathrm{CH}=\\mathrm{CHCH}_3$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "KJhsc",
+        "text": "None",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Both the doubly bonded carbon atoms are identical.",
+      "image": null
+    }
+  },
+  {
+    "id": "6b6a33831180a8857b4390a9",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The value of $c$ in Rolle's Theorem for the function $f(x)=e^x \\sin x, x \\in[0, \\pi]$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "PPWVi",
+        "text": "$\\frac{\\pi}{6}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "zsYlH",
+        "text": "$\\frac{\\pi}{4}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "zNPDp",
+        "text": "$\\frac{\\pi}{2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "LlFwp",
+        "text": "$\\frac{3 \\pi}{4}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Since Rolle's theorem is satisfied",
+      "image": null
+    }
+  },
+  {
+    "id": "b31ca9766ad5de05686332a4",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The equations $2 x+3 y+4=0 ; 3 x+4 y+6=0$ and $4 x+5 y+8=0$ are",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "eEvyt",
+        "text": "consistent with unique solution",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "bbkQv",
+        "text": "inconsistent",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DMNhp",
+        "text": "consistent with infinitely many solutions",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "IEmjn",
+        "text": "None of the above",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Consider first two equations :",
+      "image": null
+    }
+  },
+  {
+    "id": "8b0372dd58064953617450ea",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The shortest distance between the lines $x=y+2=6 z-6$ and $x+1=2 y=-12 z$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "Pthua",
+        "text": "$\\frac{1}{2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "eUKMf",
+        "text": "2",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "GOXcv",
+        "text": "1",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Hjrvo",
+        "text": "$\\frac{3}{2}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "The lines are $\\frac{x}{6}=\\frac{y+2}{6}=\\frac{z-1}{1}$ and $\\frac{x+1}{12}=\\frac{y}{6}=\\frac{z}{-1}$",
+      "image": null
+    }
+  },
+  {
+    "id": "3d402327df87ece34c5a4192",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If the tangent at $P(1,1)$ on $y^2=x(2-x)^2$ meets the curve again at $Q$, then $Q$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "pNsZO",
+        "text": "$(2,2)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "KWNto",
+        "text": "$(-1,-2)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "NOxXb",
+        "text": "$\\left(\\frac{9}{4}, \\frac{3}{8}\\right)$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "JBvqA",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "57d31d52ed5dba41b73c839f",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If $f(x)=x+\\frac{x}{1+x}+\\frac{x}{(1+x)^2}+\\ldots$ to $\\infty$, then at $\\mathrm{x}=0, \\mathrm{f}(\\mathrm{x})$",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "EWLxb",
+        "text": "has no limit",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "KpFuC",
+        "text": "is discontinuous",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "HXcea",
+        "text": "is continuous but not differentiable",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "uqsjn",
+        "text": "is differentiable",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "For $\\mathrm{x} \\neq 0$, we have,",
+      "image": null
+    }
+  },
+  {
+    "id": "4a6e05a18c83115ea1810baf",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Radius of the circle $(x+5)^2+(y-3)^2=36$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "mpwTh",
+        "text": "2",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "XaCeE",
+        "text": "3",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "KKjVB",
+        "text": "6",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "lZFum",
+        "text": "5",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Comparing the equation of the circle $(x+5)^2+(y-3)^2=36$",
+      "image": null
+    }
+  },
+  {
+    "id": "f54fcb0995cacca3654eda81",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ and $\\vec{c}=-\\hat{i}+2 \\hat{k}$ then $|\\overrightarrow{\\mathrm{c}}|$. $\\vec{a}$ is equal to :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "RtFpA",
+        "text": "$2 \\sqrt{5} \\hat{i}+2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "wWszR",
+        "text": "$2 \\sqrt{5} \\hat{i}-2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "vtHql",
+        "text": "$\\sqrt{5} \\hat{i}+\\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bfViz",
+        "text": "$\\sqrt{5} \\hat{i}+2 \\sqrt{5} \\hat{j}+\\sqrt{5} \\hat{k}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "If $\\vec{a}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ and $\\vec{c}=-\\hat{i}+2 \\hat{k}$",
+      "image": null
+    }
+  },
+  {
+    "id": "2677a4d14b400f179a11233a",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If $(-4,5)$ is one vertex and $7 x-y+8=0$ is one diagonal of a square, then the equation of second diagonal is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "LBylf",
+        "text": "$x+3 y=21$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "EAvLr",
+        "text": "$2 x-3 y=7$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "gfMtl",
+        "text": "$x+7 y=31$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "cgPmI",
+        "text": "$2 x+3 y=21$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "One vertex of square is $(-4,5)$ and equation of one diagonal is $7 x-y+8=0$",
+      "image": null
+    }
+  },
+  {
+    "id": "9ec90dab7e5d3356d0f4aa79",
+    "type": "singleCorrect",
+    "question": {
+      "text": "$\\mathrm{p} \\Rightarrow \\mathrm{q}$ can also be written as",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "XnBPZ",
+        "text": "$\\mathrm{p} \\Rightarrow \\sim \\mathrm{q}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "RJmdc",
+        "text": "$\\sim$ p $\\vee \\mathrm{q}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "nrNjy",
+        "text": "$\\sim \\mathrm{q} \\Rightarrow \\sim \\mathrm{p}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DFcah",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$\\mathrm{p} \\Rightarrow \\mathrm{q} \\equiv \\sim \\mathrm{p} \\vee \\mathrm{q}$",
+      "image": null
+    }
+  },
+  {
+    "id": "69f4c7253cd9b6a685e3af96",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Let $\\int \\frac{x^{1 / 2}}{\\sqrt{1-x^3}} d x=\\frac{2}{3} \\operatorname{gof}(x)+C$, then",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "KPuLk",
+        "text": "$\\mathrm{f}(\\mathrm{x})=\\sqrt{\\mathrm{x}}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "jcknk",
+        "text": "$\\mathrm{f}(\\mathrm{x})=\\mathrm{x}^{3 / 2}$ and $\\mathrm{g}(\\mathrm{x})=\\sin ^{-1} \\mathrm{x}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "EIwyS",
+        "text": "$f(x)=x^{2 / 3}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "JJfYa",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Put $\\mathrm{x}^{3 / 2}=\\mathrm{t} \\Rightarrow \\frac{3}{2} \\mathrm{x}^{1 / 2} \\mathrm{dx}=\\mathrm{dt}$",
+      "image": null
+    }
+  },
+  {
+    "id": "66dc26469d87dbd7833c39cb",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Which one of the following is an infinite set ?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "pSBcJ",
+        "text": "The set of human beings on the earth",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "VcJMQ",
+        "text": "The set of water drops in a glass of water",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "EsNKd",
+        "text": "The set of trees in a forest",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "aROzi",
+        "text": "The set of all primes",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "In the given sets, the set of all primes is an infinite set.",
+      "image": null
+    }
+  },
+  {
+    "id": "9e5de1331a95c27a913b48fd",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The domain of the function",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "kzOhv",
+        "text": "$[2,3]$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "pDqUP",
+        "text": "$[-2,4]$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "AJAns",
+        "text": "$[-2,2] \\cup[3,4]$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "zUOCi",
+        "text": "$[-2,1] \\cup[2,4]$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$f(x)=\\sqrt{(x-2)(x-3)}+\\sqrt{-(x-4)(x+2)}$",
+      "image": null
+    }
+  },
+  {
+    "id": "c6af74100d266e534350b674",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Area bounded by the curve $y=\\log x$ and the coordinate axes is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "WXjxU",
+        "text": "2",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "kmrON",
+        "text": "1",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bsTiJ",
+        "text": "5",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "lrcbt",
+        "text": "$2 \\sqrt{2}$",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "Observing the graph of $\\log x$, we find that the required area lies below $\\mathrm{X}$-axis between $\\mathrm{x}=0$ and $x=1$.",
+      "image": null
+    }
+  },
+  {
+    "id": "9e635b3bba9bdb9bf243b014",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The angle of intersection to the curve $y=x^2$, $6 y=7-x^3$ at $(1,1)$ is :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "qDDIg",
+        "text": "$\\frac{\\pi}{2}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "Faplh",
+        "text": "$\\frac{\\pi}{4}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "BlSnT",
+        "text": "$\\frac{\\pi}{3}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "judQN",
+        "text": "$\\pi$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Let $m_1$ and $m_2$ be slope of curve $y=x^2$ and $6 y=7-x^3$ respectively.",
+      "image": null
+    }
+  },
+  {
+    "id": "eb91d014af0379cafa8d08b9",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Angle formed by the positive Y-axis and the tangent to $y=x^2+4 x-17$ at $\\left(\\frac{5}{2}, \\frac{-3}{4}\\right)$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "kFego",
+        "text": "$\\tan ^{-1} 9$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Uhxjx",
+        "text": "$\\frac{\\pi}{2}-\\tan ^{-1} 9$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "cYncd",
+        "text": "$\\frac{\\pi}{2}+\\tan ^{-1} 9$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "DoBEz",
+        "text": "$\\frac{\\pi}{2}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$y=x^2+4 x+4-4-17$",
+      "image": null
+    }
+  },
+  {
+    "id": "e3fc912acb1d1a6a3e31d3d6",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The value of $(1+i)^4\\left(1+\\frac{1}{i}\\right)^4$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "wnIlF",
+        "text": "12",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "eCTLI",
+        "text": "2",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ZHVpr",
+        "text": "8",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ujyoV",
+        "text": "16",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "d4314c7c5a8f63c82c33c538",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The relation $\\mathrm{R}$ defined on the set $\\mathrm{A}=\\{1,2,3$, $4,5\\}$ by $R=\\left\\{(x, y):\\left|x^2-y^2\\right|<16\\right\\}$ is given by",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "cjGrK",
+        "text": "$\\{(1,1),(2,1),(3,1),(4,1),(2,3)\\}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "eeltE",
+        "text": "$\\{(2,2),(3,2),(4,2),(2,4)\\}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xgwvG",
+        "text": "$\\{(3,3),(4,3),(5,4),(3,4)\\}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "OFZbe",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": true
+      }
+    ],
+    "solution": {
+      "text": "We have $\\mathrm{R}=\\left\\{(\\mathrm{x}, \\mathrm{y}):\\left|\\mathrm{x}^2-\\mathrm{y}^2\\right|<16\\right\\}$",
+      "image": null
+    }
+  },
+  {
+    "id": "f2b6c8b31d2e54510057925d",
+    "type": "singleCorrect",
+    "question": {
+      "text": "$\\int \\frac{2 d x}{\\left(e^x+e^{-x}\\right)^2}=$",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "gRyXj",
+        "text": "$\\frac{-\\mathrm{e}^{-\\mathrm{x}}}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "lFNhc",
+        "text": "$\\frac{-1}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "GSCVb",
+        "text": "$\\frac{1}{\\left(\\mathrm{e}^{\\mathrm{x}}+1\\right)^2}+\\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "zcrRN",
+        "text": "$\\frac{1}{\\left(\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}\\right)}+\\mathrm{C}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "318e14c9aa69fc9aaec4c689",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The value of $\\tan ^{-1}(1)+\\tan ^{-1}(0)+\\tan ^{-1}(2)+\\tan ^{-1}(3)$ is equal to",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "nSDSR",
+        "text": "$\\pi$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "MQQnS",
+        "text": "$\\frac{5 \\pi}{4}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bxolH",
+        "text": "$\\frac{\\pi}{2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "iHhOP",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$$",
+      "image": null
+    }
+  },
+  {
+    "id": "f52332f071d7ad7774a9b284",
+    "type": "singleCorrect",
+    "question": {
+      "text": "In a culture the bacteria count is $1,00,000$. The number is increased by $10 \\%$ in 2 hours. In how many hours will the count reach 2,00,000 if the rate of growth of bacteria is proportional to the number present.",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "yxMuv",
+        "text": "$\\frac{2}{\\log \\frac{11}{10}}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "tbspj",
+        "text": "$\\frac{2 \\log 2}{\\log \\left(\\frac{11}{10}\\right)}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "fIbNT",
+        "text": "$\\frac{\\log 2}{\\log 11}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "irIHi",
+        "text": "$\\frac{\\log 2}{\\log \\left(\\frac{11}{10}\\right)}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Let $y$ denote the number of bacteria at any instant $t \\cdot$ then according to the question",
+      "image": null
+    }
+  },
+  {
+    "id": "73436dc0910682143848e149",
+    "type": "singleCorrect",
+    "question": {
+      "text": "What is the angle between the two straight lines $y=(2-\\sqrt{3}) x+5$ and $y=(2+\\sqrt{3}) x-7$ ?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "dNiMu",
+        "text": "$60^{\\circ}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "xSvsl",
+        "text": "$45^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "UHDDr",
+        "text": "$30^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "mCsdu",
+        "text": "$15^{\\circ}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Th\u00ea given lin\u00e8s \u00e2r\u00e8:",
+      "image": null
+    }
+  },
+  {
+    "id": "fe0717e15a7d24b6c468583c",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If the angle $\\theta$ between the line $\\frac{x+1}{1}=\\frac{y-1}{2}$ $=\\frac{z-2}{2}$ and the plane $2 x-y+\\sqrt{\\lambda} z+4=0$ is such that $\\sin \\theta=\\frac{1}{3}$ then the value of $\\lambda$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "sZVZu",
+        "text": "$\\frac{5}{3}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "iBvdg",
+        "text": "$\\frac{-3}{5}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "gbDXZ",
+        "text": "$\\frac{3}{4}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "CqEvC",
+        "text": "$\\frac{-4}{3}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "If $\\theta$ is the angle between line and plane then $\\left(\\frac{\\pi}{2}-\\theta\\right)$ is the angle between line and normal to plane given by",
+      "image": null
+    }
+  },
+  {
+    "id": "dd24849d2644dd567782ea2d",
+    "type": "singleCorrect",
+    "question": {
+      "text": "The distance of the point $(-5,-5,-10)$ from the point of intersection of the line $\\mathrm{r} .=2 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}+\\lambda(3 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}})$ and the plane $r \\cdot(\\hat{i}-\\hat{j}+\\hat{k})=5$ is",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "uKVUh",
+        "text": "13",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "msqkw",
+        "text": "12",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "TOoSv",
+        "text": "$4 \\sqrt{15}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "QDuYW",
+        "text": "$10 \\sqrt{2}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Given equation of line is",
+      "image": null
+    }
+  },
+  {
+    "id": "3a3faeb0477024241f0af5c8",
+    "type": "singleCorrect",
+    "question": {
+      "text": "$\\int_{\\log \\sqrt{\\pi / 2}}^{\\log \\sqrt{\\pi}} \\mathrm{e}^{2 x} \\sec ^2\\left(\\frac{1}{3} \\mathrm{e}^{2 \\mathrm{x}}\\right) \\mathrm{dx}$ is equal to :",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "PPKUK",
+        "text": "$\\sqrt{3}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "XUjRp",
+        "text": "$\\frac{1}{\\sqrt{3}}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "gBBjp",
+        "text": "$\\frac{3 \\sqrt{3}}{2}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "uRHPO",
+        "text": "$\\frac{1}{2 \\sqrt{3}}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "$\\mathrm{I}=\\int_{\\log \\sqrt{\\pi / 2}}^{\\log \\sqrt{\\pi}} \\mathrm{e}^{2 \\mathrm{x}} \\sec ^2\\left(\\frac{1}{3} \\mathrm{e}^{2 \\mathrm{x}}\\right) \\mathrm{dx}$",
+      "image": null
+    }
+  },
+  {
+    "id": "57304b052ba7cb417a10f23e",
+    "type": "singleCorrect",
+    "question": {
+      "text": "If $\\frac{|x+3|+x}{x+2}>1$, then $x \\in$",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "Slkzu",
+        "text": "$(-5,-2)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "xPMsu",
+        "text": "$(-1, \\infty)$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "aCyXL",
+        "text": "$(-5,-2) \\cup(-1, \\infty)$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "YHJMv",
+        "text": "None of these",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "We have $\\frac{|x+3|+x}{x+2}>1$",
+      "image": null
+    }
+  },
+  {
+    "id": "cec27d4599911b6bef1edc09",
+    "type": "singleCorrect",
+    "question": {
+      "text": "<strong>Paragraph: </strong>",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "jCeXL",
+        "text": "complete technician-level training requirements.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "hQfmN",
+        "text": "indicate prior real emergency experience.",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "iXLAq",
+        "text": "receive permission from their fire chief.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "fUzpq",
+        "text": "enroll in three weekly training sessions.",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "See the last sentence of the fourth paragraph.",
+      "image": null
+    }
+  },
+  {
+    "id": "2e74934187d768044b881443",
+    "type": "singleCorrect",
+    "question": {
+      "text": "<strong>Paragraph: </strong>",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "qRUuK",
+        "text": "preparing for hazmat certification",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "KkxXR",
+        "text": "the main goal of F.A.S.T.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "ftwNu",
+        "text": "completing F.A.S.T. membership requirements",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "QRAkD",
+        "text": "learning about your department's F.A.S.T. membership",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Virtually, the whole passage deals with F.A.S.T. membership requirements. The other choices are too narrow to be main ideas.",
+      "image": null
+    }
+  },
+  {
+    "id": "6aabaad83cb8129e0fc46593",
+    "type": "singleCorrect",
+    "question": {
+      "text": "<strong>Paragraph: </strong>",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "jjVZm",
+        "text": "three days each month.",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "PiDOO",
+        "text": "three days each week.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "Lqxij",
+        "text": "every third month.",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "NptVo",
+        "text": "for $50 \\%$ of classes.",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "See the first paragraph.",
+      "image": null
+    }
+  },
+  {
+    "id": "a1a519a5941e10597d2961a7",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Jatin starting from a fixed point, goes $15 \\mathrm{~m}$ towards North and then after turning to his right, he goes $15 \\mathrm{~m}$. Then, he goes $10 \\mathrm{~m}, 15 \\mathrm{~m}$ and $15 \\mathrm{~m}$ after turning to his left each time. How far is he from his starting point ?",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "HEDtV",
+        "text": "$15 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "pnwOY",
+        "text": "$5 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "bHHcc",
+        "text": "$10 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "qvdGx",
+        "text": "$20 \\mathrm{~m}$",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "Let the fixed point from where Jatin starts his journey be A. Also, his walking directions are as follows.",
+      "image": null
+    }
+  },
+  {
+    "id": "08021dc64b7dabe359c0f893",
+    "type": "singleCorrect",
+    "question": {
+      "text": "Examine the following statements:",
+      "image": null
+    },
+    "options": [
+      {
+        "id": "VRCrc",
+        "text": "All members of Mohan's family are employed",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "JNnUB",
+        "text": "The employed members of Mohan's family are honest",
+        "image": null,
+        "isCorrect": true
+      },
+      {
+        "id": "RVnNR",
+        "text": "The honest members of Mohan's family are not employed",
+        "image": null,
+        "isCorrect": false
+      },
+      {
+        "id": "scNVp",
+        "text": "The employed member of Mohan's family are not honest",
+        "image": null,
+        "isCorrect": false
+      }
+    ],
+    "solution": {
+      "text": "F-Mohan's family members",
+      "image": null
+    }
+  }
+]

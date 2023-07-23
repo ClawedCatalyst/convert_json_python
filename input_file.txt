@@ -1,0 +1,2142 @@
+[OBJECT START]
+[SINGLE CORRECT]
+[1]
+[QUESTION]
+The distance of the centres of moon and earth is D. The mass of earth is 81 times the mass of the moon. At what distance from the centre of the earth, the gravitational force will be zero?
+[OPTION 1]
+$\frac{D}{2}$
+[OPTION 2]
+$\frac{2 D}{3}$
+[OPTION 3]
+$\frac{4 D}{3}$
+[OPTION 4]
+$\frac{9 D}{10}$
+[SOLUTION]
+[4]
+$$
+\begin{aligned}
+& \text { ( } \frac{G m_e}{x^2}=\frac{G m_m}{(D-x)^2} \\
+& \text { or } \frac{G(81 m)}{x^2}=\frac{m}{(D-x)^2} \\
+& \therefore \quad x=\frac{9 D}{10} .
+\end{aligned}
+$$
+![original image](https://cdn.mathpix.com/snip/images/y9OJ6e9593_45b6gBqdtNlnxsT07p_nVcd6AYuAiQ80.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[2]
+[QUESTION]
+Two wires $A$ and $B$ are of the same material. Their lengths are in the ratio of $1: 2$ and the diameter are in the ratio $2: 1$. If they are pulled by the same force, then increase in length will be in the ratio of
+[OPTION 1]
+$2: 1$
+[OPTION 2]
+$1: 4$
+[OPTION 3]
+$1: 8$
+[OPTION 4]
+$8: 1$
+[SOLUTION]
+[3]
+We know that Young's modulus
+$$
+\mathrm{Y}=\frac{\mathrm{F}}{\pi \mathrm{r}^2} \times \frac{\mathrm{L}}{\ell}
+$$
+Since Y, F are same for both the wires, we have,
+$$
+\begin{aligned}
+& \frac{1}{\mathrm{r}_1^2} \frac{\mathrm{L}_1}{\ell_1}=\frac{1}{\mathrm{r}_2^2} \frac{\mathrm{L}_2}{\ell_2} \quad \text { or, } \frac{\ell_1}{\ell_2}=\frac{\mathrm{r}_2^2 \times \mathrm{L}_1}{\mathrm{r}_1^2 \times \mathrm{L}_2}= \\
+& \frac{\left(\mathrm{D}_2 / 2\right)^2 \times \mathrm{L}_1}{\left(\mathrm{D}_1 / 2\right)^2 \times \mathrm{L}_2} \\
+& \text { or, } \frac{\ell_1}{\ell_2}=\frac{\mathrm{D}_2^2 \times \mathrm{L}_1}{\mathrm{D}_1^2 \times \mathrm{L}_2}=\frac{\mathrm{D}_2^2}{\left(2 \mathrm{D}_2\right)^2} \times \frac{\mathrm{L}_2}{2 \mathrm{~L}_2}=\frac{1}{8} \\
+& \text { So, } \ell_1: \ell_2=1: 8
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[3]
+[QUESTION]
+If $x=a t+b t^2$, where $x$ is the distance travelled by the body in kilometers while $t$ is the time in seconds, then the unit of $b$ is
+[OPTION 1]
+$\mathrm{km} / \mathrm{s}$
+[OPTION 2]
+$\mathrm{kms}$
+[OPTION 3]
+$\mathrm{km} / \mathrm{s}^2$
+[OPTION 4]
+$\mathrm{kms}^2$
+[SOLUTION]
+[3]
+$[\mathrm{x}]=\left[\mathrm{bt}^2\right]$. Hence $[\mathrm{b}]=\left[\mathrm{x} / \mathrm{t}^2\right]=\mathrm{km} / \mathrm{s}^2$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[4]
+[QUESTION]
+A soap bubble of radius $r_1$ is placed on another soap bubble of radius $r_2\left(r_1<r_2\right)$. The radius $\mathrm{R}$ of the soapy film separating the two bubbles is
+[OPTION 1]
+$r_2+r_2$
+[OPTION 2]
+$\frac{r_2=r_1}{r_1 r_2}$
+[OPTION 3]
+$\frac{r_1 r_2}{r_2-r_1}$
+[OPTION 4]
+$\sqrt{r_1^2+r_2^2}$
+[SOLUTION]
+[3]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[5]
+[QUESTION]
+A charge $\mathrm{q}$ is moving with a velocity $\mathrm{v}$ parallel to a magnetic field $B$. Force on the charge due to magnetic field is
+[OPTION 1]
+q $\mathrm{q} B$
+[OPTION 2]
+$q$ B/v
+[OPTION 3]
+zero
+[OPTION 4]
+$\mathrm{B}$ v/q
+[SOLUTION]
+[3]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[6]
+[QUESTION]
+Two spheres $A$ and $B$ of masses $m$ and $2 m$ and radii $2 R$ and $R$ respectively are placed in contact as shown. The COM of the system lies
+![original image](https://cdn.mathpix.com/snip/images/lhELxnvClh9AvYRYn2VmeyN-DbCvQsRjSTuP62UAOCU.original.fullsize.png)
+[OPTION 1]
+inside $A$
+[OPTION 2]
+inside $B$
+[OPTION 3]
+at the point of contact
+[OPTION 4]
+None of these
+[SOLUTION]
+[3]
+As mass of $\mathrm{B}$ is twice that of $\mathrm{A}$.
+And, $\frac{\mathrm{r}_1}{\mathrm{r}_2}=\frac{\mathrm{m}_2}{\mathrm{~m}_1}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[7]
+[QUESTION]
+Identify the correct statement.
+[OPTION 1]
+Static friction depends on the area of contact
+[OPTION 2]
+Kinetic friction depends on the area of contact
+[OPTION 3]
+Coefficient of kinetic friction is more than the coefficient of static friction
+[OPTION 4]
+Coefficient of kinetic friction is less than the coefficient of static friction
+[SOLUTION]
+[4]
+$\mu_{\mathrm{k}}<\mu_{\mathrm{s}}$ coefficient of static friction is always greater than kinetic friction.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[8]
+[QUESTION]
+The distance travelled by a particle starting from rest and moving with an acceleration $\frac{4}{3} \mathrm{~ms}^{-2}$, in the third second is:
+[OPTION 1]
+$6 \mathrm{~m}$
+[OPTION 2]
+$4 \mathrm{~m}$
+[OPTION 3]
+$\frac{10}{3} \mathrm{~m}$
+[OPTION 4]
+$\frac{19}{3} \mathrm{~m}$
+[SOLUTION]
+[3]
+Distance travelled in the $n$th second is given by $d_n=u+\frac{a}{2}(2 n-1)$
+$$
+\begin{aligned}
+& \text { put } \mathrm{u}=0, \mathrm{a}=\frac{4}{3} \mathrm{~ms}^{-2}, \mathrm{n}=3 \\
+& \therefore \mathrm{d}=0+\frac{4}{3 \times 2}(2 \times 3-1)=\frac{4}{6} \times 5=\frac{10}{3} \mathrm{~m}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[9]
+[QUESTION]
+Photoelectric work function of a metal is $1 \mathrm{eV}$. Light of wavelength $\lambda=3000 \AA$ falls on it. The photo electrons come out with a maximum velocity of :
+[OPTION 1]
+10 metres/sec
+[OPTION 2]
+$10^2$ metres $/ \mathrm{sec}$
+[OPTION 3]
+$10^4$ metres $/ \mathrm{sec}$
+[OPTION 4]
+$10^6$ metres $/ \mathrm{sec}$
+[SOLUTION]
+[4]
+$$
+\begin{aligned}
+& \text {  } h v=W+\frac{1}{2} m v^2 \quad \text { or } \frac{h c}{\lambda}=W+\frac{1}{2} m v^2 \\
+& \text { Here } \lambda=3000 \AA=3000 \times 10^{-10} \mathrm{~m} \\
+& \text { and } \mathrm{W}=1 \mathrm{eV}=1.6 \times 10^{-19} \text { joule }
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+& \therefore \frac{\left(6.6 \times 10^{-34}\right)\left(3 \times 10^8\right)}{3000 \times 10^{-10}} \\
+& =\left(1.6 \times 10^{-19}\right)+\frac{1}{2} \times\left(9.1 \times 10^{-31}\right) \mathrm{v}^2
+\end{aligned}
+$$
+Solving we get, $v \cong 10^6 \mathrm{~m} / \mathrm{s}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[10]
+[QUESTION]
+The coefficient of apparent expansion of mercury in a glass vessel is $153 \times 10^{-6} /{ }^{\circ} \mathrm{C}$ and in a steel ${ }^6 /{ }^{\circ} \mathrm{C}$, then that of glass is
+[OPTION 1]
+$9 \times 10^{-6} /{ }^{\circ} \mathrm{C}$
+[OPTION 2]
+$6 \times 10^{-6} /{ }^{\circ} \mathrm{C}$
+[OPTION 3]
+$36 \times 10^{-6} /{ }^{\circ} \mathrm{C}$
+[OPTION 4]
+$27 \times 10^{-6} /{ }^{\circ} \mathrm{C}$
+[SOLUTION]
+[1]
+$$
+\begin{aligned}
+& \gamma_{\text {real }}=\gamma_{\text {app. }}+\gamma_{\text {vessel }} \\
+& \text { So }\left(\gamma_{\text {app. }}+\gamma_{\text {vessel }}\right)_{\text {glass }}=\left(\gamma_{\text {app }}+\gamma_{\text {vessel }}\right)_{\text {steel }} \\
+& \Rightarrow 153 \times 10^{-6}+\left(\gamma_{\text {vessel }}\right)_{\text {glass }} \\
+& =144 \times 10^{-6}+\left(\gamma_{\text {vessel }}\right)_{\text {steel }}
+\end{aligned}
+$$
+Further,
+$$
+\begin{aligned}
+& \left(\gamma_{\text {vessel }}\right)_{\text {steel }}=3 \alpha=3 \times\left(12 \times 10^{-6}\right) \\
+& \quad=36 \times 10^{-6} /{ }^{\circ} \mathrm{C} \\
+& \Rightarrow 153 \times 10^{-6}+\left(\gamma_{\text {vessel }}\right)_{\text {glass }} \\
+& =144 \times 10^{-6}+36 \times 10^{-6} \\
+& \Rightarrow\left(\gamma_{\text {vessel }}\right)_{\text {glass }}=3 \alpha=27 \times 10^{-6} /{ }^{\circ} \mathrm{C} \\
+& \Rightarrow \alpha=9 \times 10^{-6} /{ }^{\circ} \mathrm{C}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[11]
+[QUESTION]
+A step-up transformer operates on a $230 \mathrm{~V}$ line and supplies a load of 2 ampere. The ratio of the primary and secondary windings is $1: 25$. The current in the primary is
+[OPTION 1]
+$15 \mathrm{~A}$
+[OPTION 2]
+$50 \mathrm{~A}$
+[OPTION 3]
+$25 \mathrm{~A}$
+[OPTION 4]
+$12.5 \mathrm{~A}$
+[SOLUTION]
+[2]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[12]
+[QUESTION]
+Two bodies of same mass are projected with the same velocity at an angle $30^{\circ}$ and $60^{\circ}$ respectively. The ratio of their horizontal ranges will be
+[OPTION 1]
+$1: 1$
+[OPTION 2]
+$1: 2$
+[OPTION 3]
+$1: 3$
+[OPTION 4]
+$2: \sqrt{2}$
+[SOLUTION]
+[1]
+Horizontal range is same when angle of projection is $\theta$ or $\left(90^{\circ}-\theta\right)$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[13]
+[QUESTION]
+Two point charges $+3 \mu C$ and $+8 \mu C$ repel each other with a force of $40 \mathrm{~N}$. If a charge of $-5 \mu \mathrm{C}$ is added to each of them, then the force between them will become
+[OPTION 1]
+$-10 \mathrm{~N}$
+[OPTION 2]
+$+10 \mathrm{~N}$
+[OPTION 3]
+$+20 \mathrm{~N}$
+[OPTION 4]
+$-20 \mathrm{~N}$
+[SOLUTION]
+[1]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[14]
+[QUESTION]
+A sphere rolls down on an inclined plane of inclination $\theta$. What is the acceleration as the sphere reaches the bottom?
+[OPTION 1]
+$\frac{5}{7} g \sin \theta$
+[OPTION 2]
+$\frac{3}{5} g \sin \theta$
+[OPTION 3]
+$\frac{2}{7} g \sin \theta$
+[OPTION 4]
+$\frac{2}{5} g \sin \theta$
+[SOLUTION]
+[1]
+$a=\frac{g \sin \theta}{1+\frac{K^2}{R^2}}=\frac{g \sin \theta}{1+\frac{2}{5}}=\frac{5}{7} g \sin \theta$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[15]
+[QUESTION]
+A given ray of light suffers minimum deviation in an equilateral prism P. Additional prisms Q and R of identical shape and of same material as that of $\mathrm{P}$ are now combined as shown in figure. The ray will now suffer
+![original image](https://cdn.mathpix.com/snip/images/OTzW-jlsj_SII44Z2EfgSABlWion5gT5Y8jA6APO-Tc.original.fullsize.png)
+[OPTION 1]
+greater deviation
+[OPTION 2]
+no deviation
+[OPTION 3]
+same deviation as before
+[OPTION 4]
+total internal reflection
+[SOLUTION]
+[3]
+When the ray suffers minimum deviation, it becomes parallel to the base of prism P. As prisms $\mathrm{Q}$ and $\mathrm{R}$ are of same material and have identical shape, therefore, the ray continues to be parallel to base of $Q$ and $R$. Hence final deviation of the ray remains the same as before.
+![original image](https://cdn.mathpix.com/snip/images/ht-wbLvRQuxATQTYbACuq_Kr2u2OaJInHFQ8B9KOyeQ.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[16]
+[QUESTION]
+The current in the $1 \Omega$ resistor shown in the circuit is
+![original image](https://cdn.mathpix.com/snip/images/iBXwpNcSCcvQ-twkaYuZy5Nfk2OJt8_z3gXUpjwnJfM.original.fullsize.png)
+[OPTION 1]
+$\frac{2}{3} \mathrm{~A}$
+[OPTION 2]
+$3 \mathrm{~A}$
+[OPTION 3]
+$6 \mathrm{~A}$
+[OPTION 4]
+$2 \mathrm{~A}$
+[SOLUTION]
+[4]
+Two $4 \Omega$ resistors are in parallel combination. Their equivalent resistance
+$$
+=\frac{4 \times 4}{4+4}=\frac{16}{8}=2 \Omega
+$$
+![original image](https://cdn.mathpix.com/snip/images/I0PtFRVKes-U5z4PSgqlrBdoISwxVIpbLdMd9SRNxdI.original.fullsize.png)
+$\therefore$ Total resistance of the network $=2+1=$
+$3 \Omega$
+$\therefore$ Current through $1 \Omega$ resistor $=\frac{6}{3}=2 \mathrm{~A}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[17]
+[QUESTION]
+The root mean square velocity of hydrogen molecules at $300 \mathrm{~K}$ is $1930 \mathrm{metre} / \mathrm{sec}$. Then the r.m.s velocity of oxygen molecules at $1200 \mathrm{~K}$ will be
+[OPTION 1]
+482.5 metre/sec
+[OPTION 2]
+$965 \mathrm{metre} / \mathrm{sec}$
+[OPTION 3]
+1930 metre/sec
+[OPTION 4]
+3860 metre/sec
+[SOLUTION]
+[2]
+Root-mean square-velocity is given by
+$$
+\begin{aligned}
+& \mathrm{v}_{\mathrm{rms}}=\sqrt{\frac{3 R T}{M}} \text { i.e., } \mathrm{v}_{\mathrm{rms}} \propto \sqrt{\left(\frac{\mathrm{T}}{\mathrm{M}}\right)} \\
+& \frac{\left(\mathrm{v}_{\mathrm{rms}}\right) \mathrm{O}_2}{\left(\mathrm{v}_{\mathrm{rms}}\right) \mathrm{H}_2}=\sqrt{\left[\frac{\mathrm{T}_{\mathrm{O}_2}}{\mathrm{~T}_{\mathrm{H}_2}} \times \frac{\mathrm{M}_{\mathrm{H}_2}}{\mathrm{M}_{\mathrm{O}_2}}\right]} \\
+& =\sqrt{\left[\left(\frac{1200}{300}\right) \times\left(\frac{2}{32}\right)\right]}=\frac{1}{2} \\
+& \therefore \quad\left(\mathrm{v}_{\mathrm{rms}}\right) \mathrm{O}_2=\left(\mathrm{v}_{\mathrm{rms}}\right) \mathrm{H}_2 \times \frac{1}{2}=\frac{1930}{2}=
+\end{aligned}
+$$
+965m/s
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[18]
+[QUESTION]
+Lenz's law gives
+[OPTION 1]
+the magnitude of the induced e.m.f.
+[OPTION 2]
+the direction of the induced current
+[OPTION 3]
+both the magnitude and direction of the induced current
+[OPTION 4]
+the magnitude of the induced current
+[SOLUTION]
+[2]
+Lenz's law helps to identify the direction of induced current.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[19]
+[QUESTION]
+A parallel plate capacitor with air between the plates has a capacitance of $8 \mathrm{pF}$. Calculate the capacitance if the distance between the plates is reduced by half and the space between them is filled with a substance of dielectric constant. (k =6)
+[OPTION 1]
+$72 \mathrm{pF}$
+[OPTION 2]
+$81 \mathrm{pF}$
+[OPTION 3]
+$84 \mathrm{pF}$
+[OPTION 4]
+$96 \mathrm{pF}$
+[SOLUTION]
+[4]
+Capacity of parallel plate capacitor
+$$
+\mathrm{C}=\frac{\mathrm{k} \varepsilon_0 \mathrm{~A}}{\mathrm{~d}} \quad\left(\text { For air } \mathrm{k}_{\mathrm{r}}=1\right)
+$$
+So, $\frac{\varepsilon_0 \mathrm{~A}}{\mathrm{~d}}=8 \times 10^{-12}$
+If $d \rightarrow \frac{d}{2}$ and $k_r \rightarrow 6$ then new capacitance $\mathrm{C}^{\prime}=6 \times \frac{\varepsilon_0 \mathrm{~A}}{\mathrm{~d} / 2}=12 \frac{\varepsilon_0 \mathrm{~A}}{\mathrm{~d}}=12 \times 8 \mathrm{pF}=96 \mathrm{pF}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[20]
+[QUESTION]
+For a particle executing S.H.M. the displacement $x$ is given by $x=A \cos \omega t$. Identify the graph which represents the variation of potential energy (P.E.) as a function of time $t$ and displacement $x$.
+![original image](https://cdn.mathpix.com/snip/images/IWb8zYT6OmWP_darzX10E6vQ9PvKpdWBz0d2L5trNGU.original.fullsize.png)
+[OPTION 1]
+I, III
+[OPTION 2]
+II, IV
+[OPTION 3]
+II, III
+[OPTION 4]
+I,IV
+[SOLUTION]
+[1]
+In $x=A \cos \omega t$, the particle starts oscillating from extreme position. So at $t=0$, its potential energy is maximum.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[21]
+[QUESTION]
+A radioactive sample contains $10^{-3} \mathrm{~kg}$ each of two nuclear species $A$ and $B$ with half-life 4 days and 8 days respectively. The ratio of the amounts of $A$ and $B$ after a period of 16 days is
+[OPTION 1]
+$1: 2$
+[OPTION 2]
+$4: 1$
+[OPTION 3]
+$1: 4$
+[OPTION 4]
+$2: 1$
+[SOLUTION]
+[3]
+Ratio of number of half life taken is given as:
+After 16 days
+$$
+\begin{aligned}
+& n_{A 1 / 2}=\frac{16}{4}=4 ; n_{B 1 / 2}=\frac{16}{8}=2 \\
+& N=N_0\left(\frac{1}{2}\right)^n \Rightarrow \frac{N_A}{N_B}
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+& =\frac{1}{2^4}: \frac{1}{2^2}=2^2: 2^4 \\
+& =4: 16,=1: 4
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[22]
+[QUESTION]
+A string of $7 \mathrm{~m}$ length has a mass of $0.035 \mathrm{~kg}$. If tension in the string is $60.5 \mathrm{~N}$, then speed of a wave on the string is
+[OPTION 1]
+$77 \mathrm{~m} / \mathrm{s}$
+[OPTION 2]
+$102 \mathrm{~m} / \mathrm{s}$
+[OPTION 3]
+$110 \mathrm{~m} / \mathrm{s}$
+[OPTION 4]
+$165 \mathrm{~m} / \mathrm{s}$
+[SOLUTION]
+[3]
+Given : Length $(l)=7 \mathrm{~m}$
+$\operatorname{Mass}(\mathrm{M})=0.035 \mathrm{~kg}$ and tension $(\mathrm{T})=60.5$
+$\mathrm{N}$. We know that mass of string per unit length $(\mathrm{m})$
+$$
+=\frac{0.035}{7}=0.005 \mathrm{~kg} / \mathrm{m}
+$$
+and speed of
+$$
+\text { wave }=\sqrt{\frac{T}{m}}=\sqrt{\frac{60.5}{0.005}}=110 \mathrm{~m} / \mathrm{s} .
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[23]
+[QUESTION]
+The following circuit represents
+![original image](https://cdn.mathpix.com/snip/images/IxAPo8rrTr15g0HBDN5NIB0Vg0SXEoE11XQ016W6yc4.original.fullsize.png)
+[OPTION 1]
+OR gate
+[OPTION 2]
+AND gate
+[OPTION 3]
+NAND gate
+[OPTION 4]
+None of these
+[SOLUTION]
+[4]
+Output of upper AND gate $=\overline{\mathrm{A}} \mathrm{B}$
+Output of lower AND gate $=A \bar{B}$
+$\therefore$ Output of OR gate, $\mathrm{Y}=\mathrm{A} \overline{\mathrm{B}}+\mathrm{B} \overline{\mathrm{A}}$
+This is boolean expression for XOR gate.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[24]
+[QUESTION]
+A straight section $P Q$ of a circuit lies along the $X$-axis from $x=-\frac{a}{2}$ to $x=\frac{a}{2}$ and carries a steady current $i$. The magnetic field due to the section $P Q$ at a point $X=+a$ will be
+[OPTION 1]
+proportional to $a$
+[OPTION 2]
+proportional to $a^2$
+[OPTION 3]
+proportional to $1 / a$
+[OPTION 4]
+zero
+[SOLUTION]
+[4]
+Magnetic field at a point on the axis of a current carrying wire is always zero.
+![original image](https://cdn.mathpix.com/snip/images/gjwX4ZtYpb9CDWAYWdi1NZNG-sucatXgbHKje3VOohw.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[25]
+[QUESTION]
+A source producing sound of frequency $170 \mathrm{~Hz}$ is approaching a stationary observer with a velocity $17 \mathrm{~ms}^{-1}$. The apparent change in the wavelength of sound heard by the observer is (speed of sound in air $=340 \mathrm{~ms}^{-1}$ )
+[OPTION 1]
+$0.1 \mathrm{~m}$
+[OPTION 2]
+$0.2 \mathrm{~m}$
+[OPTION 3]
+$0.4 \mathrm{~m}$
+[OPTION 4]
+$0.5 \mathrm{~m}$
+[SOLUTION]
+[1]
+$$
+\begin{aligned}
+& \lambda=\frac{v}{n}=\frac{340}{170}=2 m, \quad n^{\prime}=\frac{340}{340-17} \times 170 \\
+& n^{\prime}=178.9 \mathrm{~Hz} \\
+& \text { Now } \lambda^{\prime}=\frac{v}{n^{\prime}}=\frac{340}{178.9}=1.9 \\
+& \Rightarrow \lambda-\lambda^{\prime}=2-1.9=0.1 \mathrm{~m}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[26]
+[QUESTION]
+Consider the following reactions:
+$$
+\begin{aligned}
+& \mathrm{NaCl}+\mathrm{K}_2 \mathrm{Cr}_2 \mathrm{O}_7+\mathrm{H}_2 \mathrm{SO}_4 \text { (Conc.) } \\
+& \rightarrow(\mathrm{A})+\text { Side products } \\
+& (\mathrm{A})+\mathrm{NaOH} \rightarrow \text { (B) }+ \text { Side products } \\
+& \left.(\mathrm{B})+\mathrm{H}_2 \mathrm{SO}_4 \text { (dilute }\right)+\mathrm{H}_2 \mathrm{O}_2 \\
+& \rightarrow(\mathrm{C})+\text { Side products }
+\end{aligned}
+$$
+The sum of the total number of atoms in one molecule each of (A), (B) and (C) is
+[OPTION 1]
+18
+[OPTION 2]
+15
+[OPTION 3]
+21
+[OPTION 4]
+20
+[SOLUTION]
+[1]
+![original image](https://cdn.mathpix.com/snip/images/nPe1xModWqphOP9pvGpAi6dTT07WTG8bRu9HXDQCyF0.original.fullsize.png)
+The sum of total no. of atoms in one molecules each of $A, B \& C=5+7+6=18$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[27]
+[QUESTION]
+Xenon hexafluoride on partial hydrolysis produces compounds ' $\mathrm{X}$ ' and ' $\mathrm{Y}$ '. Compounds ' $\mathrm{X}$ ', 'Y' and the oxidation state of $\mathrm{Xe}$ are respectively:
+[OPTION 1]
+$\mathrm{XeOF}_4(+6)$ and $\mathrm{XeO}_3(+6)$
+[OPTION 2]
+$\mathrm{XeO}_2(+4)$ and $\mathrm{XeO}_3(+6)$
+[OPTION 3]
+$\mathrm{XeOF}_4(+6)$ and $\mathrm{XeO}_2 \mathrm{~F}_2(+6)$
+[OPTION 4]
+$\mathrm{XeO}_2 \mathrm{~F}_2(+6)$ and $\mathrm{XeO}_2(+4)$
+[SOLUTION]
+[3]
+$$
+\text {  } \mathrm{XeF}_6+\mathrm{H}_2 \mathrm{O} \frac{\text { partial }}{\text { hydrolysis }} \stackrel{+6}{\mathrm{XeOF}_4}+2 \mathrm{HF}
+$$
+![original image](https://cdn.mathpix.com/snip/images/MSI8WH0AQOIGaQbN5K8Y7ieyKHpuBqxA8HpAnulft_A.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[28]
+[QUESTION]
+The edge length of unit cell of a metal having molecular weight $75 \mathrm{~g} / \mathrm{mol}$ is $5 \AA$ which crystallizes in cubic lattice. If the density is $2 \mathrm{~g}$ / cc then find the radius of metal atom. $\left(\mathrm{N}_{\mathrm{A}}=6 \times 10^{23}\right)$. Give the answer in $\mathrm{pm}$.
+[OPTION 1]
+$217 \mathrm{pm}$
+[OPTION 2]
+$210 \mathrm{pm}$
+[OPTION 3]
+$220 \mathrm{pm}$
+[OPTION 4]
+$205 \mathrm{pm}$
+[SOLUTION]
+[1]
+$$
+\begin{aligned}
+& \text {  } \rho=\frac{\mathrm{ZM}}{\mathrm{N}_{\mathrm{A}} \mathrm{V}} \\
+& \mathrm{Z}=\frac{\rho \mathrm{N}_{\mathrm{A}} \mathrm{V}}{\mathrm{M}}=\frac{2 \times 6 \times 10^{23} \times\left(5 \times 10^{-8}\right)^3}{75} \\
+& \mathrm{Z}=2, \text { which represents } b c c \text { structure } \\
+& \therefore \quad r=\frac{\sqrt{3}}{4} a=\frac{\sqrt{3}}{4} \times 5=2.165 \AA=216.5 \mathrm{pm} \approx \\
+& 217 \mathrm{pm}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[29]
+[QUESTION]
+Consider the following statements:
+I. Increase in concentration of reactant increases the rate of a zero order reaction.
+II. Rate constant $\mathrm{k}$ is equal to collision frequency $\mathrm{A}$ if $\mathrm{E}_{\mathrm{a}}=0$.
+III. Rate constant $\mathrm{k}$ is equal to collision frequency $\mathrm{A}$ if $\mathrm{E}_{\mathrm{a}}=\infty$.
+IV. In $\mathrm{k}$ vs $\mathrm{T}$ is a straight line.
+$\mathrm{V}$. In $\mathrm{k}$ vs $1 / \mathrm{T}$ is a straight line.
+Correct statements are
+[OPTION 1]
+I and IV
+[OPTION 2]
+II and V
+[OPTION 3]
+III and IV
+[OPTION 4]
+II and III
+[SOLUTION]
+[2]
+According to Arrhenius equation, $\mathrm{k}=\mathrm{Ae}^{-\mathrm{E}_{\mathrm{a}} / \mathrm{RT}}$ $\therefore$ when $\mathrm{E}_{\mathrm{a}}=0, \mathrm{k}=\mathrm{A}$ Also $\ln \mathrm{k}$ vs $1 / \mathrm{T}$ is a straight line with slope $=-$ $\mathrm{E}_2 / \mathrm{R}$. $\therefore$ Statements (ii) and (v) are correct.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[30]
+[QUESTION]
+To deposit $0.634 \mathrm{~g}$ of copper by electrolysis of aqueous cupric sulphate solution, the amount of electricity required (in coulombs) is
+[OPTION 1]
+1930
+[OPTION 2]
+3960
+[OPTION 3]
+4825
+[OPTION 4]
+9650
+[SOLUTION]
+[1]
+In the electrolysis of cupric sulphate, the reaction that occurs at cathode is
+$$
+\mathrm{Cu}^{2+}+2 \mathrm{e}^{-} \longrightarrow \mathrm{Cu}
+$$
+Thus $2 \mathrm{~F}$ or $2 \times 96500 \mathrm{C}$ of electricity is required to deposit
+$=1 \mathrm{~mol}$ of $\mathrm{Cu}=63.5 \mathrm{~g}$ of $\mathrm{Cu}$
+It means that to deposit $63.5 \mathrm{~g}$ of $\mathrm{Cu}$, the amount of electricity required $=2 \times 96500 \mathrm{C}$
+So, to deposit $0.634 \mathrm{~g}$ of $\mathrm{Cu}$, the amount of
+$$
+\begin{aligned}
+& \text { electricity required }=\frac{2 \times 96500}{63.5} \times 0.634 \\
+& \approx 1930 \mathrm{C}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[31]
+[QUESTION]
+In the following skew conformation of ethane, $\mathrm{H}^{\prime}-\mathrm{C}-\mathrm{C}-\mathrm{H}^{\prime \prime}$ dihedral angle is :
+![original image](https://cdn.mathpix.com/snip/images/bpMBgsb0LVitM9-tCKZaekG3bFgL2Ta6qtu_BG1Uz_A.original.fullsize.png)
+[OPTION 1]
+$58^{\circ}$
+[OPTION 2]
+$149^{\circ}$
+[OPTION 3]
+$151^{\circ}$
+[OPTION 4]
+$120^{\circ}$
+[SOLUTION]
+[2]
+![original image](https://cdn.mathpix.com/snip/images/Z7I4fiKw3stz6FYaWh3JuDl1NM57PoikLZ5yq16Z_Qc.original.fullsize.png)
+$$
+\therefore \quad \text { Angle between } \mathrm{H}^{\prime} \text { and } \mathrm{H}^{\prime \prime}=120^{\circ}+29^{\circ}=149^{\circ}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[32]
+[QUESTION]
+What is the product of following reaction?
+$$
+\text { Hex-3-ynal } \frac{\text { (i) } \mathrm{NaBH}_4}{\text { (ii) } \mathrm{PBr}_3 \text {, (iii) } \mathrm{Mg} / \text { ether, (iv) } \mathrm{CO}_2 / \mathrm{H}_3 \mathrm{O}^{+}} \longrightarrow \text { ? }
+$$
+[OPTION 1]
+![original image](https://cdn.mathpix.com/snip/images/Gnwk6mrMHsZSjprb5zoTUZ9kkjyxdrb27I_7uuEJRCs.original.fullsize.png)
+[OPTION 2]
+![original image](https://cdn.mathpix.com/snip/images/zMYm5XpZq01nEf2vHdM0cGeAPYEg324MxaefybQbYKg.original.fullsize.png)
+[OPTION 3]
+![original image](https://cdn.mathpix.com/snip/images/yjONNhxGb5HrT0kvViXHzFAd9jLE3J5aEDzNAb6Ktlg.original.fullsize.png)
+[OPTION 4]
+![original image](https://cdn.mathpix.com/snip/images/6iSO09oUO-MFnVCD64mMx3O4nqzNTaywRBHyKSyHvjI.original.fullsize.png)
+[SOLUTION]
+[4]
+![original image](https://cdn.mathpix.com/snip/images/58ngCqb77u5aEi1Rub_IEZmR2Gl-md4YiRFfysiii8k.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[33]
+[QUESTION]
+In the following sequence of reactions,
+$$
+\begin{array}{r}
+\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{OH} \stackrel{\mathrm{P}+\mathrm{I}_2}{\longrightarrow} \mathrm{A} \underset{\text { ether }}{\stackrel{\mathrm{Mg}}{\longrightarrow}} \mathrm{B} \stackrel{\mathrm{HCHO}}{\longrightarrow} \\
+\mathrm{C} \stackrel{\mathrm{H}_2 \mathrm{O}}{\longrightarrow} \mathrm{D}
+\end{array}
+$$
+the compound $\mathrm{D}$ is
+[OPTION 1]
+propanal
+[OPTION 2]
+butanal
+[OPTION 3]
+n-butyl alcohol
+[OPTION 4]
+$n$-propyl alcohol.
+[SOLUTION]
+[4]
+![original image](https://cdn.mathpix.com/snip/images/ttZtoJHyxZ4PQcMrQH5pYcHljcz7vdjMZDmx7IDhV-E.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[34]
+[QUESTION]
+Which of the following reactions can produce aniline as main product?
+[OPTION 1]
+$\mathrm{C}_6 \mathrm{H}_5 \mathrm{NO}_2+\mathrm{Zn} / \mathrm{KOH}$
+[OPTION 2]
+$\mathrm{C}_6 \mathrm{H}_5 \mathrm{NO}_2+\mathrm{Zn} / \mathrm{NH}_4 \mathrm{Cl}$
+[OPTION 3]
+$\mathrm{C}_6 \mathrm{H}_5 \mathrm{NO}_2+\mathrm{LiAlH}_4$
+[OPTION 4]
+$\mathrm{C}_6 \mathrm{H}_5 \mathrm{NO}_2+\mathrm{Zn} / \mathrm{HCl}$
+[SOLUTION]
+[4]
+Various products are formed when nitroarenes are reduced. These are given below for $\mathrm{C}_6 \mathrm{H}_5 \mathrm{NO}_2$.
+
+$$
+\text { Medium } \quad \text { Main product }
+$$
+(d) In acidic medium Aniline $\left(\mathrm{C}_6 \mathrm{H}_5 \mathrm{NH}_2\right)$ $(\mathrm{metal} / \mathrm{HCl})$
+(b) In neutral medium Phenyl hydroxylamine, $\left(\mathrm{Zn} / \mathrm{NH}_4 \mathrm{Cl}\right)$
+![original image](https://cdn.mathpix.com/snip/images/BkJ8Qi2XhHHDFDO6u6aGVQixF8G98k_QsNTgUnCzTTc.original.fullsize.png)
+
+$$
+\text { (a) In alkaline medium }
+$$
+![original image](https://cdn.mathpix.com/snip/images/3rkr2b9UEH7Sh_kp5wlVqEINUdq811Uv2nZWIRq3dDw.original.fullsize.png)
+Thus, aniline will be main product in case of (d).
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[35]
+[QUESTION]
+Secondary structure of protein refers to
+[OPTION 1]
+mainly denatured proteins and structure of prosthetic groups
+[OPTION 2]
+three-dimensional structure, especially the bond between amino acid residues that are distinct from each other in the polypeptide chain
+[OPTION 3]
+linear sequence of amino acid residues in the polypetide chain
+[OPTION 4]
+regular folding patterns of continous portions of the polypeptide chain
+[SOLUTION]
+[4]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[36]
+[QUESTION]
+The increasing order for the values of $e / m$ (charge/mass) is
+[OPTION 1]
+$e, p, n, \alpha$
+[OPTION 2]
+$n, p, e, \alpha$
+[OPTION 3]
+$n, p, \alpha, e$
+[OPTION 4]
+$n, \alpha, p, e$
+[SOLUTION]
+[4]
+$\frac{e}{m}$ for (i) neutron $=\frac{0}{1}=0$
+(ii) $\alpha$-particle $=\frac{2}{4}=0.5$
+(iii) proton $=\frac{1}{1}=1$
+(iv) electron $=\frac{1}{1 / 1837}=1837$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[37]
+[QUESTION]
+In which of the following pairs both the ions are coloured in aqueous solutions ?
+[OPTION 1]
+$\mathrm{Sc}^{3+}, \mathrm{Ti}^{3+}$
+[OPTION 2]
+$\mathrm{Sc}^{3+}, \mathrm{Co}^{2+}$
+[OPTION 3]
+$\mathrm{Ni}^{2+}, \mathrm{Cu}^{+}$
+[OPTION 4]
+$\mathrm{Ni}^{2+}, \mathrm{Ti}^{3+}$
+[SOLUTION]
+[4]
+$\mathrm{Sc}^{3+}(\mathrm{Z}=18): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^0, 4 s^0$; no unpaired electron.
+$\mathrm{Cu}^{+}(\mathrm{Z}=28): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^{10}, 4 s^0$; no unpaired electron.
+$$
+\mathrm{Ni}^{2+}(\mathrm{Z}=26): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^8, 4 s^0
+$$
+unpaired electrons are present.
+$$
+\mathrm{Ti}^{3+}(\mathrm{Z}=19): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^1, 4 s^0 \text {; }
+$$
+unpaired electron is present
+$$
+\mathrm{Co}^{2+}(\mathrm{Z}=25): 1 s^2, 2 s^2 p^6, 3 s^2 p^6 d^7, 4 s^0 \text {; }
+$$
+unpaired electrons are present
+So from the given options the only correct combination is $\mathrm{Ni}^{2+}$ and $\mathrm{Ti}^{3+}$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[38]
+[QUESTION]
+The total number of possible isomers for squareplanar $\left[\mathrm{Pt}(\mathrm{Cl})\left(\mathrm{NO}_2\right)\left(\mathrm{NO}_3\right)(\mathrm{SCN})\right]^{2-}$ is:
+[OPTION 1]
+16
+[OPTION 2]
+12
+[OPTION 3]
+8
+[OPTION 4]
+24
+[SOLUTION]
+[2]
+The square planar complex of the type [Mabcd] $^{n \pm}$, where all four ligands are different, has 3 geometrical isomers. But if one of the ligands is ambidentate, then $2 \times 3=6$ geometrical isomers are possible. But if two ligands are ambidentate, then $4 \times 3=12$ geometrical isomers are possible. In the given example, $\mathrm{NO}_2^{-}$and $\mathrm{SCN}^{-}$are ambidentate ligands.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[39]
+[QUESTION]
+For the reaction,
+$$
+\begin{aligned}
+& 2 \mathrm{SO}_2(\mathrm{~g})+\mathrm{O}_2(\mathrm{~g}) \rightleftharpoons 2 \mathrm{SO}_3(\mathrm{~g}), \\
+& \Delta \mathrm{H}=-57.2 \mathrm{~kJ} \mathrm{~mol}^{-1} \text { and } \mathrm{K}_{\mathrm{c}}=1.7 \times 10^{16}
+\end{aligned}
+$$
+Which of the following statement is INCORRECT?
+[OPTION 1]
+The equilibrium constant is large suggestive of reaction going to completion and so no catalyst is required.
+[OPTION 2]
+The equilibrium will shift in forward direction as the pressure increases.
+[OPTION 3]
+The equilibrium constant decreases as the temperature increases.
+[OPTION 4]
+The addition of inert gas at constant volume will not affect the equilibrium constant.
+[SOLUTION]
+[1]
+Equilibrium constant has no relation with catalyst. Catalyst only affects the rate of the reaction.
+Catalyst, $\mathrm{V}_2 \mathrm{O}_5$ in the given reaction, is used to speed up the reaction.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[40]
+[QUESTION]
+The half-life of a reaction is inversely proportional to the square of the initial concentration of the reactant. Then the order of the reaction is
+[OPTION 1]
+0
+[OPTION 2]
+1
+[OPTION 3]
+2
+[OPTION 4]
+3
+[SOLUTION]
+[4]
+$\mathrm{t}_{1 / 2} \propto \frac{1}{\mathrm{a}^2}$
+We know that $t_{1 / 2} \propto \frac{1}{a^{n-1}}$ i.e. $\mathrm{n}=3$
+Thus reaction is of $3^{\text {rd }}$ order.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[41]
+[QUESTION]
+A galvanic cell is set up from electrodes $A$ and $B$ Electrode $A: \mathrm{Cr}_2 \mathrm{O}_7^{2-} / \mathrm{Cr}^{3+}, E_{\text {red }}^{\circ}=+1.33 \mathrm{~V}$ Electrode $B: \mathrm{Fe}^{3+} / \mathrm{Fe}^{2+}, \quad E_{\text {red }}^{\circ}=0.77 \mathrm{~V}$ Which of the following statements is false ?
+[OPTION 1]
+Standard e.m.f of the cell is $0.56 \mathrm{~V}$
+[OPTION 2]
+Current will flow from electrode $A$ to $B$ in the external circuit
+[OPTION 3]
+$A$ will act as cathode and have positive polarity
+[OPTION 4]
+None of these
+[SOLUTION]
+[4]
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[42]
+[QUESTION]
+Keto-enol tautomerism is observed in :
+[OPTION 1]
+![original image](https://cdn.mathpix.com/snip/images/TUwXwawalWTHXApHqjU2bsz4hGd-IpfQM5uxwG7KPz8.original.fullsize.png)
+[OPTION 2]
+![original image](https://cdn.mathpix.com/snip/images/-wlsdeFSQmBMBmq0N-IPUDyejOMsX5Z5iQn0SoyrHw4.original.fullsize.png)
+[OPTION 3]
+![original image](https://cdn.mathpix.com/snip/images/1I-L9SMtzCdqi3VCNmDMrFwR5pFxg5mkt0i1t8fEz4s.original.fullsize.png)
+[OPTION 4]
+ Both (1) and (2)
+[SOLUTION]
+[4]
+Keto-enol tautomerism is shown by carbonyl compounds having $\alpha$-hydrogen atom.
+(A) ![original image](https://cdn.mathpix.com/snip/images/k-22DYsSxPTbyqEpN-88TxJfZMMu9GGHPvu1nMS0yyU.original.fullsize.png)
+(B) ![original image](https://cdn.mathpix.com/snip/images/SELqYvgHoZy9spm9HFwLmaSTt09xuLiVRSa2LIsZDbE.original.fullsize.png)
+(C) ![original image](https://cdn.mathpix.com/snip/images/8ORsRzAKSlrEsdAks3qaY4ffTdutxungwR45vC9mDpg.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[43]
+[QUESTION]
+In a set of reactions, ethylbenzene yield a product D.
+![original image](https://cdn.mathpix.com/snip/images/ANCc9A1lPkY3y7fT1Mj0Gfv4wQ_TMdFZjEuf1VdK8_c.original.fullsize.png)
+[OPTION 1]
+![original image](https://cdn.mathpix.com/snip/images/6le4MoE3eW-iBt9n5V0RMmAOs_Fxi1_xGQO-4IfqtOM.original.fullsize.png)
+[OPTION 2]
+![original image](https://cdn.mathpix.com/snip/images/bMoY1uzxqmG5Bt09-F2VddNU2FN2WNc2KQPpPw3uMpI.original.fullsize.png)
+[OPTION 3]
+![original image](https://cdn.mathpix.com/snip/images/bwa0dhe9hKvJ4zr_iMLl7rjHiyC7WOwrSE3foQTyyKg.original.fullsize.png)
+[OPTION 4]
+![original image](https://cdn.mathpix.com/snip/images/qSir5iO52It3iGA0tw4BuQZxCUEFf9BcDjweCSQaeF4.original.fullsize.png)
+[SOLUTION]
+[4]
+![original image](https://cdn.mathpix.com/snip/images/7xZKy2SU-o0fpb0RlJfiyAMcsMOJ9OujctPJBna1dvE.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[44]
+[QUESTION]
+What will be the final product in the following reaction sequence -
+$$
+\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{CN} \stackrel{\mathrm{H}^{+} / \mathrm{H}_2 \mathrm{O}}{\longrightarrow} \mathrm{A} \stackrel{\mathrm{NH}_3}{\longrightarrow} \mathrm{B} \stackrel{\mathrm{NaOBr}}{\longrightarrow} \mathrm{C}
+$$
+[OPTION 1]
+$\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{CONH}_2$
+[OPTION 2]
+$\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{COBr}$
+[OPTION 3]
+$\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{NH}_2$
+[OPTION 4]
+$\mathrm{CH}_3 \mathrm{CH}_2 \mathrm{CH}_2 \mathrm{NH}_2$
+[SOLUTION]
+[3]
+![original image](https://cdn.mathpix.com/snip/images/OUwxXT3uOGBTfY8xJr_6dx8Yla57vFidUskGw5cVx4A.original.fullsize.png)
+![original image](https://cdn.mathpix.com/snip/images/l959mULURn32JMZTx-dC2yQgCBm72kuHw9DdASKe9JI.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[45]
+[QUESTION]
+In a set of reactions acetic acid yielded a product D.
+![original image](https://cdn.mathpix.com/snip/images/sE9Og7JcJjy9ha4KxBV8NvgPmqn_wZFZRfLChYQPxJg.original.fullsize.png)
+$$
+\text { The structure of (d) would be - }
+$$
+[OPTION 1]
+![original image](https://cdn.mathpix.com/snip/images/PUB6nfliFK89sC_NTOWrSXdV05jZhXT6FfabWht-9AQ.original.fullsize.png)
+[OPTION 2]
+![original image](https://cdn.mathpix.com/snip/images/bAETFZlheVWrrlmAfvczCxFPRG48Rjix_egqu6MNL5o.original.fullsize.png)
+[OPTION 3]
+![original image](https://cdn.mathpix.com/snip/images/Ct17lz64wMhXvgdBqI9IYOc7PkoOJ86CbYbkcEGq1MA.original.fullsize.png)
+[OPTION 4]
+![original image](https://cdn.mathpix.com/snip/images/2CWVZOrIVgMEwulgkBIlFCZZHGICg3Qa99DXN1D5Tkg.original.fullsize.png)
+[SOLUTION]
+[4]
+![original image](https://cdn.mathpix.com/snip/images/2mlqZjVWuyPPiGdvRhyOG5GSal3pxvz9D6EaNFUNGhI.original.fullsize.png)
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[46]
+[QUESTION]
+In fructose, the possible optical isomers are
+[OPTION 1]
+12
+[OPTION 2]
+8
+[OPTION 3]
+16
+[OPTION 4]
+4
+[SOLUTION]
+[2]
+Fructose has 3 chiral centres and hence number of optical isomers are $2^3=8$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[47]
+[QUESTION]
+The position of both, an electron and a helium atom is known within $1.0 \mathrm{~nm}$. Further the momentum of the electron is known within 5.0 $\times 10^{-26} \mathrm{~kg} \mathrm{~ms}^{-1}$. The minimum uncertainty in the measurement of the momentum of the helium atom is
+[OPTION 1]
+$50 \mathrm{~kg} \mathrm{~ms}^{-1}$
+[OPTION 2]
+$80 \mathrm{~kg} \mathrm{~ms}^{-1}$
+[OPTION 3]
+$8.0 \times 10^{-26} \mathrm{~kg} \mathrm{~ms}^{-1}$
+[OPTION 4]
+$5.0 \times 10^{-26} \mathrm{kgms}^{-1}$
+[SOLUTION]
+[4]
+By Heisenberg uncertainty Principle
+$\Delta x \times \Delta p=\frac{h}{4 \pi}$ (which is constant)
+As $\Delta \mathrm{x}$ for electron and helium atom is same thus momentum of electron and helium will also be same therefore the momentum of helium atom is equal to $5 \times 10^{-26} \mathrm{~kg}$. m. $\mathrm{s}^{-1}$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[48]
+[QUESTION]
+The value of $\log _{10} K$ for a reaction $\mathrm{A} \rightleftharpoons \mathrm{B}$ is
+(Given : $\Delta_{\mathrm{r}} \mathrm{H}_{298 \mathrm{O}}^{\circ}=-54.07 \mathrm{~kJ} \mathrm{~mol}^{-1}$,
+$\Delta_{\mathrm{r}} \mathrm{S}_{298 \mathrm{~K}}^{\circ}=10 \mathrm{JK}^{-1} \mathrm{~mol}^{-1}$ and $\mathrm{R}=8.314 \mathrm{JK}^{-1}$
+$\mathrm{mol}^{-1}$;
+$2.303 \times 8.314 \times 298=5705)$
+[OPTION 1]
+5
+[OPTION 2]
+10
+[OPTION 3]
+95
+[OPTION 4]
+100
+[SOLUTION]
+[2]
+$$
+\begin{aligned}
+& \text {  } \mathrm{A} \rightleftharpoons \mathrm{B} \\
+& \Delta G^{\circ}=\Delta H^{\circ}-\mathrm{T} \Delta S^{\circ} \\
+& \Delta G^{\circ}=-2.303 \mathrm{RT} \log _{10} \mathrm{~K} \\
+& -2.303 \mathrm{RT} \log _{10} \mathrm{~K}=\Delta H^{\circ}-T \Delta S^{\circ} \\
+& 2.303 \mathrm{RT} \log _{10} \mathrm{~K}=T \Delta S^{\circ}-\Delta H^{\circ} \\
+& \log _{10} \mathrm{~K}=\frac{T \Delta S^{\circ}-\Delta H^{\circ}}{2.303 R T} \\
+& =\frac{298 \times 10+54.07 \times 1000}{2.303 \times 8.314 \times 298} \\
+& =9.998 \approx 10 \\
+&
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[49]
+[QUESTION]
+IfC(s) $+\mathrm{O}_2(\mathrm{~g}) \longrightarrow \mathrm{CO}_2(\mathrm{~g}) ; \Delta \mathrm{H}=\mathrm{R}$ and $\mathrm{CO}(\mathrm{g})+\frac{1}{2} \mathrm{O}_2(\mathrm{~g}) \longrightarrow \mathrm{CO}_2(\mathrm{~g}) ; \Delta \mathrm{H}=\mathrm{S}$, then heat of formation of $\mathrm{CO}$ is:
+[OPTION 1]
+$\mathrm{R}+\mathrm{S}$
+[OPTION 2]
+$\mathrm{R}-\mathrm{S}$
+[OPTION 3]
+$\mathrm{R} \times \mathrm{S}$
+[OPTION 4]
+$\mathrm{S}-\mathrm{R}$
+[SOLUTION]
+[2]
+Let, $\mathrm{C}(\mathrm{s})+\mathrm{O}_2(\mathrm{~g}) \longrightarrow \mathrm{CO}_2(\mathrm{~g}) ; \Delta \mathrm{H}=\mathrm{R}$ and $\mathrm{CO}(\mathrm{g})+\frac{1}{2} \mathrm{O}_2(\mathrm{~g}) \longrightarrow \mathrm{CO}_2(\mathrm{~g}) ; \Delta \mathrm{H}=\mathrm{S}$ (ii) Subtrācting ęu. (i) from èu (ii), wê get $\mathrm{C}(\mathrm{s})+\frac{1}{2} \mathrm{O}_2(\mathrm{~g}) \longrightarrow \mathrm{CO}(\mathrm{g}) ; \Delta \mathrm{H}=\mathrm{R}-\mathrm{S}$ Hence, heat of formation of $\mathrm{CO}=\mathrm{R}-\mathrm{S}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[50]
+[QUESTION]
+Which of the following compounds does not follow Markownikoff's law?
+[OPTION 1]
+$\mathrm{CH}_3 \mathrm{CH}=\mathrm{CH}_2$
+[OPTION 2]
+$\mathrm{CH}_2 \mathrm{CHCl}$
+[OPTION 3]
+$\mathrm{CH}_3 \mathrm{CH}=\mathrm{CHCH}_3$
+[OPTION 4]
+None
+[SOLUTION]
+[3]
+Both the doubly bonded carbon atoms are identical.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[51]
+[QUESTION]
+The value of $c$ in Rolle's Theorem for the function $f(x)=e^x \sin x, x \in[0, \pi]$ is
+[OPTION 1]
+$\frac{\pi}{6}$
+[OPTION 2]
+$\frac{\pi}{4}$
+[OPTION 3]
+$\frac{\pi}{2}$
+[OPTION 4]
+$\frac{3 \pi}{4}$
+[SOLUTION]
+[4]
+Since Rolle's theorem is satisfied
+$$
+\begin{aligned}
+& \therefore \mathrm{f}^{\prime}(\mathrm{c})=0 \Rightarrow \mathrm{e}^{\mathrm{c}} \sin \mathrm{c}+\mathrm{e}^{\mathrm{c}} \cos \mathrm{c}=0 \\
+& \Rightarrow \mathrm{e}^{\mathrm{c}}\{\sin \mathrm{c}+\cos \mathrm{c}\}=0 \\
+& \therefore \sin \mathrm{c}+\cos \mathrm{c}=0 \quad\left(\because \mathrm{e}^{\mathrm{c}} \neq 0\right) \\
+& \Rightarrow \tan \mathrm{c}=-1 \Rightarrow \mathrm{c}=\tan ^{-1}(-1)=\pi-\frac{\pi}{4}=\frac{3 \pi}{4}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[52]
+[QUESTION]
+The equations $2 x+3 y+4=0 ; 3 x+4 y+6=0$ and $4 x+5 y+8=0$ are
+[OPTION 1]
+consistent with unique solution
+[OPTION 2]
+inconsistent
+[OPTION 3]
+consistent with infinitely many solutions
+[OPTION 4]
+None of the above
+[SOLUTION]
+[1]
+Consider first two equations :
+$2 x+3 y=-4$ and $3 x+4 y=-6$
+We have $\Delta=\left|\begin{array}{ll}2 & 3 \\ 3 & 4\end{array}\right|=-1 \neq 0$
+$$
+\Delta_{\mathrm{x}}=\left|\begin{array}{ll}
+-4 & 3 \\
+-6 & 4
+\end{array}\right|=2 \quad \text { and } \quad \Delta_{\mathrm{y}}=\left|\begin{array}{ll}
+2 & -4 \\
+3 & -6
+\end{array}\right|=0
+$$
+
+$$
+\therefore \mathrm{x}=-2 \text { and } \mathrm{y}=0
+$$
+Now this solution satisfies all the equations, so the equations are consistent with unique solution.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[53]
+[QUESTION]
+The shortest distance between the lines $x=y+2=6 z-6$ and $x+1=2 y=-12 z$ is
+[OPTION 1]
+$\frac{1}{2}$
+[OPTION 2]
+2
+[OPTION 3]
+1
+[OPTION 4]
+$\frac{3}{2}$
+[SOLUTION]
+[2]
+The lines are $\frac{x}{6}=\frac{y+2}{6}=\frac{z-1}{1}$ and $\frac{x+1}{12}=\frac{y}{6}=\frac{z}{-1}$
+Here, $\vec{a}_1=-2 \hat{j}+\hat{k}, \vec{b}_1=6 \hat{i}+6 \hat{j}+\hat{k}, \vec{a}_2=-\hat{i}$,
+$$
+\begin{aligned}
+& \vec{b}_2=12 \hat{i}+6 \hat{j}-\hat{k} \\
+& \vec{b}_1 \times \vec{b}_2=\left|\begin{array}{ccc}
+\hat{i} & \hat{j} & k \\
+6 & 6 & 1 \\
+12 & 6 & -1
+\end{array}\right|=-12 \hat{i}+18 \hat{j}-36 \hat{k}
+\end{aligned}
+$$
+Shortest distance $=\frac{\left|\left(\overrightarrow{\mathrm{a}}_2-\overrightarrow{\mathrm{a}}_1\right) \cdot\left(\overrightarrow{\mathrm{b}}_1-\overrightarrow{\mathrm{b}}_2\right)\right|}{\left|\overrightarrow{\mathrm{b}}_1 \times \overrightarrow{\mathrm{b}}_2\right|}$
+
+$$
+\begin{aligned}
+& =\frac{|(-\hat{i}+2 \hat{j}-\hat{k}) \cdot(-12 i+18 \hat{j}-36 \hat{k})|}{\sqrt{(-12)^2+(18)^2+(-36)^2}} \\
+& =\frac{|+12+36+36|}{\sqrt{1764}}=\frac{84}{42}=2
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[54]
+[QUESTION]
+If the tangent at $P(1,1)$ on $y^2=x(2-x)^2$ meets the curve again at $Q$, then $Q$ is
+[OPTION 1]
+$(2,2)$
+[OPTION 2]
+$(-1,-2)$
+[OPTION 3]
+$\left(\frac{9}{4}, \frac{3}{8}\right)$
+[OPTION 4]
+None of these
+[SOLUTION]
+[3]
+$$
+\begin{aligned}
+& \text {  } y^2=x(2-x)^2 \Rightarrow y^2=x^3-4 x^2+4 x \\
+& \Rightarrow 2 y \frac{d y}{d x}=3 x^2-8 x+4 \Rightarrow \frac{d y}{d x}=\frac{3 x^2-8 x+4}{2 y} \\
+& \Rightarrow\left[\frac{d y}{d x}\right]_P=\frac{3-8+4}{2}=-\frac{1}{2}
+\end{aligned}
+$$
+$\therefore$ Equation of tangent at $\mathrm{P}$ is: $\mathrm{y}-1=-\frac{1}{2}(\mathrm{x}-1)$
+$$
+\Rightarrow \mathrm{x}+2 \mathrm{y}-3=0
+$$
+Using $y=\frac{3-x}{2}$ in (i),
+we get: $\left(\frac{3-x}{2}\right)^2=x^3-4 x^2+4 x$
+$$
+\Rightarrow 4 x^3-17 x^2+22 x-9=0
+$$
+which has two roots 1,1
+(Because of (ii) being tangent at $(1,1)$ ).
+Sum of 3 roots $=\frac{17}{4} \therefore 3$ rd root $=\frac{17}{4}-2=\frac{9}{4}$
+
+$$
+\text { Then, } \mathrm{y}=\frac{3-\frac{9}{4}}{2}=\frac{3}{8} \therefore \mathrm{Q} \text { is }\left(\frac{9}{4}, \frac{3}{8}\right)
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[55]
+[QUESTION]
+If $f(x)=x+\frac{x}{1+x}+\frac{x}{(1+x)^2}+\ldots$ to $\infty$, then at $\mathrm{x}=0, \mathrm{f}(\mathrm{x})$
+[OPTION 1]
+has no limit
+[OPTION 2]
+is discontinuous
+[OPTION 3]
+is continuous but not differentiable
+[OPTION 4]
+is differentiable
+[SOLUTION]
+[2]
+For $\mathrm{x} \neq 0$, we have,
+$$
+f(x)=x+\frac{x / 1+x}{1-\frac{1}{1+x}}=x+\frac{x / 1+x}{x / 1+x}=x+1
+$$
+For $x=0, f(x)=0$. Thus, $f(x)=\left\{\begin{array}{cc}x+1, & x \neq 0 \\ 0, & x=0\end{array}\right.$ Clearly, $\lim _{x \rightarrow 0^{-}} f(x)=\lim _{x \rightarrow 0^{+}} f(x)=1 \neq f(0)$.
+So, $\mathrm{f}(\mathrm{x})$ is discontinuous and hence not differentiable at $\mathrm{x}=0$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[56]
+[QUESTION]
+Radius of the circle $(x+5)^2+(y-3)^2=36$ is
+[OPTION 1]
+2
+[OPTION 2]
+3
+[OPTION 3]
+6
+[OPTION 4]
+5
+[SOLUTION]
+[3]
+Comparing the equation of the circle $(x+5)^2+(y-3)^2=36$
+with $(x-h)^2+(y-k)^2=r^2$
+$\therefore \quad-h=5$ or $h=-5, k=3, r^2=36 \Rightarrow r=6$
+$\therefore \quad$ Centre of the circle is $(-5,3)$ and radius $=6$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[57]
+[QUESTION]
+If $\vec{a}=2 \hat{i}-2 \hat{j}+\hat{k}$ and $\vec{c}=-\hat{i}+2 \hat{k}$ then $|\overrightarrow{\mathrm{c}}|$. $\vec{a}$ is equal to :
+[OPTION 1]
+$2 \sqrt{5} \hat{i}+2 \sqrt{5} \hat{j}+\sqrt{5} \hat{k}$
+[OPTION 2]
+$2 \sqrt{5} \hat{i}-2 \sqrt{5} \hat{j}+\sqrt{5} \hat{k}$
+[OPTION 3]
+$\sqrt{5} \hat{i}+\sqrt{5} \hat{j}+\sqrt{5} \hat{k}$
+[OPTION 4]
+$\sqrt{5} \hat{i}+2 \sqrt{5} \hat{j}+\sqrt{5} \hat{k}$
+[SOLUTION]
+[2]
+If $\vec{a}=2 \hat{i}-2 \hat{j}+\hat{k}$ and $\vec{c}=-\hat{i}+2 \hat{k}$
+$$
+\begin{aligned}
+& |\overrightarrow{\mathrm{c}}|=\sqrt{(-1)^2+2^2}=\sqrt{1+4}=\sqrt{5} \\
+& |\vec{c}| \cdot \vec{a}=\sqrt{5} \cdot(2 \hat{i}-2 \hat{j}+\hat{k}) \\
+& \therefore|\vec{c}| \cdot \vec{a}=2 \sqrt{5} \hat{i}-2 \sqrt{5} \hat{j}+\sqrt{5} \hat{k}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[58]
+[QUESTION]
+If $(-4,5)$ is one vertex and $7 x-y+8=0$ is one diagonal of a square, then the equation of second diagonal is
+[OPTION 1]
+$x+3 y=21$
+[OPTION 2]
+$2 x-3 y=7$
+[OPTION 3]
+$x+7 y=31$
+[OPTION 4]
+$2 x+3 y=21$
+[SOLUTION]
+[3]
+One vertex of square is $(-4,5)$ and equation of one diagonal is $7 x-y+8=0$
+Diagonal of a square are perpendicular and bisect each other
+Let the equation of the other diagonal be $y=m x$ $+\mathrm{c}$ where $\mathrm{m}$ is the slope of the line and $\mathrm{c}$ is the $y-$ intercept.
+Since this line passes through $(-4,5)$
+$$
+\therefore \quad 5=-4 \mathrm{~m}+\mathrm{c}
+$$
+Since this line is at right angle to the line
+$$
+7 x-y+8=0 \text { or } y=7 x+8 \text {, having slope }=7 \text {, }
+$$
+$$
+\therefore \quad 7 \times \mathrm{m}=-1 \text { or } \mathrm{m}=\frac{-1}{7}
+$$
+Putting this value of $m$ in equation (i) we get
+$$
+5=-4 \times\left(\frac{-1}{7}\right)+\mathrm{c}
+$$
+or $5=\frac{4}{7}+\mathrm{c} \quad$ or $\quad \mathrm{c}=5-\frac{4}{7}=\frac{31}{7}$
+Hence equation of the other diagonal is
+$$
+y=-\frac{1}{7} \mathrm{x}+\frac{31}{7} \text { or } 7 \mathrm{y}=-\mathrm{x}+31
+$$
+or $x+7 y-31=0$ or $x+7 y=31$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[59]
+[QUESTION]
+$\mathrm{p} \Rightarrow \mathrm{q}$ can also be written as
+[OPTION 1]
+$\mathrm{p} \Rightarrow \sim \mathrm{q}$
+[OPTION 2]
+$\sim$ p $\vee \mathrm{q}$
+[OPTION 3]
+$\sim \mathrm{q} \Rightarrow \sim \mathrm{p}$
+[OPTION 4]
+None of these
+[SOLUTION]
+[2]
+$\mathrm{p} \Rightarrow \mathrm{q} \equiv \sim \mathrm{p} \vee \mathrm{q}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[60]
+[QUESTION]
+Let $\int \frac{x^{1 / 2}}{\sqrt{1-x^3}} d x=\frac{2}{3} \operatorname{gof}(x)+C$, then
+[OPTION 1]
+$\mathrm{f}(\mathrm{x})=\sqrt{\mathrm{x}}$
+[OPTION 2]
+$\mathrm{f}(\mathrm{x})=\mathrm{x}^{3 / 2}$ and $\mathrm{g}(\mathrm{x})=\sin ^{-1} \mathrm{x}$
+[OPTION 3]
+$f(x)=x^{2 / 3}$
+[OPTION 4]
+None of these
+[SOLUTION]
+[2]
+Put $\mathrm{x}^{3 / 2}=\mathrm{t} \Rightarrow \frac{3}{2} \mathrm{x}^{1 / 2} \mathrm{dx}=\mathrm{dt}$
+$\therefore$ integral is
+$$
+\int \frac{\frac{2}{3} \mathrm{dt}}{\sqrt{1-\mathrm{t}^2}}=\frac{2}{3} \sin ^{-1} \mathrm{t}+\mathrm{C}=\frac{2}{3} \sin ^{-1}\left(\mathrm{x}^{3 / 2}\right)+\mathrm{C}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[61]
+[QUESTION]
+Which one of the following is an infinite set ?
+[OPTION 1]
+The set of human beings on the earth
+[OPTION 2]
+The set of water drops in a glass of water
+[OPTION 3]
+The set of trees in a forest
+[OPTION 4]
+The set of all primes
+[SOLUTION]
+[4]
+In the given sets, the set of all primes is an infinite set.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[62]
+[QUESTION]
+The domain of the function
+$\sqrt{x^2-5 x+6}+\sqrt{2 x+8-x^2}$ is
+[OPTION 1]
+$[2,3]$
+[OPTION 2]
+$[-2,4]$
+[OPTION 3]
+$[-2,2] \cup[3,4]$
+[OPTION 4]
+$[-2,1] \cup[2,4]$
+[SOLUTION]
+[3]
+$f(x)=\sqrt{(x-2)(x-3)}+\sqrt{-(x-4)(x+2)}$
+The first part is real outside $(2,3)$ and the second is real in $[-2,4]$ so that the domain is $[-2,2] \cup[3,4]$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[63]
+[QUESTION]
+Area bounded by the curve $y=\log x$ and the coordinate axes is
+[OPTION 1]
+2
+[OPTION 2]
+1
+[OPTION 3]
+5
+[OPTION 4]
+$2 \sqrt{2}$
+[SOLUTION]
+[4]
+Observing the graph of $\log x$, we find that the required area lies below $\mathrm{X}$-axis between $\mathrm{x}=0$ and $x=1$.
+![original image](https://cdn.mathpix.com/snip/images/6EicdbbUfC_y7ackw2qLGjIG23elDUpL7vvn-V1EQ10.original.fullsize.png)
+$$
+\begin{aligned}
+& \text { Sorequired area }=\left|\int_0^1 \log x d x\right|=\left.|(x \log x-x)|\right|_0 ^1 \\
+& =|-1|=1
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[64]
+[QUESTION]
+The angle of intersection to the curve $y=x^2$, $6 y=7-x^3$ at $(1,1)$ is :
+[OPTION 1]
+$\frac{\pi}{2}$
+[OPTION 2]
+$\frac{\pi}{4}$
+[OPTION 3]
+$\frac{\pi}{3}$
+[OPTION 4]
+$\pi$
+[SOLUTION]
+[1]
+Let $m_1$ and $m_2$ be slope of curve $y=x^2$ and $6 y=7-x^3$ respectively.
+Now, $y=x^2 \Rightarrow \frac{d y}{d x}=2 x$
+$$
+\Rightarrow\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)_{(1,1)}=2 \text { i.e. } \mathrm{m}_1=2
+$$
+and $6 y=7-x^3 \Rightarrow 6 \frac{d y}{d x}=-3 x^2$
+$\Rightarrow \frac{\mathrm{dy}}{\mathrm{dx}}=-\frac{3}{6} \mathrm{x}^2=-\frac{1}{2} \mathrm{x}^2$
+$\Rightarrow\left(\frac{\mathrm{dy}}{\mathrm{dx}}\right)_{(1,1)}=-\frac{1}{2}(1)^2=-\frac{1}{2}$
+$\therefore \mathrm{m}_2=-\frac{1}{2} \therefore \mathrm{m}_1 \mathrm{~m}_2=2 .-\frac{1}{2}=-1$
+$\therefore \quad$ Angle of intersection is $90^{\circ}$ i.e. $\frac{\pi}{2}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[65]
+[QUESTION]
+Angle formed by the positive Y-axis and the tangent to $y=x^2+4 x-17$ at $\left(\frac{5}{2}, \frac{-3}{4}\right)$ is
+[OPTION 1]
+$\tan ^{-1} 9$
+[OPTION 2]
+$\frac{\pi}{2}-\tan ^{-1} 9$
+[OPTION 3]
+$\frac{\pi}{2}+\tan ^{-1} 9$
+[OPTION 4]
+$\frac{\pi}{2}$
+[SOLUTION]
+[2]
+![original image](https://cdn.mathpix.com/snip/images/HhI_Va4pMyX34Q4T9ZoVRvHbU9te1pNQx7bCdLYAElE.original.fullsize.png)
+$y=x^2+4 x+4-4-17$
+$y=(x+2)^2-21 \Rightarrow$ Vertex is $(-2,-21)$
+Also $y=x^2+4 x-17 \Rightarrow \frac{d y}{d x}=2 x+4$
+$\Rightarrow$ Slope of tangent at $\left(\frac{5}{2},-\frac{3}{4}\right)$
+$m=\frac{d y}{d x}=2 \times \frac{5}{2}+4=9 ; \theta=\tan ^{-1} 9$
+$\therefore$ angle by y-axis $=\frac{\pi}{2}-\tan ^{-1} 9=\cot ^{-1} 9$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[66]
+[QUESTION]
+The value of $(1+i)^4\left(1+\frac{1}{i}\right)^4$ is
+[OPTION 1]
+12
+[OPTION 2]
+2
+[OPTION 3]
+8
+[OPTION 4]
+16
+[SOLUTION]
+[4]
+$$
+\text {  }(1+i)^4 \times\left(1+\frac{1}{i}\right)^4=(1+i)^4 \times(1-i)^4=2^4
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[67]
+[QUESTION]
+The relation $\mathrm{R}$ defined on the set $\mathrm{A}=\{1,2,3$, $4,5\}$ by $R=\left\{(x, y):\left|x^2-y^2\right|<16\right\}$ is given by
+[OPTION 1]
+$\{(1,1),(2,1),(3,1),(4,1),(2,3)\}$
+[OPTION 2]
+$\{(2,2),(3,2),(4,2),(2,4)\}$
+[OPTION 3]
+$\{(3,3),(4,3),(5,4),(3,4)\}$
+[OPTION 4]
+None of these
+[SOLUTION]
+[4]
+We have $\mathrm{R}=\left\{(\mathrm{x}, \mathrm{y}):\left|\mathrm{x}^2-\mathrm{y}^2\right|<16\right\}$
+Let $\mathrm{x}=1,\left|\mathrm{x}^2-\mathrm{y}^2\right|<16 \Rightarrow\left|1-\mathrm{y}^2\right|<16$
+$\Rightarrow\left|y^2-1\right|<16 \Rightarrow y=1,2,3,4$
+Let $x=2,\left|x^2-y^2\right|<16 \Rightarrow\left|4-y^2\right|<16$
+$\Rightarrow\left|y^2-4\right|<16 \Rightarrow y=1,2,3,4$
+Let $x=3,\left|x^2-y^2\right|<16 \Rightarrow\left|9-y^2\right|<16$
+$\Rightarrow\left|y^2-9\right|<16 \Rightarrow y=1,2,3,4$
+Let $x=4,\left|x^2-y^2\right|<16 \Rightarrow\left|16-y^2\right|<16$
+$\Rightarrow\left|y^2-16\right|<16 \Rightarrow y=1,2,3,4,5$
+Let $\mathrm{x}=5,\left|\mathrm{x}^2-\mathrm{y}^2\right|<16 \Rightarrow\left|25-\mathrm{y}^2\right|<16$
+$\Rightarrow\left|\mathrm{y}^2-25\right|<16 \Rightarrow \mathrm{y}=4,5$
+$\therefore \quad \mathrm{R}=\{(1,1),(1,2),(1,3),(1,4),(2,1),(2$,
+$2),(2,3),(2,4),(3,1),(3,2),(3,3),(3,4),(4,1)$,
+$(4,2),(4,3),(4,4),(4,5),(5,4),(5,5)\}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[68]
+[QUESTION]
+$\int \frac{2 d x}{\left(e^x+e^{-x}\right)^2}=$
+[OPTION 1]
+$\frac{-\mathrm{e}^{-\mathrm{x}}}{\left(\mathrm{e}^{\mathrm{x}}+\mathrm{e}^{-\mathrm{x}}\right)}+\mathrm{C}$
+[OPTION 2]
+$\frac{-1}{\left(\mathrm{e}^{\mathrm{x}}+\mathrm{e}^{-\mathrm{x}}\right)}+\mathrm{C}$
+[OPTION 3]
+$\frac{1}{\left(\mathrm{e}^{\mathrm{x}}+1\right)^2}+\mathrm{C}$
+[OPTION 4]
+$\frac{1}{\left(\mathrm{e}^{\mathrm{x}}+\mathrm{e}^{-\mathrm{x}}\right)}+\mathrm{C}$
+[SOLUTION]
+[1]
+$$
+\begin{aligned}
+& \text {  } \int \frac{2 \mathrm{dx}}{\left(\mathrm{e}^{\mathrm{x}}+\mathrm{e}^{-\mathrm{x}}\right)^2}=\int \frac{2 \mathrm{e}^{2 \mathrm{x}}}{\left(\mathrm{e}^{2 \mathrm{x}}+1\right)^2} \mathrm{dx} \\
+& =-\frac{1}{\left(\mathrm{e}^{2 \mathrm{x}}+1\right)}+\mathrm{c}=-\frac{\mathrm{e}^{-\mathrm{x}}}{\mathrm{e}^{\mathrm{x}}+\mathrm{e}^{-\mathrm{x}}}+\mathrm{c}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[69]
+[QUESTION]
+The value of $\tan ^{-1}(1)+\tan ^{-1}(0)+\tan ^{-1}(2)+\tan ^{-1}(3)$ is equal to
+[OPTION 1]
+$\pi$
+[OPTION 2]
+$\frac{5 \pi}{4}$
+[OPTION 3]
+$\frac{\pi}{2}$
+[OPTION 4]
+None of these
+[SOLUTION]
+[1]
+$$
+\begin{aligned}
+& \text {  } \tan ^{-1}(1)+\tan ^{-1}(0)+\tan ^{-1}(2)+\tan ^{-1}(3) \\
+& =\frac{\pi}{4}+\pi+\tan ^{-1}\left(\frac{2+3}{1-2.3}\right) \quad(\text { as } 2.3>1) \\
+& =\frac{5 \pi}{4}+\tan ^{-1}(-1)=\frac{5 \pi}{4}-\frac{\pi}{4}=\pi
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[70]
+[QUESTION]
+In a culture the bacteria count is $1,00,000$. The number is increased by $10 \%$ in 2 hours. In how many hours will the count reach 2,00,000 if the rate of growth of bacteria is proportional to the number present.
+[OPTION 1]
+$\frac{2}{\log \frac{11}{10}}$
+[OPTION 2]
+$\frac{2 \log 2}{\log \left(\frac{11}{10}\right)}$
+[OPTION 3]
+$\frac{\log 2}{\log 11}$
+[OPTION 4]
+$\frac{\log 2}{\log \left(\frac{11}{10}\right)}$
+[SOLUTION]
+[2]
+Let $y$ denote the number of bacteria at any instant $t \cdot$ then according to the question
+$$
+\frac{\mathrm{dy}}{\mathrm{dt}} \alpha \mathrm{y} \Rightarrow \frac{\mathrm{dy}}{\mathrm{y}}=\mathrm{kdt}
+$$
+$\mathrm{k}$ is the constant of proportionality, taken to be + ve on integrating (i), we get
+$$
+\log y=k t+c
+$$
+$\mathrm{c}$ is a parameter. let $\mathrm{y}_0$ be the initial number of bacteria
+i.e., at $\mathrm{t}=0$ using this in (ii), $\mathrm{c}=\log \mathrm{y}_0$
+
+
+$$
+\begin{aligned}
+& \Rightarrow \quad \log \mathrm{y}=\mathrm{kt}+\log \mathrm{y}_0 \Rightarrow \log \frac{\mathrm{y}}{\mathrm{y}_0}=\mathrm{kt} \\
+& \mathrm{y}=\left(\mathrm{y}_0+\frac{10}{100} \mathrm{y}_0\right)=\frac{11 \mathrm{y}_0}{10} \text {, when } \mathrm{t}=2 \\
+& \text { So, from (iii), we get } \log \frac{\frac{11 \mathrm{y}_0}{10}}{\mathrm{y}_0}=\mathrm{k} \text { (2) } \\
+& \Rightarrow \mathrm{k}=\frac{1}{2} \log \frac{11}{10}
+\end{aligned}
+$$
+Using (iv) in (iii) $\log \frac{\mathrm{y}}{\mathrm{y}_0}=\frac{1}{2}\left(\log \frac{11}{10}\right) \mathrm{t}$
+let the number of bacteria become $1,00,000$ to $2,00,000$ in $t_1$ hours. i.e., $y=2 y_0$ when $\mathrm{t}=\mathrm{t}_1$ hours. from $(\mathrm{v})$
+$$
+\log \frac{2 \mathrm{y}_0}{\mathrm{y}_0}=\frac{1}{2}\left(\log \frac{11}{10}\right) \mathrm{t}_1 \Rightarrow \mathrm{t}_1=\frac{2 \log 2}{\log \frac{11}{10}}
+$$
+Hence, the reqd. no. of hours $=\frac{2 \log 2}{\log \frac{11}{10}}$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[71]
+[QUESTION]
+What is the angle between the two straight lines $y=(2-\sqrt{3}) x+5$ and $y=(2+\sqrt{3}) x-7$ ?
+[OPTION 1]
+$60^{\circ}$
+[OPTION 2]
+$45^{\circ}$
+[OPTION 3]
+$30^{\circ}$
+[OPTION 4]
+$15^{\circ}$
+[SOLUTION]
+[1]
+Thê given linès ârè:
+$$
+y=(2-\sqrt{3}) x+5 \text { and } y=(2+\sqrt{3}) x-7
+$$
+Therefore, slope of first line $=\mathrm{m}_1=2-\sqrt{3}$ and slope of second line $=\mathrm{m}_2=2+\sqrt{3}$ $\therefore$
+$$
+\begin{aligned}
+\tan \theta & =\left|\frac{\mathrm{m}_2-\mathrm{m}_1}{1+\mathrm{m}_1 \mathrm{~m}_2}\right|=\left|\frac{2+\sqrt{3}-2+\sqrt{3}}{1+(4-3)}\right| \\
+& =\left|\frac{2 \sqrt{3}}{2}\right|=\sqrt{3}=\tan \frac{\pi}{3} \Rightarrow \theta=\frac{\pi}{3}=60^{\circ}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[72]
+[QUESTION]
+If the angle $\theta$ between the line $\frac{x+1}{1}=\frac{y-1}{2}$ $=\frac{z-2}{2}$ and the plane $2 x-y+\sqrt{\lambda} z+4=0$ is such that $\sin \theta=\frac{1}{3}$ then the value of $\lambda$ is
+[OPTION 1]
+$\frac{5}{3}$
+[OPTION 2]
+$\frac{-3}{5}$
+[OPTION 3]
+$\frac{3}{4}$
+[OPTION 4]
+$\frac{-4}{3}$
+[SOLUTION]
+[1]
+If $\theta$ is the angle between line and plane then $\left(\frac{\pi}{2}-\theta\right)$ is the angle between line and normal to plane given by
+$$
+\begin{aligned}
+& \cos \left(\frac{\pi}{2}-\theta\right)=\frac{(\hat{i}+2 \hat{j}+2 \hat{k}) \cdot(2 \hat{i}-\hat{j}+\sqrt{\lambda} \hat{k})}{3 \sqrt{4+1+\lambda}} \\
+& \cos \left(\frac{\pi}{2}-\theta\right)=\frac{2-2+2 \sqrt{\lambda}}{3 \times \sqrt{5}+\lambda} \\
+& \Rightarrow \sin \theta=\frac{2 \sqrt{\lambda}}{3 \sqrt{5}+\lambda}=\frac{1}{3} \Rightarrow 4 \lambda=5+\lambda \Rightarrow \lambda=\frac{5}{3} .
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[73]
+[QUESTION]
+The distance of the point $(-5,-5,-10)$ from the point of intersection of the line $\mathrm{r} .=2 \hat{\mathrm{i}}-\hat{\mathrm{j}}+2 \hat{\mathrm{k}}+\lambda(3 \hat{\mathrm{i}}+4 \hat{\mathrm{j}}+2 \hat{\mathrm{k}})$ and the plane $r \cdot(\hat{i}-\hat{j}+\hat{k})=5$ is
+[OPTION 1]
+13
+[OPTION 2]
+12
+[OPTION 3]
+$4 \sqrt{15}$
+[OPTION 4]
+$10 \sqrt{2}$
+[SOLUTION]
+[1]
+Given equation of line is
+$$
+\begin{gathered}
+r=2 \hat{i}-\hat{j}+2 \hat{k}+\lambda(3 \hat{i}+4 \hat{j}+2 \hat{k}) \\
+(x \hat{i}+y \hat{j}+z \hat{k})=(2+3 \lambda) \hat{i}+(-1+4 \lambda) \hat{j}+(2+2 \lambda) \hat{k}
+\end{gathered}
+$$
+Any point on the line is
+$$
+(2+3 \lambda,-1+4 \lambda, 2+2 \lambda)
+$$
+Since it also lie on the plane $r \cdot(\hat{i}-\hat{j}+\hat{k})$
+$$
+\begin{aligned}
+& \text { So, }[(2+3 \lambda) \hat{i}+(-1+4 \lambda) \hat{j}+(2+2 \lambda) \hat{k}] \cdot(\hat{i}-\hat{j}+\hat{k})=5 \\
+& \Rightarrow 2+3 \lambda+1-4 \lambda+2+2 \lambda=5 \Rightarrow \lambda=0
+\end{aligned}
+$$
+Therefore, coordinate of the point of intersection of line and plane is $(2,-1,2)$.
+$\therefore$ Distance
+$$
+\mathrm{d}=\sqrt{(2+1)^2+(-1+5)^2+(2+10)^2}=13
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[74]
+[QUESTION]
+$\int_{\log \sqrt{\pi / 2}}^{\log \sqrt{\pi}} \mathrm{e}^{2 x} \sec ^2\left(\frac{1}{3} \mathrm{e}^{2 \mathrm{x}}\right) \mathrm{dx}$ is equal to :
+[OPTION 1]
+$\sqrt{3}$
+[OPTION 2]
+$\frac{1}{\sqrt{3}}$
+[OPTION 3]
+$\frac{3 \sqrt{3}}{2}$
+[OPTION 4]
+$\frac{1}{2 \sqrt{3}}$
+[SOLUTION]
+[1]
+$\mathrm{I}=\int_{\log \sqrt{\pi / 2}}^{\log \sqrt{\pi}} \mathrm{e}^{2 \mathrm{x}} \sec ^2\left(\frac{1}{3} \mathrm{e}^{2 \mathrm{x}}\right) \mathrm{dx}$
+Put $\mathrm{e}^{2 \mathrm{x}}=\mathrm{t} \Rightarrow 2 \mathrm{e}^{2 \mathrm{x}} \mathrm{dx}=\mathrm{dt}$
+When
+$$
+\begin{aligned}
+& x=\log \sqrt{\pi / 2}, t=e^{2 \log \sqrt{\pi / 2}} \\
+& =\mathrm{e}^{\log \pi / 2}=\frac{\pi}{2} \\
+& \text { When } \mathrm{x}=\log \sqrt{\pi}, \mathrm{t}=\mathrm{e}^{2 \log \sqrt{\pi}}=\pi \\
+&
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+\therefore \mathrm{I} & =\int_{\frac{\pi}{2}}^\pi \frac{1}{2} \sec ^2\left(\frac{1}{3} \mathrm{t}\right) \mathrm{dt}=\frac{1}{2} \cdot \frac{1}{\frac{1}{3}}\left[\tan \frac{\mathrm{t}}{3} \cdot\right]_{\pi / 2}^\pi \\
+& =\frac{3}{2}\left[\tan \frac{\pi}{3}-\tan \frac{\pi}{6}\right]=\frac{3}{2}\left[\sqrt{3}-\frac{1}{\sqrt{3}}\right]=\sqrt{3}
+\end{aligned}
+$$
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[75]
+[QUESTION]
+If $\frac{|x+3|+x}{x+2}>1$, then $x \in$
+[OPTION 1]
+$(-5,-2)$
+[OPTION 2]
+$(-1, \infty)$
+[OPTION 3]
+$(-5,-2) \cup(-1, \infty)$
+[OPTION 4]
+None of these
+[SOLUTION]
+[3]
+We have $\frac{|x+3|+x}{x+2}>1$
+$$
+\Rightarrow \frac{|x+3|+x}{x+2}-1>0 \Rightarrow \frac{|x+3|-2}{x+2}>0
+$$
+Now, two cases arise :
+Case I : When $x+3 \geq 0$, i.e. $x \geq-3$. Then,
+$$
+\begin{aligned}
+& \frac{|x+3|-2}{x+2}>0 \Rightarrow \frac{x+3-2}{x+2}>0 \\
+& \Rightarrow \frac{x+1}{x+2}>0 \\
+& \Rightarrow\{(x+1)>0 \text { and } x+2>0\} \\
+& \text { or }\{x+1<0 \text { and } x+2<0\} \\
+& \Rightarrow\{x>-1 \text { and } x>-2\} \\
+& \text { or }\{x<-1 \text { and } x<-2\} \\
+& \Rightarrow x>-1 \text { or } x<-2 \\
+& \Rightarrow x \in(-1, \infty) \text { or } x \in(-\infty,-2) \\
+& \Rightarrow x \in(-3,-2) \cup(-1, \infty)[\text { Since } x \geq-3]
+\end{aligned}
+$$
+
+Case II : When $\mathrm{x}+3<0$, i.e. $\mathrm{x}<-3$
+$$
+\begin{aligned}
+& \frac{|x+3|-2}{x+2}>0 \Rightarrow \frac{-x-3-2}{x+2}>0 \\
+& \Rightarrow \frac{-(x+5)}{x+2}>0 \Rightarrow \frac{x+5}{x+2}<0 \\
+& \Rightarrow(x+5<0 \text { and } x+2>0) \text { or }(x+5>0) \\
+& \text { and } x+2<0) \\
+& \Rightarrow(x<-5 \text { and } x>-2) \text { or }(x>-5 \text { and } x<-2)
+\end{aligned}
+$$
+it is not possible.
+$$
+\Rightarrow \mathrm{x} \in(-5,-2)
+$$
+Combining (i) and (ii), the required solution is $x \in(-5,-2) \cup(-1, \infty)$.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[76]
+[QUESTION]
+<strong>Paragraph: </strong>
+Study the paragraph and answer the questions that follow.
+A training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.
+First, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.
+Once active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.
+If you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.
+<strong>Question: </strong>
+Potential F.A.S.T. members can attend less than half of F.A.S.T. drills if they
+[OPTION 1]
+complete technician-level training requirements.
+[OPTION 2]
+indicate prior real emergency experience.
+[OPTION 3]
+receive permission from their fire chief.
+[OPTION 4]
+enroll in three weekly training sessions.
+[SOLUTION]
+[2]
+See the last sentence of the fourth paragraph.
+[OBJECT END]
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[77]
+[QUESTION]
+<strong>Paragraph: </strong>
+Study the paragraph and answer the questions that follow.
+A training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.
+First, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.
+Once active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.
+If you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.
+<strong>Question: </strong>
+Which of the following is the main subject of the passage?
+[OPTION 1]
+preparing for hazmat certification
+[OPTION 2]
+the main goal of F.A.S.T.
+[OPTION 3]
+completing F.A.S.T. membership requirements
+[OPTION 4]
+learning about your department's F.A.S.T. membership
+[SOLUTION]
+[3]
+Virtually, the whole passage deals with F.A.S.T. membership requirements. The other choices are too narrow to be main ideas.
+[OBJECT END]
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[78]
+[QUESTION]
+<strong>Paragraph: </strong>
+Study the paragraph and answer the questions that follow.
+A training calendar and schedule for Fire Agency Specialties Team (F.A.S.T.) membership is available in this office to all applicants for F.A.S.T. membership. Training will take place the third week of each month. Classes will be taught on Monday afternoons, Wednesday evenings, and Saturday afternoons. So that the F.A.S.T can maintain a high level of efficiency and preparedness for emergency response situations, its members must meet certain requirements.
+First, in order for you to be considered for membership on F.A.S.T., your department must be a member of the F.A.S.T. organization, and you must have written permission from your fire chief or your department's highest ranking administrator.
+Once active, you must meet further requirements to maintain active status. These include completion of technician-level training and certification in hazardous material (hazmat) operations. In addition, after becoming a member, you must also attend a minimum of $50 \%$ of all drills conducted by F.A.S.T. and go to at least one F.A.S.T. conference. You may qualify for alternative credit for drills by proving previous experience in actual hazmat emergency response.
+If you fail to meet minimum requirements, you will be considered inactive, and the director of your team will be notified. You will be placed back on active status only after you complete the training necessary to meet the minimum requirements.
+<strong>Question: </strong>
+Applicants must be available for training
+[OPTION 1]
+three days each month.
+[OPTION 2]
+three days each week.
+[OPTION 3]
+every third month.
+[OPTION 4]
+for $50 \%$ of classes.
+[SOLUTION]
+[1]
+See the first paragraph.
+[OBJECT END]
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[79]
+[QUESTION]
+Jatin starting from a fixed point, goes $15 \mathrm{~m}$ towards North and then after turning to his right, he goes $15 \mathrm{~m}$. Then, he goes $10 \mathrm{~m}, 15 \mathrm{~m}$ and $15 \mathrm{~m}$ after turning to his left each time. How far is he from his starting point ?
+[OPTION 1]
+$15 \mathrm{~m}$
+[OPTION 2]
+$5 \mathrm{~m}$
+[OPTION 3]
+$10 \mathrm{~m}$
+[OPTION 4]
+$20 \mathrm{~m}$
+[SOLUTION]
+[3]
+Let the fixed point from where Jatin starts his journey be A. Also, his walking directions are as follows.
+![original image](https://cdn.mathpix.com/snip/images/2mix4GhR_L_IbG14V4IRHOP9HFRwtnDoWi37mPd5RI4.original.fullsize.png)
+
+$$
+\therefore \mathrm{AF}=\mathrm{AB}-\mathrm{FB}=15-5=10 \text { meters }
+$$
+So, Jatin is 10 meters away from the starting point.
+[OBJECT END]
+
+
+
+[OBJECT START]
+[SINGLE CORRECT]
+[80]
+[QUESTION]
+Examine the following statements:
+1. All members of Mohan's family are honest.
+2. Some members of Mohan's family are not employed.
+3. Some employed persons are not honest.
+4. Some honest persons are not employed.
+Which one of the following inferences can be drawn from the above statements?
+[OPTION 1]
+All members of Mohan's family are employed
+[OPTION 2]
+The employed members of Mohan's family are honest
+[OPTION 3]
+The honest members of Mohan's family are not employed
+[OPTION 4]
+The employed member of Mohan's family are not honest
+[SOLUTION]
+[2]
+F-Mohan's family members
+E- Employed members
+$\mathrm{H}$ - Honest members
+![original image](https://cdn.mathpix.com/snip/images/JlI8HW8RwyqIyFVjkgQnyvEcmm-eSnEUqszSffHOEeY.original.fullsize.png)
+Here, shaded area denotes the employed members of Mohan's family members, who are honest.
+[OBJECT END]
